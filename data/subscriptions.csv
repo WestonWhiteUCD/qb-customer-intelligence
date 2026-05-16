@@ -1,0 +1,2001 @@
+customer_id,plan,monthly_price,signup_date,cancel_date,renewal_date,churned,payment_method
+CUST_00001,Advanced,200,2025-09-25,,2026-09-25,0,paypal
+CUST_00002,Plus,85,2024-11-22,,2025-11-22,0,paypal
+CUST_00003,Simple Start,30,2025-10-24,,2026-10-24,0,credit_card
+CUST_00004,Simple Start,30,2024-06-10,,2025-06-10,0,bank_transfer
+CUST_00005,Essentials,55,2025-06-13,,2026-06-13,0,bank_transfer
+CUST_00006,Simple Start,30,2025-11-23,2026-12-18,,1,bank_transfer
+CUST_00007,Plus,85,2025-08-17,,2026-08-17,0,bank_transfer
+CUST_00008,Advanced,200,2024-09-17,,2025-09-17,0,bank_transfer
+CUST_00009,Plus,85,2024-10-31,,2025-10-31,0,credit_card
+CUST_00010,Essentials,55,2024-07-30,2025-07-04,,1,bank_transfer
+CUST_00011,Simple Start,30,2026-02-02,,2027-02-02,0,credit_card
+CUST_00012,Simple Start,30,2025-03-06,,2026-03-06,0,credit_card
+CUST_00013,Essentials,55,2025-09-09,,2026-09-09,0,bank_transfer
+CUST_00014,Advanced,200,2024-06-21,,2025-06-21,0,paypal
+CUST_00015,Advanced,200,2026-03-12,,2027-03-12,0,paypal
+CUST_00016,Plus,85,2025-05-03,,2026-05-03,0,paypal
+CUST_00017,Advanced,200,2024-10-26,,2025-10-26,0,credit_card
+CUST_00018,Essentials,55,2024-09-26,2025-01-31,,1,credit_card
+CUST_00019,Simple Start,30,2025-03-07,,2026-03-07,0,credit_card
+CUST_00020,Simple Start,30,2026-03-02,2027-02-27,,1,credit_card
+CUST_00021,Essentials,55,2026-02-01,,2027-02-01,0,paypal
+CUST_00022,Essentials,55,2024-10-27,2025-07-21,,1,credit_card
+CUST_00023,Advanced,200,2025-06-08,,2026-06-08,0,credit_card
+CUST_00024,Essentials,55,2024-09-02,,2025-09-02,0,paypal
+CUST_00025,Advanced,200,2025-04-14,,2026-04-14,0,bank_transfer
+CUST_00026,Simple Start,30,2024-09-01,,2025-09-01,0,paypal
+CUST_00027,Essentials,55,2024-06-22,2025-05-09,,1,bank_transfer
+CUST_00028,Simple Start,30,2026-01-22,2026-04-14,,1,paypal
+CUST_00029,Advanced,200,2025-08-22,,2026-08-22,0,bank_transfer
+CUST_00030,Plus,85,2026-03-16,2026-11-05,,1,bank_transfer
+CUST_00031,Advanced,200,2025-07-07,,2026-07-07,0,credit_card
+CUST_00032,Simple Start,30,2025-04-19,,2026-04-19,0,bank_transfer
+CUST_00033,Simple Start,30,2025-11-28,2026-11-24,,1,bank_transfer
+CUST_00034,Advanced,200,2024-08-07,,2025-08-07,0,paypal
+CUST_00035,Plus,85,2025-12-30,,2026-12-30,0,bank_transfer
+CUST_00036,Simple Start,30,2025-05-31,2025-10-06,,1,bank_transfer
+CUST_00037,Plus,85,2026-03-30,,2027-03-30,0,paypal
+CUST_00038,Essentials,55,2026-03-29,,2027-03-29,0,paypal
+CUST_00039,Plus,85,2025-05-29,,2026-05-29,0,paypal
+CUST_00040,Advanced,200,2025-05-20,,2026-05-20,0,bank_transfer
+CUST_00041,Advanced,200,2026-03-25,,2027-03-25,0,paypal
+CUST_00042,Plus,85,2025-07-09,,2026-07-09,0,credit_card
+CUST_00043,Essentials,55,2025-10-20,,2026-10-20,0,paypal
+CUST_00044,Simple Start,30,2025-05-02,,2026-05-02,0,credit_card
+CUST_00045,Essentials,55,2025-02-03,2026-01-09,,1,bank_transfer
+CUST_00046,Simple Start,30,2024-05-22,,2025-05-22,0,bank_transfer
+CUST_00047,Plus,85,2024-06-10,,2025-06-10,0,paypal
+CUST_00048,Simple Start,30,2024-12-19,,2025-12-19,0,bank_transfer
+CUST_00049,Plus,85,2025-11-29,,2026-11-29,0,credit_card
+CUST_00050,Essentials,55,2025-05-19,,2026-05-19,0,paypal
+CUST_00051,Simple Start,30,2025-10-10,,2026-10-10,0,bank_transfer
+CUST_00052,Advanced,200,2025-05-14,,2026-05-14,0,credit_card
+CUST_00053,Simple Start,30,2025-12-03,,2026-12-03,0,bank_transfer
+CUST_00054,Plus,85,2024-10-11,,2025-10-11,0,bank_transfer
+CUST_00055,Simple Start,30,2024-10-06,,2025-10-06,0,paypal
+CUST_00056,Plus,85,2024-07-14,,2025-07-14,0,paypal
+CUST_00057,Simple Start,30,2025-07-10,,2026-07-10,0,bank_transfer
+CUST_00058,Advanced,200,2026-03-06,,2027-03-06,0,credit_card
+CUST_00059,Simple Start,30,2025-05-25,,2026-05-25,0,paypal
+CUST_00060,Simple Start,30,2024-09-21,,2025-09-21,0,credit_card
+CUST_00061,Simple Start,30,2024-12-08,2025-03-08,,1,credit_card
+CUST_00062,Plus,85,2025-12-05,,2026-12-05,0,bank_transfer
+CUST_00063,Advanced,200,2025-01-02,,2026-01-02,0,bank_transfer
+CUST_00064,Simple Start,30,2025-07-11,2026-02-12,,1,bank_transfer
+CUST_00065,Essentials,55,2025-08-13,2025-12-24,,1,bank_transfer
+CUST_00066,Advanced,200,2025-06-15,,2026-06-15,0,credit_card
+CUST_00067,Essentials,55,2024-07-08,,2025-07-08,0,bank_transfer
+CUST_00068,Plus,85,2026-04-08,,2027-04-08,0,credit_card
+CUST_00069,Simple Start,30,2024-06-16,2025-07-17,,1,bank_transfer
+CUST_00070,Plus,85,2025-08-13,,2026-08-13,0,credit_card
+CUST_00071,Essentials,55,2024-10-22,,2025-10-22,0,paypal
+CUST_00072,Advanced,200,2024-08-26,,2025-08-26,0,credit_card
+CUST_00073,Advanced,200,2025-12-21,,2026-12-21,0,bank_transfer
+CUST_00074,Advanced,200,2025-07-28,,2026-07-28,0,paypal
+CUST_00075,Plus,85,2025-06-13,,2026-06-13,0,bank_transfer
+CUST_00076,Essentials,55,2026-03-31,,2027-03-31,0,paypal
+CUST_00077,Simple Start,30,2024-09-16,2025-03-26,,1,bank_transfer
+CUST_00078,Essentials,55,2026-02-02,,2027-02-02,0,bank_transfer
+CUST_00079,Simple Start,30,2025-07-21,,2026-07-21,0,paypal
+CUST_00080,Essentials,55,2024-08-29,,2025-08-29,0,credit_card
+CUST_00081,Plus,85,2025-12-14,,2026-12-14,0,paypal
+CUST_00082,Plus,85,2025-08-29,,2026-08-29,0,bank_transfer
+CUST_00083,Plus,85,2025-09-21,2026-03-13,,1,paypal
+CUST_00084,Essentials,55,2026-03-04,,2027-03-04,0,bank_transfer
+CUST_00085,Essentials,55,2026-02-19,,2027-02-19,0,paypal
+CUST_00086,Advanced,200,2026-01-05,,2027-01-05,0,paypal
+CUST_00087,Advanced,200,2025-04-24,,2026-04-24,0,bank_transfer
+CUST_00088,Simple Start,30,2024-08-11,2025-02-28,,1,bank_transfer
+CUST_00089,Essentials,55,2026-02-24,,2027-02-24,0,paypal
+CUST_00090,Plus,85,2024-06-18,,2025-06-18,0,paypal
+CUST_00091,Plus,85,2026-01-25,,2027-01-25,0,paypal
+CUST_00092,Essentials,55,2024-11-26,2025-09-28,,1,paypal
+CUST_00093,Plus,85,2026-04-03,,2027-04-03,0,bank_transfer
+CUST_00094,Advanced,200,2024-11-16,,2025-11-16,0,credit_card
+CUST_00095,Simple Start,30,2024-06-05,,2025-06-05,0,bank_transfer
+CUST_00096,Plus,85,2025-04-01,2026-03-30,,1,credit_card
+CUST_00097,Advanced,200,2025-11-12,,2026-11-12,0,paypal
+CUST_00098,Simple Start,30,2026-03-14,,2027-03-14,0,credit_card
+CUST_00099,Essentials,55,2025-05-09,,2026-05-09,0,bank_transfer
+CUST_00100,Essentials,55,2026-03-24,,2027-03-24,0,paypal
+CUST_00101,Essentials,55,2024-10-13,2025-08-03,,1,paypal
+CUST_00102,Essentials,55,2024-07-09,,2025-07-09,0,bank_transfer
+CUST_00103,Advanced,200,2025-03-23,,2026-03-23,0,paypal
+CUST_00104,Advanced,200,2024-08-14,,2025-08-14,0,credit_card
+CUST_00105,Simple Start,30,2024-12-08,2025-03-14,,1,bank_transfer
+CUST_00106,Essentials,55,2025-02-09,,2026-02-09,0,bank_transfer
+CUST_00107,Advanced,200,2025-06-18,,2026-06-18,0,paypal
+CUST_00108,Advanced,200,2024-10-11,,2025-10-11,0,paypal
+CUST_00109,Advanced,200,2024-05-18,,2025-05-18,0,bank_transfer
+CUST_00110,Advanced,200,2024-07-10,,2025-07-10,0,bank_transfer
+CUST_00111,Essentials,55,2024-08-21,2024-11-24,,1,bank_transfer
+CUST_00112,Advanced,200,2025-01-25,,2026-01-25,0,paypal
+CUST_00113,Simple Start,30,2024-10-12,,2025-10-12,0,bank_transfer
+CUST_00114,Advanced,200,2024-09-28,2025-01-16,,1,paypal
+CUST_00115,Plus,85,2026-02-23,,2027-02-23,0,credit_card
+CUST_00116,Advanced,200,2025-04-15,,2026-04-15,0,bank_transfer
+CUST_00117,Plus,85,2025-04-25,2025-08-11,,1,credit_card
+CUST_00118,Plus,85,2026-01-25,,2027-01-25,0,bank_transfer
+CUST_00119,Plus,85,2025-10-14,,2026-10-14,0,credit_card
+CUST_00120,Essentials,55,2025-12-21,2026-11-17,,1,bank_transfer
+CUST_00121,Simple Start,30,2024-10-18,,2025-10-18,0,bank_transfer
+CUST_00122,Plus,85,2025-05-20,,2026-05-20,0,paypal
+CUST_00123,Advanced,200,2026-04-05,2027-02-09,,1,bank_transfer
+CUST_00124,Simple Start,30,2025-03-11,,2026-03-11,0,bank_transfer
+CUST_00125,Advanced,200,2025-10-08,,2026-10-08,0,paypal
+CUST_00126,Advanced,200,2024-11-02,,2025-11-02,0,bank_transfer
+CUST_00127,Advanced,200,2024-11-26,,2025-11-26,0,paypal
+CUST_00128,Essentials,55,2025-05-12,,2026-05-12,0,paypal
+CUST_00129,Advanced,200,2026-04-09,,2027-04-09,0,paypal
+CUST_00130,Advanced,200,2025-07-16,,2026-07-16,0,paypal
+CUST_00131,Plus,85,2025-05-20,2026-05-04,,1,paypal
+CUST_00132,Advanced,200,2026-02-28,,2027-02-28,0,bank_transfer
+CUST_00133,Plus,85,2024-12-16,,2025-12-16,0,paypal
+CUST_00134,Advanced,200,2024-11-14,,2025-11-14,0,paypal
+CUST_00135,Simple Start,30,2025-07-10,,2026-07-10,0,paypal
+CUST_00136,Simple Start,30,2025-03-10,,2026-03-10,0,paypal
+CUST_00137,Plus,85,2025-03-29,,2026-03-29,0,credit_card
+CUST_00138,Simple Start,30,2024-10-24,2025-10-05,,1,paypal
+CUST_00139,Simple Start,30,2025-08-13,,2026-08-13,0,paypal
+CUST_00140,Essentials,55,2025-02-13,,2026-02-13,0,paypal
+CUST_00141,Simple Start,30,2026-02-24,2026-12-23,,1,credit_card
+CUST_00142,Simple Start,30,2024-12-14,,2025-12-14,0,credit_card
+CUST_00143,Essentials,55,2025-02-01,,2026-02-01,0,paypal
+CUST_00144,Advanced,200,2024-08-23,,2025-08-23,0,paypal
+CUST_00145,Plus,85,2025-08-19,,2026-08-19,0,credit_card
+CUST_00146,Advanced,200,2025-04-14,,2026-04-14,0,credit_card
+CUST_00147,Plus,85,2024-12-04,,2025-12-04,0,bank_transfer
+CUST_00148,Simple Start,30,2025-01-25,,2026-01-25,0,bank_transfer
+CUST_00149,Advanced,200,2026-02-21,,2027-02-21,0,credit_card
+CUST_00150,Simple Start,30,2025-05-17,,2026-05-17,0,bank_transfer
+CUST_00151,Essentials,55,2025-02-12,2025-04-28,,1,credit_card
+CUST_00152,Plus,85,2025-10-05,,2026-10-05,0,paypal
+CUST_00153,Essentials,55,2024-10-18,2025-05-02,,1,credit_card
+CUST_00154,Simple Start,30,2025-05-19,,2026-05-19,0,bank_transfer
+CUST_00155,Advanced,200,2024-12-01,,2025-12-01,0,credit_card
+CUST_00156,Advanced,200,2025-12-18,,2026-12-18,0,bank_transfer
+CUST_00157,Advanced,200,2024-08-08,,2025-08-08,0,credit_card
+CUST_00158,Simple Start,30,2025-08-07,2026-07-08,,1,paypal
+CUST_00159,Essentials,55,2024-10-17,,2025-10-17,0,paypal
+CUST_00160,Advanced,200,2026-01-06,,2027-01-06,0,bank_transfer
+CUST_00161,Simple Start,30,2025-07-30,2026-06-08,,1,bank_transfer
+CUST_00162,Simple Start,30,2025-10-12,,2026-10-12,0,bank_transfer
+CUST_00163,Essentials,55,2025-02-05,,2026-02-05,0,credit_card
+CUST_00164,Plus,85,2024-08-06,,2025-08-06,0,paypal
+CUST_00165,Simple Start,30,2026-02-19,2026-12-30,,1,paypal
+CUST_00166,Essentials,55,2025-12-07,,2026-12-07,0,bank_transfer
+CUST_00167,Advanced,200,2025-07-08,,2026-07-08,0,paypal
+CUST_00168,Essentials,55,2025-12-05,,2026-12-05,0,credit_card
+CUST_00169,Plus,85,2024-11-23,,2025-11-23,0,credit_card
+CUST_00170,Essentials,55,2024-11-22,,2025-11-22,0,bank_transfer
+CUST_00171,Advanced,200,2025-06-04,2026-02-26,,1,paypal
+CUST_00172,Plus,85,2025-02-16,,2026-02-16,0,credit_card
+CUST_00173,Simple Start,30,2025-08-22,2026-05-25,,1,bank_transfer
+CUST_00174,Plus,85,2024-10-12,,2025-10-12,0,bank_transfer
+CUST_00175,Plus,85,2025-05-31,,2026-05-31,0,credit_card
+CUST_00176,Plus,85,2025-09-30,2026-07-30,,1,paypal
+CUST_00177,Simple Start,30,2024-07-28,2025-03-17,,1,paypal
+CUST_00178,Simple Start,30,2024-11-21,,2025-11-21,0,paypal
+CUST_00179,Plus,85,2025-07-03,,2026-07-03,0,credit_card
+CUST_00180,Plus,85,2025-07-18,,2026-07-18,0,bank_transfer
+CUST_00181,Plus,85,2024-12-13,,2025-12-13,0,paypal
+CUST_00182,Advanced,200,2025-11-28,,2026-11-28,0,paypal
+CUST_00183,Plus,85,2025-07-06,,2026-07-06,0,bank_transfer
+CUST_00184,Plus,85,2025-05-27,2026-06-15,,1,credit_card
+CUST_00185,Simple Start,30,2026-02-22,,2027-02-22,0,credit_card
+CUST_00186,Simple Start,30,2024-10-03,,2025-10-03,0,bank_transfer
+CUST_00187,Advanced,200,2024-08-23,,2025-08-23,0,paypal
+CUST_00188,Simple Start,30,2025-07-20,,2026-07-20,0,paypal
+CUST_00189,Simple Start,30,2025-12-22,,2026-12-22,0,paypal
+CUST_00190,Advanced,200,2025-08-05,,2026-08-05,0,bank_transfer
+CUST_00191,Advanced,200,2025-02-05,,2026-02-05,0,bank_transfer
+CUST_00192,Advanced,200,2026-03-17,,2027-03-17,0,paypal
+CUST_00193,Simple Start,30,2025-03-24,2025-10-29,,1,credit_card
+CUST_00194,Advanced,200,2025-10-31,2025-12-10,,1,bank_transfer
+CUST_00195,Plus,85,2025-07-27,,2026-07-27,0,paypal
+CUST_00196,Plus,85,2024-08-16,,2025-08-16,0,credit_card
+CUST_00197,Essentials,55,2026-01-20,,2027-01-20,0,bank_transfer
+CUST_00198,Simple Start,30,2025-03-08,2026-04-02,,1,paypal
+CUST_00199,Essentials,55,2025-08-16,2026-08-07,,1,bank_transfer
+CUST_00200,Simple Start,30,2024-07-02,,2025-07-02,0,paypal
+CUST_00201,Advanced,200,2024-10-25,,2025-10-25,0,credit_card
+CUST_00202,Essentials,55,2024-09-15,2024-12-19,,1,paypal
+CUST_00203,Simple Start,30,2024-09-15,2025-08-02,,1,credit_card
+CUST_00204,Plus,85,2025-08-21,,2026-08-21,0,paypal
+CUST_00205,Simple Start,30,2024-12-26,,2025-12-26,0,paypal
+CUST_00206,Plus,85,2024-11-14,,2025-11-14,0,bank_transfer
+CUST_00207,Simple Start,30,2025-07-13,,2026-07-13,0,paypal
+CUST_00208,Simple Start,30,2026-02-17,,2027-02-17,0,bank_transfer
+CUST_00209,Advanced,200,2026-01-22,,2027-01-22,0,bank_transfer
+CUST_00210,Plus,85,2025-05-15,,2026-05-15,0,paypal
+CUST_00211,Advanced,200,2025-06-09,,2026-06-09,0,paypal
+CUST_00212,Simple Start,30,2025-08-24,,2026-08-24,0,credit_card
+CUST_00213,Simple Start,30,2025-08-28,2026-04-30,,1,paypal
+CUST_00214,Advanced,200,2025-10-22,,2026-10-22,0,bank_transfer
+CUST_00215,Essentials,55,2025-10-20,,2026-10-20,0,paypal
+CUST_00216,Simple Start,30,2024-09-29,,2025-09-29,0,credit_card
+CUST_00217,Advanced,200,2024-10-04,,2025-10-04,0,credit_card
+CUST_00218,Essentials,55,2025-06-02,2025-12-08,,1,credit_card
+CUST_00219,Simple Start,30,2025-01-30,2025-10-08,,1,credit_card
+CUST_00220,Plus,85,2025-01-27,,2026-01-27,0,credit_card
+CUST_00221,Simple Start,30,2025-03-23,,2026-03-23,0,bank_transfer
+CUST_00222,Simple Start,30,2025-01-16,,2026-01-16,0,paypal
+CUST_00223,Essentials,55,2026-01-06,,2027-01-06,0,paypal
+CUST_00224,Advanced,200,2025-07-12,,2026-07-12,0,paypal
+CUST_00225,Advanced,200,2025-06-23,,2026-06-23,0,credit_card
+CUST_00226,Simple Start,30,2025-12-28,,2026-12-28,0,bank_transfer
+CUST_00227,Plus,85,2024-08-26,,2025-08-26,0,paypal
+CUST_00228,Simple Start,30,2025-05-28,,2026-05-28,0,credit_card
+CUST_00229,Advanced,200,2025-09-01,2026-08-09,,1,paypal
+CUST_00230,Advanced,200,2024-05-27,2025-06-07,,1,credit_card
+CUST_00231,Simple Start,30,2026-03-01,2026-10-12,,1,bank_transfer
+CUST_00232,Simple Start,30,2025-10-01,,2026-10-01,0,bank_transfer
+CUST_00233,Essentials,55,2024-12-29,,2025-12-29,0,paypal
+CUST_00234,Simple Start,30,2025-05-26,,2026-05-26,0,bank_transfer
+CUST_00235,Advanced,200,2024-09-06,,2025-09-06,0,paypal
+CUST_00236,Simple Start,30,2025-06-15,2026-06-25,,1,credit_card
+CUST_00237,Advanced,200,2026-01-20,,2027-01-20,0,paypal
+CUST_00238,Essentials,55,2025-06-15,2025-07-21,,1,paypal
+CUST_00239,Simple Start,30,2025-01-03,,2026-01-03,0,credit_card
+CUST_00240,Essentials,55,2025-04-28,,2026-04-28,0,bank_transfer
+CUST_00241,Plus,85,2025-07-19,,2026-07-19,0,paypal
+CUST_00242,Advanced,200,2025-01-21,,2026-01-21,0,credit_card
+CUST_00243,Simple Start,30,2024-11-14,2025-05-22,,1,paypal
+CUST_00244,Advanced,200,2025-05-19,,2026-05-19,0,paypal
+CUST_00245,Plus,85,2026-01-22,,2027-01-22,0,paypal
+CUST_00246,Essentials,55,2024-08-22,2025-02-26,,1,paypal
+CUST_00247,Plus,85,2026-03-26,,2027-03-26,0,credit_card
+CUST_00248,Essentials,55,2025-05-06,2026-02-19,,1,paypal
+CUST_00249,Simple Start,30,2025-10-07,,2026-10-07,0,credit_card
+CUST_00250,Essentials,55,2024-12-08,,2025-12-08,0,credit_card
+CUST_00251,Simple Start,30,2026-03-09,2027-03-15,,1,bank_transfer
+CUST_00252,Advanced,200,2025-09-15,,2026-09-15,0,bank_transfer
+CUST_00253,Plus,85,2024-11-15,,2025-11-15,0,bank_transfer
+CUST_00254,Plus,85,2025-04-18,,2026-04-18,0,bank_transfer
+CUST_00255,Simple Start,30,2025-11-06,,2026-11-06,0,credit_card
+CUST_00256,Essentials,55,2026-01-25,,2027-01-25,0,bank_transfer
+CUST_00257,Essentials,55,2025-04-16,,2026-04-16,0,paypal
+CUST_00258,Plus,85,2025-07-30,,2026-07-30,0,bank_transfer
+CUST_00259,Essentials,55,2025-09-02,,2026-09-02,0,credit_card
+CUST_00260,Plus,85,2025-08-12,2026-03-13,,1,credit_card
+CUST_00261,Simple Start,30,2024-11-30,2025-08-12,,1,credit_card
+CUST_00262,Plus,85,2026-04-14,2026-05-29,,1,credit_card
+CUST_00263,Essentials,55,2024-09-16,,2025-09-16,0,credit_card
+CUST_00264,Plus,85,2025-08-16,,2026-08-16,0,bank_transfer
+CUST_00265,Essentials,55,2025-05-06,2025-06-16,,1,credit_card
+CUST_00266,Plus,85,2026-03-10,,2027-03-10,0,credit_card
+CUST_00267,Essentials,55,2025-08-04,,2026-08-04,0,credit_card
+CUST_00268,Plus,85,2025-01-01,,2026-01-01,0,bank_transfer
+CUST_00269,Advanced,200,2025-07-30,,2026-07-30,0,bank_transfer
+CUST_00270,Essentials,55,2024-12-25,,2025-12-25,0,paypal
+CUST_00271,Advanced,200,2024-10-11,,2025-10-11,0,credit_card
+CUST_00272,Simple Start,30,2025-11-27,2026-03-03,,1,credit_card
+CUST_00273,Essentials,55,2025-09-30,,2026-09-30,0,paypal
+CUST_00274,Plus,85,2024-06-11,,2025-06-11,0,bank_transfer
+CUST_00275,Essentials,55,2024-07-25,,2025-07-25,0,paypal
+CUST_00276,Essentials,55,2024-09-30,,2025-09-30,0,bank_transfer
+CUST_00277,Essentials,55,2026-03-28,,2027-03-28,0,credit_card
+CUST_00278,Plus,85,2024-12-02,,2025-12-02,0,paypal
+CUST_00279,Advanced,200,2025-02-03,,2026-02-03,0,credit_card
+CUST_00280,Advanced,200,2024-09-03,,2025-09-03,0,paypal
+CUST_00281,Simple Start,30,2026-01-31,2026-09-16,,1,paypal
+CUST_00282,Plus,85,2025-03-19,,2026-03-19,0,bank_transfer
+CUST_00283,Essentials,55,2025-05-05,,2026-05-05,0,bank_transfer
+CUST_00284,Advanced,200,2026-02-14,,2027-02-14,0,bank_transfer
+CUST_00285,Advanced,200,2025-05-17,,2026-05-17,0,bank_transfer
+CUST_00286,Simple Start,30,2024-11-04,2025-03-17,,1,bank_transfer
+CUST_00287,Essentials,55,2025-01-06,,2026-01-06,0,bank_transfer
+CUST_00288,Advanced,200,2024-06-14,,2025-06-14,0,paypal
+CUST_00289,Essentials,55,2024-11-15,,2025-11-15,0,bank_transfer
+CUST_00290,Plus,85,2025-02-28,,2026-02-28,0,credit_card
+CUST_00291,Simple Start,30,2025-12-02,2026-09-23,,1,bank_transfer
+CUST_00292,Essentials,55,2026-02-23,,2027-02-23,0,bank_transfer
+CUST_00293,Plus,85,2024-12-20,,2025-12-20,0,bank_transfer
+CUST_00294,Advanced,200,2025-04-27,,2026-04-27,0,bank_transfer
+CUST_00295,Plus,85,2025-10-31,,2026-10-31,0,credit_card
+CUST_00296,Essentials,55,2024-12-17,,2025-12-17,0,bank_transfer
+CUST_00297,Simple Start,30,2026-02-15,,2027-02-15,0,credit_card
+CUST_00298,Plus,85,2025-09-27,,2026-09-27,0,paypal
+CUST_00299,Simple Start,30,2025-01-30,,2026-01-30,0,credit_card
+CUST_00300,Simple Start,30,2024-10-23,2025-05-25,,1,credit_card
+CUST_00301,Essentials,55,2026-02-07,,2027-02-07,0,paypal
+CUST_00302,Plus,85,2026-01-19,,2027-01-19,0,paypal
+CUST_00303,Plus,85,2024-09-06,,2025-09-06,0,paypal
+CUST_00304,Essentials,55,2024-08-10,,2025-08-10,0,paypal
+CUST_00305,Plus,85,2026-01-20,2026-07-22,,1,bank_transfer
+CUST_00306,Plus,85,2024-12-08,,2025-12-08,0,bank_transfer
+CUST_00307,Advanced,200,2025-06-29,,2026-06-29,0,paypal
+CUST_00308,Simple Start,30,2026-01-11,,2027-01-11,0,paypal
+CUST_00309,Essentials,55,2024-11-04,,2025-11-04,0,credit_card
+CUST_00310,Essentials,55,2026-03-21,,2027-03-21,0,credit_card
+CUST_00311,Advanced,200,2024-06-09,,2025-06-09,0,paypal
+CUST_00312,Advanced,200,2025-04-12,,2026-04-12,0,bank_transfer
+CUST_00313,Plus,85,2025-04-26,,2026-04-26,0,bank_transfer
+CUST_00314,Essentials,55,2024-09-08,,2025-09-08,0,paypal
+CUST_00315,Advanced,200,2025-09-20,,2026-09-20,0,bank_transfer
+CUST_00316,Simple Start,30,2025-08-23,,2026-08-23,0,paypal
+CUST_00317,Essentials,55,2025-08-30,,2026-08-30,0,paypal
+CUST_00318,Simple Start,30,2024-08-13,,2025-08-13,0,paypal
+CUST_00319,Plus,85,2026-04-06,,2027-04-06,0,bank_transfer
+CUST_00320,Advanced,200,2025-05-04,,2026-05-04,0,bank_transfer
+CUST_00321,Plus,85,2025-01-14,,2026-01-14,0,credit_card
+CUST_00322,Simple Start,30,2025-03-03,,2026-03-03,0,credit_card
+CUST_00323,Plus,85,2026-02-21,,2027-02-21,0,paypal
+CUST_00324,Advanced,200,2025-12-16,,2026-12-16,0,credit_card
+CUST_00325,Advanced,200,2025-08-15,2026-03-30,,1,credit_card
+CUST_00326,Advanced,200,2025-03-31,,2026-03-31,0,paypal
+CUST_00327,Advanced,200,2025-11-27,,2026-11-27,0,bank_transfer
+CUST_00328,Simple Start,30,2025-02-13,2026-02-23,,1,paypal
+CUST_00329,Essentials,55,2025-05-26,2026-06-12,,1,paypal
+CUST_00330,Advanced,200,2025-07-22,2025-11-30,,1,credit_card
+CUST_00331,Advanced,200,2025-08-05,,2026-08-05,0,credit_card
+CUST_00332,Plus,85,2026-01-02,,2027-01-02,0,credit_card
+CUST_00333,Advanced,200,2025-10-09,2026-07-31,,1,credit_card
+CUST_00334,Essentials,55,2025-11-13,,2026-11-13,0,bank_transfer
+CUST_00335,Advanced,200,2024-10-04,,2025-10-04,0,credit_card
+CUST_00336,Essentials,55,2025-12-13,,2026-12-13,0,bank_transfer
+CUST_00337,Simple Start,30,2024-10-30,,2025-10-30,0,credit_card
+CUST_00338,Essentials,55,2024-09-16,,2025-09-16,0,bank_transfer
+CUST_00339,Advanced,200,2026-01-10,,2027-01-10,0,paypal
+CUST_00340,Advanced,200,2024-09-14,,2025-09-14,0,paypal
+CUST_00341,Plus,85,2024-12-14,,2025-12-14,0,paypal
+CUST_00342,Advanced,200,2025-04-25,,2026-04-25,0,credit_card
+CUST_00343,Essentials,55,2025-06-18,,2026-06-18,0,bank_transfer
+CUST_00344,Essentials,55,2024-12-22,,2025-12-22,0,paypal
+CUST_00345,Advanced,200,2025-01-11,,2026-01-11,0,paypal
+CUST_00346,Simple Start,30,2025-08-25,,2026-08-25,0,bank_transfer
+CUST_00347,Advanced,200,2024-10-27,,2025-10-27,0,paypal
+CUST_00348,Plus,85,2024-08-17,,2025-08-17,0,credit_card
+CUST_00349,Advanced,200,2024-09-30,,2025-09-30,0,paypal
+CUST_00350,Advanced,200,2024-11-11,,2025-11-11,0,paypal
+CUST_00351,Essentials,55,2026-03-17,,2027-03-17,0,credit_card
+CUST_00352,Advanced,200,2024-07-16,,2025-07-16,0,credit_card
+CUST_00353,Essentials,55,2025-11-18,,2026-11-18,0,credit_card
+CUST_00354,Plus,85,2024-06-01,,2025-06-01,0,paypal
+CUST_00355,Plus,85,2025-09-08,,2026-09-08,0,credit_card
+CUST_00356,Essentials,55,2026-03-03,,2027-03-03,0,bank_transfer
+CUST_00357,Simple Start,30,2025-03-23,,2026-03-23,0,credit_card
+CUST_00358,Simple Start,30,2025-01-12,,2026-01-12,0,bank_transfer
+CUST_00359,Advanced,200,2024-09-24,,2025-09-24,0,bank_transfer
+CUST_00360,Essentials,55,2024-10-14,,2025-10-14,0,bank_transfer
+CUST_00361,Simple Start,30,2026-02-11,2027-03-03,,1,paypal
+CUST_00362,Advanced,200,2024-12-01,,2025-12-01,0,paypal
+CUST_00363,Advanced,200,2025-12-28,,2026-12-28,0,bank_transfer
+CUST_00364,Simple Start,30,2025-09-16,2025-12-13,,1,paypal
+CUST_00365,Essentials,55,2025-12-27,,2026-12-27,0,paypal
+CUST_00366,Advanced,200,2026-04-01,,2027-04-01,0,credit_card
+CUST_00367,Simple Start,30,2025-09-15,,2026-09-15,0,credit_card
+CUST_00368,Advanced,200,2025-05-16,,2026-05-16,0,bank_transfer
+CUST_00369,Essentials,55,2025-08-19,2025-09-27,,1,paypal
+CUST_00370,Simple Start,30,2025-01-12,2025-04-15,,1,paypal
+CUST_00371,Advanced,200,2025-02-27,,2026-02-27,0,paypal
+CUST_00372,Simple Start,30,2026-03-12,,2027-03-12,0,credit_card
+CUST_00373,Advanced,200,2025-07-21,,2026-07-21,0,credit_card
+CUST_00374,Simple Start,30,2025-08-03,,2026-08-03,0,paypal
+CUST_00375,Essentials,55,2025-06-10,,2026-06-10,0,credit_card
+CUST_00376,Simple Start,30,2026-02-05,,2027-02-05,0,bank_transfer
+CUST_00377,Advanced,200,2024-09-27,2024-10-29,,1,credit_card
+CUST_00378,Advanced,200,2025-04-23,,2026-04-23,0,credit_card
+CUST_00379,Plus,85,2024-12-22,,2025-12-22,0,credit_card
+CUST_00380,Simple Start,30,2025-10-26,2025-12-09,,1,credit_card
+CUST_00381,Plus,85,2025-10-01,,2026-10-01,0,paypal
+CUST_00382,Simple Start,30,2025-07-24,2025-10-11,,1,paypal
+CUST_00383,Essentials,55,2026-03-09,,2027-03-09,0,credit_card
+CUST_00384,Advanced,200,2025-08-12,,2026-08-12,0,bank_transfer
+CUST_00385,Plus,85,2025-10-08,,2026-10-08,0,credit_card
+CUST_00386,Essentials,55,2024-07-21,,2025-07-21,0,bank_transfer
+CUST_00387,Advanced,200,2025-01-26,,2026-01-26,0,credit_card
+CUST_00388,Simple Start,30,2025-04-10,,2026-04-10,0,credit_card
+CUST_00389,Simple Start,30,2025-01-11,,2026-01-11,0,bank_transfer
+CUST_00390,Simple Start,30,2026-01-01,,2027-01-01,0,bank_transfer
+CUST_00391,Essentials,55,2024-08-31,2025-02-19,,1,paypal
+CUST_00392,Plus,85,2026-01-18,2026-06-08,,1,bank_transfer
+CUST_00393,Plus,85,2026-03-28,,2027-03-28,0,bank_transfer
+CUST_00394,Simple Start,30,2024-09-13,,2025-09-13,0,paypal
+CUST_00395,Essentials,55,2026-01-05,,2027-01-05,0,credit_card
+CUST_00396,Plus,85,2024-06-19,,2025-06-19,0,paypal
+CUST_00397,Advanced,200,2024-11-17,,2025-11-17,0,paypal
+CUST_00398,Essentials,55,2026-01-15,,2027-01-15,0,paypal
+CUST_00399,Plus,85,2025-01-12,,2026-01-12,0,paypal
+CUST_00400,Advanced,200,2025-08-02,,2026-08-02,0,credit_card
+CUST_00401,Advanced,200,2026-01-11,,2027-01-11,0,paypal
+CUST_00402,Essentials,55,2026-02-10,,2027-02-10,0,paypal
+CUST_00403,Simple Start,30,2024-06-26,2025-06-06,,1,credit_card
+CUST_00404,Plus,85,2024-08-04,,2025-08-04,0,bank_transfer
+CUST_00405,Essentials,55,2025-12-30,,2026-12-30,0,credit_card
+CUST_00406,Essentials,55,2025-06-19,,2026-06-19,0,bank_transfer
+CUST_00407,Essentials,55,2024-11-05,2025-03-19,,1,paypal
+CUST_00408,Simple Start,30,2025-04-04,2026-03-06,,1,bank_transfer
+CUST_00409,Plus,85,2024-11-15,2025-05-26,,1,paypal
+CUST_00410,Simple Start,30,2024-06-07,,2025-06-07,0,bank_transfer
+CUST_00411,Plus,85,2025-10-03,,2026-10-03,0,credit_card
+CUST_00412,Plus,85,2024-12-25,,2025-12-25,0,credit_card
+CUST_00413,Simple Start,30,2025-05-16,,2026-05-16,0,paypal
+CUST_00414,Essentials,55,2024-05-31,,2025-05-31,0,paypal
+CUST_00415,Essentials,55,2025-07-17,,2026-07-17,0,bank_transfer
+CUST_00416,Plus,85,2024-12-26,,2025-12-26,0,paypal
+CUST_00417,Simple Start,30,2024-11-17,2025-08-25,,1,credit_card
+CUST_00418,Essentials,55,2026-02-25,2026-06-07,,1,credit_card
+CUST_00419,Essentials,55,2025-08-06,2026-07-05,,1,paypal
+CUST_00420,Essentials,55,2024-05-17,2024-07-26,,1,bank_transfer
+CUST_00421,Advanced,200,2025-04-05,,2026-04-05,0,paypal
+CUST_00422,Essentials,55,2025-02-20,,2026-02-20,0,credit_card
+CUST_00423,Essentials,55,2025-05-16,,2026-05-16,0,paypal
+CUST_00424,Advanced,200,2024-11-29,,2025-11-29,0,credit_card
+CUST_00425,Plus,85,2025-02-08,,2026-02-08,0,bank_transfer
+CUST_00426,Simple Start,30,2025-12-08,,2026-12-08,0,bank_transfer
+CUST_00427,Advanced,200,2025-07-14,,2026-07-14,0,bank_transfer
+CUST_00428,Advanced,200,2025-10-30,,2026-10-30,0,paypal
+CUST_00429,Advanced,200,2026-02-06,,2027-02-06,0,bank_transfer
+CUST_00430,Simple Start,30,2025-05-07,,2026-05-07,0,bank_transfer
+CUST_00431,Simple Start,30,2026-01-21,,2027-01-21,0,bank_transfer
+CUST_00432,Essentials,55,2025-01-12,,2026-01-12,0,credit_card
+CUST_00433,Plus,85,2025-07-12,,2026-07-12,0,bank_transfer
+CUST_00434,Advanced,200,2025-10-01,,2026-10-01,0,paypal
+CUST_00435,Advanced,200,2026-01-13,,2027-01-13,0,credit_card
+CUST_00436,Advanced,200,2026-01-27,,2027-01-27,0,credit_card
+CUST_00437,Simple Start,30,2025-12-15,2026-09-27,,1,paypal
+CUST_00438,Plus,85,2024-10-08,,2025-10-08,0,bank_transfer
+CUST_00439,Advanced,200,2026-01-26,,2027-01-26,0,bank_transfer
+CUST_00440,Advanced,200,2025-12-02,,2026-12-02,0,paypal
+CUST_00441,Simple Start,30,2026-02-14,,2027-02-14,0,credit_card
+CUST_00442,Simple Start,30,2024-07-17,,2025-07-17,0,paypal
+CUST_00443,Essentials,55,2025-08-27,2026-05-07,,1,bank_transfer
+CUST_00444,Plus,85,2025-02-13,,2026-02-13,0,bank_transfer
+CUST_00445,Plus,85,2025-02-14,,2026-02-14,0,paypal
+CUST_00446,Advanced,200,2026-01-21,,2027-01-21,0,paypal
+CUST_00447,Essentials,55,2025-03-28,2025-05-14,,1,bank_transfer
+CUST_00448,Simple Start,30,2024-09-04,,2025-09-04,0,paypal
+CUST_00449,Essentials,55,2024-07-08,,2025-07-08,0,bank_transfer
+CUST_00450,Essentials,55,2025-07-31,,2026-07-31,0,paypal
+CUST_00451,Essentials,55,2025-02-28,2025-05-16,,1,paypal
+CUST_00452,Advanced,200,2025-08-05,,2026-08-05,0,paypal
+CUST_00453,Simple Start,30,2025-10-03,,2026-10-03,0,credit_card
+CUST_00454,Advanced,200,2024-06-05,,2025-06-05,0,bank_transfer
+CUST_00455,Plus,85,2025-07-27,,2026-07-27,0,paypal
+CUST_00456,Advanced,200,2025-11-14,,2026-11-14,0,paypal
+CUST_00457,Advanced,200,2024-12-24,,2025-12-24,0,paypal
+CUST_00458,Simple Start,30,2026-03-10,2027-01-27,,1,bank_transfer
+CUST_00459,Essentials,55,2025-11-21,,2026-11-21,0,credit_card
+CUST_00460,Advanced,200,2026-03-04,,2027-03-04,0,credit_card
+CUST_00461,Essentials,55,2025-07-17,,2026-07-17,0,credit_card
+CUST_00462,Simple Start,30,2026-03-09,2027-03-30,,1,bank_transfer
+CUST_00463,Advanced,200,2025-06-15,,2026-06-15,0,paypal
+CUST_00464,Advanced,200,2026-01-21,,2027-01-21,0,bank_transfer
+CUST_00465,Essentials,55,2024-06-06,,2025-06-06,0,credit_card
+CUST_00466,Advanced,200,2025-07-19,,2026-07-19,0,credit_card
+CUST_00467,Advanced,200,2025-03-22,,2026-03-22,0,credit_card
+CUST_00468,Essentials,55,2026-02-15,2026-06-18,,1,credit_card
+CUST_00469,Plus,85,2025-01-18,,2026-01-18,0,bank_transfer
+CUST_00470,Advanced,200,2025-06-22,,2026-06-22,0,paypal
+CUST_00471,Simple Start,30,2026-01-12,,2027-01-12,0,credit_card
+CUST_00472,Simple Start,30,2024-08-25,2025-04-05,,1,credit_card
+CUST_00473,Plus,85,2025-06-23,2025-08-07,,1,paypal
+CUST_00474,Essentials,55,2025-01-22,,2026-01-22,0,paypal
+CUST_00475,Simple Start,30,2025-06-23,2025-12-06,,1,credit_card
+CUST_00476,Simple Start,30,2025-09-22,2026-07-16,,1,credit_card
+CUST_00477,Advanced,200,2025-01-06,,2026-01-06,0,bank_transfer
+CUST_00478,Advanced,200,2024-09-24,,2025-09-24,0,bank_transfer
+CUST_00479,Advanced,200,2025-09-13,,2026-09-13,0,paypal
+CUST_00480,Plus,85,2025-07-28,,2026-07-28,0,credit_card
+CUST_00481,Plus,85,2025-09-27,,2026-09-27,0,bank_transfer
+CUST_00482,Simple Start,30,2026-01-02,,2027-01-02,0,bank_transfer
+CUST_00483,Simple Start,30,2024-06-09,2025-07-01,,1,bank_transfer
+CUST_00484,Essentials,55,2025-01-06,2025-04-08,,1,paypal
+CUST_00485,Plus,85,2025-10-30,,2026-10-30,0,credit_card
+CUST_00486,Plus,85,2025-11-02,,2026-11-02,0,paypal
+CUST_00487,Advanced,200,2025-05-27,,2026-05-27,0,paypal
+CUST_00488,Essentials,55,2024-09-05,2025-08-27,,1,bank_transfer
+CUST_00489,Simple Start,30,2026-03-16,,2027-03-16,0,credit_card
+CUST_00490,Plus,85,2025-02-28,,2026-02-28,0,credit_card
+CUST_00491,Advanced,200,2025-05-14,,2026-05-14,0,paypal
+CUST_00492,Simple Start,30,2024-09-03,,2025-09-03,0,bank_transfer
+CUST_00493,Simple Start,30,2025-03-11,,2026-03-11,0,bank_transfer
+CUST_00494,Essentials,55,2026-03-19,,2027-03-19,0,paypal
+CUST_00495,Simple Start,30,2025-11-27,2026-02-09,,1,bank_transfer
+CUST_00496,Advanced,200,2025-06-07,,2026-06-07,0,bank_transfer
+CUST_00497,Simple Start,30,2025-01-11,,2026-01-11,0,paypal
+CUST_00498,Essentials,55,2025-03-18,2025-07-13,,1,paypal
+CUST_00499,Simple Start,30,2024-10-30,2025-11-30,,1,credit_card
+CUST_00500,Essentials,55,2024-12-21,,2025-12-21,0,bank_transfer
+CUST_00501,Advanced,200,2024-05-23,,2025-05-23,0,credit_card
+CUST_00502,Plus,85,2024-12-08,,2025-12-08,0,paypal
+CUST_00503,Simple Start,30,2025-03-23,,2026-03-23,0,paypal
+CUST_00504,Advanced,200,2024-12-26,,2025-12-26,0,paypal
+CUST_00505,Plus,85,2025-12-31,,2026-12-31,0,paypal
+CUST_00506,Simple Start,30,2025-09-12,,2026-09-12,0,bank_transfer
+CUST_00507,Advanced,200,2024-07-30,,2025-07-30,0,paypal
+CUST_00508,Advanced,200,2025-02-04,,2026-02-04,0,credit_card
+CUST_00509,Plus,85,2024-10-18,2024-12-31,,1,credit_card
+CUST_00510,Simple Start,30,2024-06-20,2025-05-19,,1,credit_card
+CUST_00511,Simple Start,30,2026-01-31,,2027-01-31,0,credit_card
+CUST_00512,Plus,85,2026-04-10,,2027-04-10,0,paypal
+CUST_00513,Simple Start,30,2025-09-04,2026-08-02,,1,paypal
+CUST_00514,Essentials,55,2025-09-07,,2026-09-07,0,bank_transfer
+CUST_00515,Plus,85,2025-06-16,,2026-06-16,0,paypal
+CUST_00516,Essentials,55,2025-01-04,,2026-01-04,0,paypal
+CUST_00517,Essentials,55,2025-10-22,2025-11-25,,1,paypal
+CUST_00518,Advanced,200,2026-01-25,,2027-01-25,0,bank_transfer
+CUST_00519,Essentials,55,2025-10-07,,2026-10-07,0,bank_transfer
+CUST_00520,Essentials,55,2025-08-13,,2026-08-13,0,credit_card
+CUST_00521,Simple Start,30,2025-11-27,,2026-11-27,0,bank_transfer
+CUST_00522,Simple Start,30,2025-10-27,2026-11-22,,1,paypal
+CUST_00523,Advanced,200,2025-11-11,,2026-11-11,0,credit_card
+CUST_00524,Advanced,200,2025-01-15,,2026-01-15,0,bank_transfer
+CUST_00525,Simple Start,30,2024-10-22,,2025-10-22,0,bank_transfer
+CUST_00526,Essentials,55,2025-12-09,,2026-12-09,0,credit_card
+CUST_00527,Essentials,55,2025-07-26,,2026-07-26,0,credit_card
+CUST_00528,Essentials,55,2025-01-15,,2026-01-15,0,paypal
+CUST_00529,Advanced,200,2025-02-06,,2026-02-06,0,paypal
+CUST_00530,Essentials,55,2026-03-21,,2027-03-21,0,paypal
+CUST_00531,Advanced,200,2024-11-24,,2025-11-24,0,paypal
+CUST_00532,Advanced,200,2025-01-02,,2026-01-02,0,bank_transfer
+CUST_00533,Advanced,200,2025-05-31,2025-11-21,,1,bank_transfer
+CUST_00534,Essentials,55,2026-01-24,,2027-01-24,0,paypal
+CUST_00535,Advanced,200,2025-10-24,,2026-10-24,0,bank_transfer
+CUST_00536,Simple Start,30,2025-03-19,,2026-03-19,0,paypal
+CUST_00537,Plus,85,2024-12-26,,2025-12-26,0,credit_card
+CUST_00538,Essentials,55,2025-10-08,,2026-10-08,0,bank_transfer
+CUST_00539,Plus,85,2026-02-18,,2027-02-18,0,credit_card
+CUST_00540,Essentials,55,2025-11-08,,2026-11-08,0,credit_card
+CUST_00541,Simple Start,30,2025-12-13,,2026-12-13,0,paypal
+CUST_00542,Simple Start,30,2025-10-19,,2026-10-19,0,credit_card
+CUST_00543,Advanced,200,2024-06-26,,2025-06-26,0,bank_transfer
+CUST_00544,Essentials,55,2025-05-18,,2026-05-18,0,credit_card
+CUST_00545,Plus,85,2025-07-18,,2026-07-18,0,credit_card
+CUST_00546,Simple Start,30,2026-03-31,2027-01-18,,1,paypal
+CUST_00547,Plus,85,2025-12-24,,2026-12-24,0,credit_card
+CUST_00548,Advanced,200,2024-07-01,,2025-07-01,0,credit_card
+CUST_00549,Essentials,55,2025-11-29,,2026-11-29,0,bank_transfer
+CUST_00550,Essentials,55,2026-02-26,,2027-02-26,0,bank_transfer
+CUST_00551,Simple Start,30,2025-03-21,,2026-03-21,0,paypal
+CUST_00552,Advanced,200,2026-03-25,,2027-03-25,0,paypal
+CUST_00553,Advanced,200,2025-07-31,,2026-07-31,0,credit_card
+CUST_00554,Simple Start,30,2025-02-01,2025-11-08,,1,paypal
+CUST_00555,Essentials,55,2025-07-12,2026-05-31,,1,paypal
+CUST_00556,Advanced,200,2024-08-29,,2025-08-29,0,paypal
+CUST_00557,Simple Start,30,2026-02-04,,2027-02-04,0,credit_card
+CUST_00558,Advanced,200,2025-05-08,,2026-05-08,0,paypal
+CUST_00559,Advanced,200,2025-02-02,,2026-02-02,0,credit_card
+CUST_00560,Simple Start,30,2026-03-12,2027-04-11,,1,paypal
+CUST_00561,Essentials,55,2024-07-23,,2025-07-23,0,paypal
+CUST_00562,Simple Start,30,2024-09-02,,2025-09-02,0,paypal
+CUST_00563,Advanced,200,2024-05-22,2025-04-16,,1,paypal
+CUST_00564,Simple Start,30,2025-12-23,,2026-12-23,0,credit_card
+CUST_00565,Simple Start,30,2025-11-29,2026-10-31,,1,paypal
+CUST_00566,Essentials,55,2025-02-20,2025-11-05,,1,bank_transfer
+CUST_00567,Simple Start,30,2025-05-13,2026-04-02,,1,credit_card
+CUST_00568,Essentials,55,2025-06-11,2025-11-19,,1,credit_card
+CUST_00569,Simple Start,30,2024-12-31,,2025-12-31,0,paypal
+CUST_00570,Plus,85,2024-08-28,,2025-08-28,0,paypal
+CUST_00571,Essentials,55,2025-08-30,,2026-08-30,0,paypal
+CUST_00572,Simple Start,30,2025-05-17,,2026-05-17,0,credit_card
+CUST_00573,Plus,85,2025-10-27,,2026-10-27,0,bank_transfer
+CUST_00574,Essentials,55,2025-07-01,,2026-07-01,0,paypal
+CUST_00575,Plus,85,2024-08-11,,2025-08-11,0,bank_transfer
+CUST_00576,Essentials,55,2024-09-10,,2025-09-10,0,paypal
+CUST_00577,Simple Start,30,2025-04-24,2025-08-28,,1,credit_card
+CUST_00578,Plus,85,2025-05-31,,2026-05-31,0,credit_card
+CUST_00579,Essentials,55,2025-05-03,,2026-05-03,0,credit_card
+CUST_00580,Plus,85,2024-06-30,,2025-06-30,0,paypal
+CUST_00581,Advanced,200,2025-01-11,2025-06-20,,1,bank_transfer
+CUST_00582,Advanced,200,2024-05-19,,2025-05-19,0,credit_card
+CUST_00583,Advanced,200,2025-02-08,,2026-02-08,0,bank_transfer
+CUST_00584,Advanced,200,2024-07-09,,2025-07-09,0,credit_card
+CUST_00585,Essentials,55,2024-10-03,2025-03-19,,1,paypal
+CUST_00586,Essentials,55,2026-04-09,,2027-04-09,0,paypal
+CUST_00587,Essentials,55,2025-03-05,,2026-03-05,0,credit_card
+CUST_00588,Plus,85,2025-10-12,,2026-10-12,0,bank_transfer
+CUST_00589,Advanced,200,2025-02-10,2026-01-15,,1,credit_card
+CUST_00590,Simple Start,30,2025-03-18,2026-01-14,,1,credit_card
+CUST_00591,Advanced,200,2024-11-05,2025-10-28,,1,credit_card
+CUST_00592,Plus,85,2025-05-11,,2026-05-11,0,bank_transfer
+CUST_00593,Essentials,55,2026-02-15,,2027-02-15,0,credit_card
+CUST_00594,Plus,85,2024-09-14,2025-04-25,,1,credit_card
+CUST_00595,Advanced,200,2025-11-30,,2026-11-30,0,credit_card
+CUST_00596,Essentials,55,2025-04-07,,2026-04-07,0,bank_transfer
+CUST_00597,Advanced,200,2024-07-08,,2025-07-08,0,bank_transfer
+CUST_00598,Plus,85,2025-10-20,,2026-10-20,0,paypal
+CUST_00599,Simple Start,30,2025-03-25,,2026-03-25,0,credit_card
+CUST_00600,Plus,85,2025-12-23,,2026-12-23,0,bank_transfer
+CUST_00601,Essentials,55,2024-12-27,,2025-12-27,0,paypal
+CUST_00602,Advanced,200,2026-01-06,,2027-01-06,0,credit_card
+CUST_00603,Plus,85,2024-09-05,2025-06-24,,1,paypal
+CUST_00604,Essentials,55,2024-12-16,,2025-12-16,0,credit_card
+CUST_00605,Advanced,200,2025-04-13,,2026-04-13,0,bank_transfer
+CUST_00606,Simple Start,30,2025-02-08,,2026-02-08,0,paypal
+CUST_00607,Plus,85,2025-03-29,,2026-03-29,0,credit_card
+CUST_00608,Advanced,200,2025-12-23,,2026-12-23,0,credit_card
+CUST_00609,Advanced,200,2024-11-07,,2025-11-07,0,bank_transfer
+CUST_00610,Plus,85,2024-06-30,,2025-06-30,0,bank_transfer
+CUST_00611,Essentials,55,2025-07-23,,2026-07-23,0,credit_card
+CUST_00612,Plus,85,2024-11-30,,2025-11-30,0,bank_transfer
+CUST_00613,Simple Start,30,2025-05-01,,2026-05-01,0,credit_card
+CUST_00614,Essentials,55,2026-02-19,,2027-02-19,0,credit_card
+CUST_00615,Simple Start,30,2025-10-22,2026-04-16,,1,paypal
+CUST_00616,Advanced,200,2024-10-09,,2025-10-09,0,credit_card
+CUST_00617,Advanced,200,2026-03-23,,2027-03-23,0,paypal
+CUST_00618,Essentials,55,2024-05-28,,2025-05-28,0,paypal
+CUST_00619,Simple Start,30,2024-08-15,,2025-08-15,0,paypal
+CUST_00620,Essentials,55,2025-11-14,,2026-11-14,0,paypal
+CUST_00621,Simple Start,30,2025-07-19,,2026-07-19,0,paypal
+CUST_00622,Plus,85,2025-07-05,,2026-07-05,0,paypal
+CUST_00623,Simple Start,30,2025-06-19,,2026-06-19,0,credit_card
+CUST_00624,Essentials,55,2025-11-28,2026-07-03,,1,credit_card
+CUST_00625,Plus,85,2025-02-28,,2026-02-28,0,bank_transfer
+CUST_00626,Advanced,200,2026-03-18,,2027-03-18,0,bank_transfer
+CUST_00627,Simple Start,30,2025-07-20,2026-08-01,,1,credit_card
+CUST_00628,Simple Start,30,2024-10-16,2025-07-20,,1,bank_transfer
+CUST_00629,Plus,85,2026-02-23,,2027-02-23,0,paypal
+CUST_00630,Advanced,200,2025-10-30,,2026-10-30,0,bank_transfer
+CUST_00631,Simple Start,30,2025-05-31,,2026-05-31,0,paypal
+CUST_00632,Advanced,200,2026-01-24,,2027-01-24,0,credit_card
+CUST_00633,Advanced,200,2025-07-15,,2026-07-15,0,bank_transfer
+CUST_00634,Simple Start,30,2025-07-11,2026-08-14,,1,credit_card
+CUST_00635,Advanced,200,2024-07-13,,2025-07-13,0,credit_card
+CUST_00636,Advanced,200,2026-03-02,,2027-03-02,0,credit_card
+CUST_00637,Essentials,55,2024-05-23,,2025-05-23,0,bank_transfer
+CUST_00638,Simple Start,30,2025-09-08,2026-09-09,,1,bank_transfer
+CUST_00639,Essentials,55,2024-05-28,,2025-05-28,0,bank_transfer
+CUST_00640,Plus,85,2025-07-01,,2026-07-01,0,credit_card
+CUST_00641,Plus,85,2026-02-07,2026-10-19,,1,paypal
+CUST_00642,Advanced,200,2024-07-30,,2025-07-30,0,bank_transfer
+CUST_00643,Advanced,200,2025-09-10,2026-10-08,,1,credit_card
+CUST_00644,Simple Start,30,2024-12-10,2025-01-29,,1,credit_card
+CUST_00645,Advanced,200,2025-03-28,,2026-03-28,0,bank_transfer
+CUST_00646,Simple Start,30,2024-11-08,2025-03-19,,1,bank_transfer
+CUST_00647,Plus,85,2026-03-14,2026-12-19,,1,paypal
+CUST_00648,Advanced,200,2025-03-05,,2026-03-05,0,paypal
+CUST_00649,Essentials,55,2024-05-24,,2025-05-24,0,bank_transfer
+CUST_00650,Advanced,200,2025-04-18,,2026-04-18,0,credit_card
+CUST_00651,Simple Start,30,2024-06-18,2025-01-10,,1,paypal
+CUST_00652,Simple Start,30,2025-11-05,,2026-11-05,0,credit_card
+CUST_00653,Simple Start,30,2024-07-13,,2025-07-13,0,bank_transfer
+CUST_00654,Advanced,200,2026-03-08,,2027-03-08,0,paypal
+CUST_00655,Simple Start,30,2025-08-15,,2026-08-15,0,bank_transfer
+CUST_00656,Plus,85,2025-01-04,,2026-01-04,0,bank_transfer
+CUST_00657,Essentials,55,2026-03-07,,2027-03-07,0,paypal
+CUST_00658,Essentials,55,2025-12-12,2026-03-10,,1,bank_transfer
+CUST_00659,Essentials,55,2025-02-09,,2026-02-09,0,bank_transfer
+CUST_00660,Essentials,55,2026-02-27,,2027-02-27,0,credit_card
+CUST_00661,Essentials,55,2025-09-05,2026-08-03,,1,paypal
+CUST_00662,Essentials,55,2025-01-25,2025-05-02,,1,bank_transfer
+CUST_00663,Simple Start,30,2025-05-01,2025-09-06,,1,credit_card
+CUST_00664,Advanced,200,2025-03-04,2025-07-14,,1,credit_card
+CUST_00665,Simple Start,30,2025-10-11,,2026-10-11,0,paypal
+CUST_00666,Plus,85,2025-01-01,,2026-01-01,0,credit_card
+CUST_00667,Essentials,55,2024-09-13,,2025-09-13,0,bank_transfer
+CUST_00668,Simple Start,30,2025-01-17,,2026-01-17,0,paypal
+CUST_00669,Simple Start,30,2025-01-11,2025-06-27,,1,bank_transfer
+CUST_00670,Plus,85,2024-08-04,,2025-08-04,0,paypal
+CUST_00671,Advanced,200,2025-04-30,,2026-04-30,0,credit_card
+CUST_00672,Essentials,55,2024-07-25,2024-09-19,,1,paypal
+CUST_00673,Plus,85,2026-01-16,,2027-01-16,0,bank_transfer
+CUST_00674,Plus,85,2025-04-03,,2026-04-03,0,credit_card
+CUST_00675,Advanced,200,2025-07-25,,2026-07-25,0,bank_transfer
+CUST_00676,Plus,85,2024-09-25,,2025-09-25,0,credit_card
+CUST_00677,Simple Start,30,2025-06-03,,2026-06-03,0,paypal
+CUST_00678,Essentials,55,2024-12-17,,2025-12-17,0,paypal
+CUST_00679,Plus,85,2024-07-15,,2025-07-15,0,paypal
+CUST_00680,Plus,85,2025-11-27,,2026-11-27,0,bank_transfer
+CUST_00681,Essentials,55,2024-08-30,,2025-08-30,0,credit_card
+CUST_00682,Simple Start,30,2025-01-29,2026-01-02,,1,credit_card
+CUST_00683,Simple Start,30,2025-01-27,,2026-01-27,0,paypal
+CUST_00684,Essentials,55,2026-02-15,2026-10-31,,1,credit_card
+CUST_00685,Simple Start,30,2025-08-28,,2026-08-28,0,paypal
+CUST_00686,Plus,85,2025-03-22,,2026-03-22,0,bank_transfer
+CUST_00687,Essentials,55,2025-09-20,,2026-09-20,0,credit_card
+CUST_00688,Simple Start,30,2024-12-20,2025-08-21,,1,paypal
+CUST_00689,Plus,85,2025-07-28,,2026-07-28,0,paypal
+CUST_00690,Plus,85,2025-07-18,,2026-07-18,0,bank_transfer
+CUST_00691,Simple Start,30,2024-10-26,,2025-10-26,0,credit_card
+CUST_00692,Advanced,200,2024-07-09,,2025-07-09,0,paypal
+CUST_00693,Simple Start,30,2025-01-06,2025-06-25,,1,paypal
+CUST_00694,Essentials,55,2025-11-23,,2026-11-23,0,paypal
+CUST_00695,Simple Start,30,2025-08-24,,2026-08-24,0,paypal
+CUST_00696,Essentials,55,2026-03-23,,2027-03-23,0,bank_transfer
+CUST_00697,Advanced,200,2025-02-20,,2026-02-20,0,paypal
+CUST_00698,Simple Start,30,2024-11-25,2025-09-11,,1,bank_transfer
+CUST_00699,Advanced,200,2024-06-20,,2025-06-20,0,bank_transfer
+CUST_00700,Essentials,55,2025-01-29,2025-05-20,,1,paypal
+CUST_00701,Essentials,55,2024-12-03,,2025-12-03,0,credit_card
+CUST_00702,Advanced,200,2025-03-16,,2026-03-16,0,paypal
+CUST_00703,Plus,85,2024-06-04,,2025-06-04,0,credit_card
+CUST_00704,Plus,85,2024-07-22,,2025-07-22,0,paypal
+CUST_00705,Simple Start,30,2025-02-07,2025-04-01,,1,paypal
+CUST_00706,Essentials,55,2025-02-11,,2026-02-11,0,paypal
+CUST_00707,Essentials,55,2025-11-08,,2026-11-08,0,bank_transfer
+CUST_00708,Essentials,55,2024-06-20,,2025-06-20,0,credit_card
+CUST_00709,Essentials,55,2025-10-02,,2026-10-02,0,credit_card
+CUST_00710,Simple Start,30,2025-12-12,2026-07-07,,1,paypal
+CUST_00711,Plus,85,2025-01-28,,2026-01-28,0,paypal
+CUST_00712,Plus,85,2024-11-12,,2025-11-12,0,bank_transfer
+CUST_00713,Plus,85,2025-10-09,,2026-10-09,0,credit_card
+CUST_00714,Simple Start,30,2025-09-05,,2026-09-05,0,credit_card
+CUST_00715,Plus,85,2025-03-14,,2026-03-14,0,credit_card
+CUST_00716,Simple Start,30,2025-12-22,,2026-12-22,0,paypal
+CUST_00717,Advanced,200,2025-07-07,,2026-07-07,0,bank_transfer
+CUST_00718,Essentials,55,2025-05-07,,2026-05-07,0,credit_card
+CUST_00719,Plus,85,2025-05-31,,2026-05-31,0,paypal
+CUST_00720,Advanced,200,2025-09-03,,2026-09-03,0,credit_card
+CUST_00721,Advanced,200,2026-03-04,,2027-03-04,0,bank_transfer
+CUST_00722,Simple Start,30,2025-11-16,,2026-11-16,0,bank_transfer
+CUST_00723,Essentials,55,2025-01-15,,2026-01-15,0,credit_card
+CUST_00724,Essentials,55,2024-10-05,,2025-10-05,0,paypal
+CUST_00725,Essentials,55,2025-04-06,,2026-04-06,0,credit_card
+CUST_00726,Plus,85,2025-04-10,,2026-04-10,0,credit_card
+CUST_00727,Advanced,200,2025-11-06,,2026-11-06,0,credit_card
+CUST_00728,Simple Start,30,2024-09-02,2025-05-08,,1,credit_card
+CUST_00729,Advanced,200,2025-09-09,,2026-09-09,0,bank_transfer
+CUST_00730,Simple Start,30,2025-05-28,,2026-05-28,0,credit_card
+CUST_00731,Simple Start,30,2025-07-26,,2026-07-26,0,bank_transfer
+CUST_00732,Advanced,200,2025-06-02,2025-07-08,,1,paypal
+CUST_00733,Simple Start,30,2024-07-19,2024-09-29,,1,bank_transfer
+CUST_00734,Essentials,55,2024-11-04,,2025-11-04,0,paypal
+CUST_00735,Simple Start,30,2025-07-08,,2026-07-08,0,credit_card
+CUST_00736,Simple Start,30,2025-07-30,,2026-07-30,0,bank_transfer
+CUST_00737,Simple Start,30,2024-12-10,2025-09-11,,1,paypal
+CUST_00738,Advanced,200,2025-12-25,,2026-12-25,0,bank_transfer
+CUST_00739,Plus,85,2025-04-12,,2026-04-12,0,credit_card
+CUST_00740,Simple Start,30,2024-06-10,,2025-06-10,0,bank_transfer
+CUST_00741,Simple Start,30,2026-02-10,2026-04-03,,1,credit_card
+CUST_00742,Plus,85,2024-08-15,2025-04-14,,1,credit_card
+CUST_00743,Simple Start,30,2025-08-16,,2026-08-16,0,credit_card
+CUST_00744,Essentials,55,2024-09-01,,2025-09-01,0,credit_card
+CUST_00745,Plus,85,2025-08-02,,2026-08-02,0,credit_card
+CUST_00746,Advanced,200,2024-09-24,,2025-09-24,0,paypal
+CUST_00747,Simple Start,30,2024-12-10,,2025-12-10,0,credit_card
+CUST_00748,Essentials,55,2025-12-20,2026-06-12,,1,bank_transfer
+CUST_00749,Simple Start,30,2026-03-21,,2027-03-21,0,credit_card
+CUST_00750,Plus,85,2025-11-20,,2026-11-20,0,credit_card
+CUST_00751,Simple Start,30,2025-10-24,,2026-10-24,0,credit_card
+CUST_00752,Advanced,200,2025-09-19,,2026-09-19,0,paypal
+CUST_00753,Essentials,55,2024-07-14,,2025-07-14,0,credit_card
+CUST_00754,Plus,85,2024-12-18,,2025-12-18,0,bank_transfer
+CUST_00755,Plus,85,2025-01-25,,2026-01-25,0,bank_transfer
+CUST_00756,Advanced,200,2026-03-05,,2027-03-05,0,bank_transfer
+CUST_00757,Simple Start,30,2025-11-09,,2026-11-09,0,credit_card
+CUST_00758,Essentials,55,2025-03-21,,2026-03-21,0,bank_transfer
+CUST_00759,Advanced,200,2025-06-05,,2026-06-05,0,bank_transfer
+CUST_00760,Simple Start,30,2025-02-03,2025-10-09,,1,paypal
+CUST_00761,Plus,85,2025-05-28,2025-12-09,,1,credit_card
+CUST_00762,Essentials,55,2025-09-15,,2026-09-15,0,bank_transfer
+CUST_00763,Plus,85,2026-03-13,,2027-03-13,0,bank_transfer
+CUST_00764,Advanced,200,2025-04-14,,2026-04-14,0,paypal
+CUST_00765,Plus,85,2025-01-06,,2026-01-06,0,paypal
+CUST_00766,Essentials,55,2025-02-20,,2026-02-20,0,paypal
+CUST_00767,Advanced,200,2025-10-02,,2026-10-02,0,bank_transfer
+CUST_00768,Essentials,55,2025-01-09,,2026-01-09,0,paypal
+CUST_00769,Advanced,200,2025-11-14,,2026-11-14,0,paypal
+CUST_00770,Essentials,55,2024-07-16,,2025-07-16,0,credit_card
+CUST_00771,Plus,85,2025-04-27,2025-06-04,,1,bank_transfer
+CUST_00772,Advanced,200,2026-02-10,,2027-02-10,0,credit_card
+CUST_00773,Simple Start,30,2025-05-22,,2026-05-22,0,bank_transfer
+CUST_00774,Essentials,55,2025-12-05,,2026-12-05,0,credit_card
+CUST_00775,Advanced,200,2026-04-01,,2027-04-01,0,credit_card
+CUST_00776,Simple Start,30,2026-02-07,,2027-02-07,0,credit_card
+CUST_00777,Essentials,55,2025-07-28,,2026-07-28,0,credit_card
+CUST_00778,Advanced,200,2025-11-28,,2026-11-28,0,paypal
+CUST_00779,Simple Start,30,2025-09-07,,2026-09-07,0,credit_card
+CUST_00780,Advanced,200,2024-08-02,,2025-08-02,0,credit_card
+CUST_00781,Simple Start,30,2025-03-11,2025-06-21,,1,credit_card
+CUST_00782,Essentials,55,2024-09-02,2025-07-20,,1,bank_transfer
+CUST_00783,Essentials,55,2024-11-25,,2025-11-25,0,bank_transfer
+CUST_00784,Essentials,55,2025-11-04,,2026-11-04,0,paypal
+CUST_00785,Plus,85,2025-08-31,,2026-08-31,0,paypal
+CUST_00786,Plus,85,2025-01-01,,2026-01-01,0,paypal
+CUST_00787,Simple Start,30,2024-08-12,2024-11-29,,1,credit_card
+CUST_00788,Simple Start,30,2024-07-10,,2025-07-10,0,credit_card
+CUST_00789,Essentials,55,2025-01-17,2025-09-20,,1,paypal
+CUST_00790,Advanced,200,2025-08-01,,2026-08-01,0,bank_transfer
+CUST_00791,Plus,85,2024-09-27,,2025-09-27,0,bank_transfer
+CUST_00792,Essentials,55,2024-07-08,,2025-07-08,0,credit_card
+CUST_00793,Advanced,200,2024-07-02,,2025-07-02,0,credit_card
+CUST_00794,Essentials,55,2025-06-09,,2026-06-09,0,credit_card
+CUST_00795,Essentials,55,2024-07-19,,2025-07-19,0,paypal
+CUST_00796,Simple Start,30,2025-01-12,,2026-01-12,0,bank_transfer
+CUST_00797,Advanced,200,2024-09-14,,2025-09-14,0,paypal
+CUST_00798,Advanced,200,2025-09-21,,2026-09-21,0,credit_card
+CUST_00799,Simple Start,30,2025-12-04,,2026-12-04,0,paypal
+CUST_00800,Advanced,200,2025-04-19,,2026-04-19,0,credit_card
+CUST_00801,Simple Start,30,2024-06-28,2025-06-01,,1,bank_transfer
+CUST_00802,Simple Start,30,2025-11-17,2026-03-10,,1,paypal
+CUST_00803,Simple Start,30,2025-02-10,2026-01-11,,1,credit_card
+CUST_00804,Plus,85,2024-08-23,,2025-08-23,0,credit_card
+CUST_00805,Simple Start,30,2024-06-08,2024-08-20,,1,paypal
+CUST_00806,Simple Start,30,2024-07-05,,2025-07-05,0,bank_transfer
+CUST_00807,Simple Start,30,2025-06-17,2025-09-02,,1,bank_transfer
+CUST_00808,Simple Start,30,2025-07-31,,2026-07-31,0,bank_transfer
+CUST_00809,Advanced,200,2026-01-07,,2027-01-07,0,bank_transfer
+CUST_00810,Advanced,200,2025-06-15,,2026-06-15,0,credit_card
+CUST_00811,Simple Start,30,2024-05-26,2025-03-09,,1,credit_card
+CUST_00812,Essentials,55,2025-03-10,2025-10-21,,1,bank_transfer
+CUST_00813,Simple Start,30,2026-03-13,,2027-03-13,0,credit_card
+CUST_00814,Advanced,200,2024-11-25,2025-11-10,,1,credit_card
+CUST_00815,Essentials,55,2024-07-16,,2025-07-16,0,paypal
+CUST_00816,Essentials,55,2025-10-21,,2026-10-21,0,credit_card
+CUST_00817,Plus,85,2025-06-21,,2026-06-21,0,credit_card
+CUST_00818,Plus,85,2025-05-13,,2026-05-13,0,paypal
+CUST_00819,Advanced,200,2025-07-20,2026-08-18,,1,paypal
+CUST_00820,Advanced,200,2024-12-29,,2025-12-29,0,paypal
+CUST_00821,Simple Start,30,2024-11-21,,2025-11-21,0,paypal
+CUST_00822,Advanced,200,2025-06-03,,2026-06-03,0,credit_card
+CUST_00823,Essentials,55,2025-03-31,,2026-03-31,0,bank_transfer
+CUST_00824,Simple Start,30,2025-09-22,,2026-09-22,0,bank_transfer
+CUST_00825,Plus,85,2025-10-09,,2026-10-09,0,bank_transfer
+CUST_00826,Essentials,55,2025-07-02,2026-05-23,,1,bank_transfer
+CUST_00827,Plus,85,2024-07-02,2024-10-31,,1,paypal
+CUST_00828,Advanced,200,2024-11-12,,2025-11-12,0,bank_transfer
+CUST_00829,Plus,85,2025-03-02,,2026-03-02,0,bank_transfer
+CUST_00830,Essentials,55,2025-06-13,,2026-06-13,0,paypal
+CUST_00831,Advanced,200,2025-07-31,2026-01-23,,1,bank_transfer
+CUST_00832,Advanced,200,2024-08-26,,2025-08-26,0,paypal
+CUST_00833,Essentials,55,2025-01-16,,2026-01-16,0,paypal
+CUST_00834,Plus,85,2024-12-14,,2025-12-14,0,paypal
+CUST_00835,Advanced,200,2024-08-30,,2025-08-30,0,bank_transfer
+CUST_00836,Simple Start,30,2024-09-21,,2025-09-21,0,paypal
+CUST_00837,Simple Start,30,2024-08-18,,2025-08-18,0,credit_card
+CUST_00838,Simple Start,30,2024-10-25,2025-01-16,,1,bank_transfer
+CUST_00839,Advanced,200,2026-03-09,,2027-03-09,0,bank_transfer
+CUST_00840,Simple Start,30,2025-10-31,2026-07-24,,1,paypal
+CUST_00841,Simple Start,30,2026-03-13,2026-12-07,,1,paypal
+CUST_00842,Advanced,200,2024-11-25,,2025-11-25,0,credit_card
+CUST_00843,Simple Start,30,2025-10-24,,2026-10-24,0,bank_transfer
+CUST_00844,Advanced,200,2024-09-28,,2025-09-28,0,bank_transfer
+CUST_00845,Simple Start,30,2025-07-22,2026-06-26,,1,bank_transfer
+CUST_00846,Essentials,55,2024-08-03,,2025-08-03,0,bank_transfer
+CUST_00847,Simple Start,30,2026-02-20,2026-04-10,,1,paypal
+CUST_00848,Essentials,55,2025-03-23,,2026-03-23,0,credit_card
+CUST_00849,Essentials,55,2024-12-03,,2025-12-03,0,credit_card
+CUST_00850,Advanced,200,2024-10-17,2025-05-20,,1,bank_transfer
+CUST_00851,Advanced,200,2026-03-05,,2027-03-05,0,credit_card
+CUST_00852,Simple Start,30,2025-05-09,,2026-05-09,0,paypal
+CUST_00853,Advanced,200,2025-04-18,,2026-04-18,0,paypal
+CUST_00854,Essentials,55,2025-10-29,2026-01-02,,1,bank_transfer
+CUST_00855,Advanced,200,2024-10-09,,2025-10-09,0,paypal
+CUST_00856,Advanced,200,2024-09-09,,2025-09-09,0,paypal
+CUST_00857,Essentials,55,2025-06-08,,2026-06-08,0,bank_transfer
+CUST_00858,Essentials,55,2024-12-20,,2025-12-20,0,credit_card
+CUST_00859,Advanced,200,2025-09-27,,2026-09-27,0,bank_transfer
+CUST_00860,Essentials,55,2026-01-29,2026-09-30,,1,bank_transfer
+CUST_00861,Advanced,200,2026-01-14,,2027-01-14,0,credit_card
+CUST_00862,Advanced,200,2025-05-28,,2026-05-28,0,paypal
+CUST_00863,Advanced,200,2024-10-03,,2025-10-03,0,paypal
+CUST_00864,Essentials,55,2024-06-08,2025-06-14,,1,paypal
+CUST_00865,Essentials,55,2025-05-18,,2026-05-18,0,paypal
+CUST_00866,Plus,85,2024-11-13,2025-08-04,,1,credit_card
+CUST_00867,Advanced,200,2024-11-20,,2025-11-20,0,credit_card
+CUST_00868,Advanced,200,2024-11-03,,2025-11-03,0,paypal
+CUST_00869,Simple Start,30,2026-02-27,,2027-02-27,0,credit_card
+CUST_00870,Advanced,200,2025-01-18,,2026-01-18,0,paypal
+CUST_00871,Simple Start,30,2025-02-13,2025-06-19,,1,bank_transfer
+CUST_00872,Essentials,55,2024-10-09,,2025-10-09,0,credit_card
+CUST_00873,Plus,85,2024-06-15,,2025-06-15,0,credit_card
+CUST_00874,Simple Start,30,2024-11-02,,2025-11-02,0,bank_transfer
+CUST_00875,Simple Start,30,2025-09-05,2026-03-11,,1,paypal
+CUST_00876,Simple Start,30,2024-10-01,,2025-10-01,0,paypal
+CUST_00877,Advanced,200,2025-08-15,,2026-08-15,0,bank_transfer
+CUST_00878,Plus,85,2026-03-16,,2027-03-16,0,bank_transfer
+CUST_00879,Plus,85,2025-10-13,2026-02-10,,1,bank_transfer
+CUST_00880,Advanced,200,2025-01-22,,2026-01-22,0,paypal
+CUST_00881,Essentials,55,2025-04-21,,2026-04-21,0,bank_transfer
+CUST_00882,Plus,85,2025-07-27,,2026-07-27,0,paypal
+CUST_00883,Advanced,200,2025-08-17,,2026-08-17,0,paypal
+CUST_00884,Simple Start,30,2025-11-02,,2026-11-02,0,credit_card
+CUST_00885,Simple Start,30,2024-05-18,,2025-05-18,0,paypal
+CUST_00886,Advanced,200,2026-01-05,,2027-01-05,0,paypal
+CUST_00887,Simple Start,30,2025-01-18,,2026-01-18,0,paypal
+CUST_00888,Simple Start,30,2024-08-05,,2025-08-05,0,bank_transfer
+CUST_00889,Essentials,55,2024-07-16,2025-04-04,,1,paypal
+CUST_00890,Advanced,200,2024-09-24,,2025-09-24,0,bank_transfer
+CUST_00891,Simple Start,30,2024-12-08,,2025-12-08,0,bank_transfer
+CUST_00892,Advanced,200,2025-02-13,,2026-02-13,0,paypal
+CUST_00893,Advanced,200,2024-06-23,2025-01-30,,1,credit_card
+CUST_00894,Plus,85,2024-09-22,,2025-09-22,0,paypal
+CUST_00895,Plus,85,2025-02-13,,2026-02-13,0,bank_transfer
+CUST_00896,Essentials,55,2025-05-24,2026-01-21,,1,credit_card
+CUST_00897,Simple Start,30,2024-07-13,2025-02-19,,1,paypal
+CUST_00898,Plus,85,2024-12-05,,2025-12-05,0,paypal
+CUST_00899,Advanced,200,2026-04-06,,2027-04-06,0,bank_transfer
+CUST_00900,Essentials,55,2025-07-15,,2026-07-15,0,bank_transfer
+CUST_00901,Simple Start,30,2025-09-05,,2026-09-05,0,paypal
+CUST_00902,Advanced,200,2025-10-06,,2026-10-06,0,paypal
+CUST_00903,Advanced,200,2024-08-03,,2025-08-03,0,credit_card
+CUST_00904,Advanced,200,2025-03-30,,2026-03-30,0,paypal
+CUST_00905,Essentials,55,2025-01-02,,2026-01-02,0,credit_card
+CUST_00906,Essentials,55,2025-08-03,,2026-08-03,0,paypal
+CUST_00907,Advanced,200,2025-02-21,,2026-02-21,0,paypal
+CUST_00908,Plus,85,2026-02-15,,2027-02-15,0,credit_card
+CUST_00909,Plus,85,2024-06-05,,2025-06-05,0,credit_card
+CUST_00910,Simple Start,30,2024-07-19,,2025-07-19,0,paypal
+CUST_00911,Essentials,55,2025-03-21,2026-04-17,,1,paypal
+CUST_00912,Simple Start,30,2024-12-08,,2025-12-08,0,credit_card
+CUST_00913,Essentials,55,2026-04-04,,2027-04-04,0,paypal
+CUST_00914,Plus,85,2024-06-20,,2025-06-20,0,paypal
+CUST_00915,Essentials,55,2024-11-08,,2025-11-08,0,paypal
+CUST_00916,Essentials,55,2025-11-08,,2026-11-08,0,bank_transfer
+CUST_00917,Plus,85,2026-02-03,,2027-02-03,0,bank_transfer
+CUST_00918,Simple Start,30,2025-08-17,,2026-08-17,0,paypal
+CUST_00919,Simple Start,30,2026-02-11,,2027-02-11,0,paypal
+CUST_00920,Simple Start,30,2025-11-01,2026-10-02,,1,credit_card
+CUST_00921,Simple Start,30,2024-07-17,2024-12-28,,1,credit_card
+CUST_00922,Simple Start,30,2026-04-16,2026-11-17,,1,credit_card
+CUST_00923,Advanced,200,2025-12-25,,2026-12-25,0,credit_card
+CUST_00924,Advanced,200,2024-09-23,2025-09-08,,1,credit_card
+CUST_00925,Essentials,55,2025-04-10,,2026-04-10,0,bank_transfer
+CUST_00926,Plus,85,2026-02-14,,2027-02-14,0,bank_transfer
+CUST_00927,Essentials,55,2025-12-02,2026-01-06,,1,credit_card
+CUST_00928,Simple Start,30,2025-03-21,2025-10-12,,1,bank_transfer
+CUST_00929,Advanced,200,2025-06-24,,2026-06-24,0,paypal
+CUST_00930,Simple Start,30,2025-09-12,2026-02-19,,1,credit_card
+CUST_00931,Essentials,55,2024-09-10,,2025-09-10,0,paypal
+CUST_00932,Simple Start,30,2025-07-27,,2026-07-27,0,credit_card
+CUST_00933,Essentials,55,2026-03-31,,2027-03-31,0,credit_card
+CUST_00934,Essentials,55,2025-10-07,2026-01-15,,1,credit_card
+CUST_00935,Simple Start,30,2024-12-16,,2025-12-16,0,credit_card
+CUST_00936,Plus,85,2025-10-27,,2026-10-27,0,credit_card
+CUST_00937,Simple Start,30,2026-03-30,2027-02-05,,1,paypal
+CUST_00938,Plus,85,2025-05-20,,2026-05-20,0,bank_transfer
+CUST_00939,Advanced,200,2026-02-10,,2027-02-10,0,bank_transfer
+CUST_00940,Essentials,55,2025-06-02,,2026-06-02,0,credit_card
+CUST_00941,Plus,85,2025-12-15,,2026-12-15,0,credit_card
+CUST_00942,Plus,85,2025-04-05,,2026-04-05,0,credit_card
+CUST_00943,Advanced,200,2024-10-27,,2025-10-27,0,bank_transfer
+CUST_00944,Advanced,200,2026-03-21,,2027-03-21,0,bank_transfer
+CUST_00945,Plus,85,2024-09-17,,2025-09-17,0,paypal
+CUST_00946,Advanced,200,2025-03-26,,2026-03-26,0,paypal
+CUST_00947,Plus,85,2026-03-27,,2027-03-27,0,paypal
+CUST_00948,Simple Start,30,2025-05-06,,2026-05-06,0,credit_card
+CUST_00949,Plus,85,2024-12-15,,2025-12-15,0,bank_transfer
+CUST_00950,Plus,85,2025-09-22,,2026-09-22,0,credit_card
+CUST_00951,Essentials,55,2025-05-31,,2026-05-31,0,bank_transfer
+CUST_00952,Essentials,55,2026-03-23,,2027-03-23,0,credit_card
+CUST_00953,Essentials,55,2026-02-26,,2027-02-26,0,bank_transfer
+CUST_00954,Essentials,55,2025-03-13,,2026-03-13,0,credit_card
+CUST_00955,Simple Start,30,2026-01-12,2026-02-16,,1,paypal
+CUST_00956,Plus,85,2025-10-25,,2026-10-25,0,paypal
+CUST_00957,Plus,85,2025-06-19,,2026-06-19,0,paypal
+CUST_00958,Simple Start,30,2024-08-27,,2025-08-27,0,paypal
+CUST_00959,Essentials,55,2025-09-01,,2026-09-01,0,credit_card
+CUST_00960,Plus,85,2025-03-05,,2026-03-05,0,paypal
+CUST_00961,Simple Start,30,2025-05-14,,2026-05-14,0,paypal
+CUST_00962,Advanced,200,2024-05-22,,2025-05-22,0,bank_transfer
+CUST_00963,Plus,85,2025-08-20,,2026-08-20,0,credit_card
+CUST_00964,Essentials,55,2024-08-08,2025-05-17,,1,bank_transfer
+CUST_00965,Simple Start,30,2024-12-17,,2025-12-17,0,bank_transfer
+CUST_00966,Simple Start,30,2025-11-20,2026-03-17,,1,paypal
+CUST_00967,Plus,85,2026-01-01,,2027-01-01,0,credit_card
+CUST_00968,Simple Start,30,2026-01-29,,2027-01-29,0,paypal
+CUST_00969,Simple Start,30,2025-10-27,,2026-10-27,0,bank_transfer
+CUST_00970,Essentials,55,2025-01-01,,2026-01-01,0,bank_transfer
+CUST_00971,Simple Start,30,2025-12-10,,2026-12-10,0,paypal
+CUST_00972,Simple Start,30,2025-11-21,2025-12-29,,1,credit_card
+CUST_00973,Advanced,200,2025-10-20,,2026-10-20,0,bank_transfer
+CUST_00974,Plus,85,2026-02-28,,2027-02-28,0,bank_transfer
+CUST_00975,Advanced,200,2025-05-17,2025-11-23,,1,bank_transfer
+CUST_00976,Simple Start,30,2025-07-24,,2026-07-24,0,paypal
+CUST_00977,Advanced,200,2024-11-05,,2025-11-05,0,paypal
+CUST_00978,Simple Start,30,2025-01-10,,2026-01-10,0,paypal
+CUST_00979,Simple Start,30,2025-08-14,2025-10-07,,1,credit_card
+CUST_00980,Essentials,55,2025-05-17,2025-11-28,,1,paypal
+CUST_00981,Advanced,200,2024-10-14,,2025-10-14,0,credit_card
+CUST_00982,Essentials,55,2025-03-09,,2026-03-09,0,bank_transfer
+CUST_00983,Simple Start,30,2026-03-24,,2027-03-24,0,credit_card
+CUST_00984,Plus,85,2025-02-06,,2026-02-06,0,credit_card
+CUST_00985,Simple Start,30,2026-03-17,2026-09-18,,1,credit_card
+CUST_00986,Plus,85,2025-09-18,,2026-09-18,0,paypal
+CUST_00987,Advanced,200,2024-05-20,,2025-05-20,0,credit_card
+CUST_00988,Essentials,55,2026-01-07,,2027-01-07,0,credit_card
+CUST_00989,Essentials,55,2025-12-30,,2026-12-30,0,credit_card
+CUST_00990,Advanced,200,2025-09-20,,2026-09-20,0,paypal
+CUST_00991,Simple Start,30,2025-05-22,,2026-05-22,0,credit_card
+CUST_00992,Advanced,200,2024-10-18,,2025-10-18,0,bank_transfer
+CUST_00993,Plus,85,2025-12-25,,2026-12-25,0,bank_transfer
+CUST_00994,Essentials,55,2024-05-19,2024-11-16,,1,paypal
+CUST_00995,Simple Start,30,2025-02-08,,2026-02-08,0,credit_card
+CUST_00996,Essentials,55,2025-06-11,,2026-06-11,0,credit_card
+CUST_00997,Advanced,200,2026-02-15,,2027-02-15,0,credit_card
+CUST_00998,Essentials,55,2025-05-05,,2026-05-05,0,bank_transfer
+CUST_00999,Essentials,55,2025-11-01,,2026-11-01,0,bank_transfer
+CUST_01000,Essentials,55,2025-06-01,,2026-06-01,0,paypal
+CUST_01001,Plus,85,2026-02-06,,2027-02-06,0,bank_transfer
+CUST_01002,Advanced,200,2025-12-02,,2026-12-02,0,paypal
+CUST_01003,Simple Start,30,2025-08-17,,2026-08-17,0,credit_card
+CUST_01004,Plus,85,2025-11-20,,2026-11-20,0,bank_transfer
+CUST_01005,Essentials,55,2024-12-01,,2025-12-01,0,credit_card
+CUST_01006,Simple Start,30,2024-06-23,2024-10-15,,1,paypal
+CUST_01007,Plus,85,2024-08-14,,2025-08-14,0,paypal
+CUST_01008,Simple Start,30,2025-07-15,2025-10-07,,1,paypal
+CUST_01009,Simple Start,30,2024-10-23,2025-07-15,,1,credit_card
+CUST_01010,Plus,85,2024-08-03,2025-08-06,,1,paypal
+CUST_01011,Advanced,200,2025-11-12,,2026-11-12,0,credit_card
+CUST_01012,Simple Start,30,2024-08-06,,2025-08-06,0,credit_card
+CUST_01013,Essentials,55,2026-01-16,,2027-01-16,0,bank_transfer
+CUST_01014,Plus,85,2024-10-18,2025-04-05,,1,bank_transfer
+CUST_01015,Simple Start,30,2025-03-31,2025-11-11,,1,paypal
+CUST_01016,Advanced,200,2025-06-06,,2026-06-06,0,credit_card
+CUST_01017,Advanced,200,2024-05-18,,2025-05-18,0,bank_transfer
+CUST_01018,Advanced,200,2026-02-24,,2027-02-24,0,credit_card
+CUST_01019,Simple Start,30,2024-07-25,,2025-07-25,0,credit_card
+CUST_01020,Essentials,55,2024-08-03,2024-09-20,,1,paypal
+CUST_01021,Plus,85,2025-01-01,,2026-01-01,0,paypal
+CUST_01022,Simple Start,30,2026-02-07,2027-01-20,,1,paypal
+CUST_01023,Advanced,200,2025-02-20,,2026-02-20,0,credit_card
+CUST_01024,Essentials,55,2024-07-29,,2025-07-29,0,paypal
+CUST_01025,Plus,85,2025-10-14,,2026-10-14,0,credit_card
+CUST_01026,Essentials,55,2025-04-21,,2026-04-21,0,bank_transfer
+CUST_01027,Plus,85,2024-07-27,,2025-07-27,0,credit_card
+CUST_01028,Essentials,55,2025-03-24,,2026-03-24,0,paypal
+CUST_01029,Advanced,200,2025-03-12,,2026-03-12,0,paypal
+CUST_01030,Essentials,55,2026-01-25,2027-02-07,,1,credit_card
+CUST_01031,Essentials,55,2025-12-01,2026-08-21,,1,credit_card
+CUST_01032,Simple Start,30,2025-08-18,,2026-08-18,0,bank_transfer
+CUST_01033,Plus,85,2025-03-07,2025-08-19,,1,credit_card
+CUST_01034,Essentials,55,2026-03-31,,2027-03-31,0,credit_card
+CUST_01035,Plus,85,2024-08-12,,2025-08-12,0,paypal
+CUST_01036,Simple Start,30,2024-12-05,,2025-12-05,0,credit_card
+CUST_01037,Advanced,200,2025-10-25,,2026-10-25,0,credit_card
+CUST_01038,Plus,85,2025-10-19,,2026-10-19,0,paypal
+CUST_01039,Essentials,55,2025-12-02,,2026-12-02,0,credit_card
+CUST_01040,Simple Start,30,2025-10-24,2026-05-13,,1,bank_transfer
+CUST_01041,Advanced,200,2025-07-24,,2026-07-24,0,paypal
+CUST_01042,Plus,85,2024-09-15,,2025-09-15,0,bank_transfer
+CUST_01043,Plus,85,2026-03-23,,2027-03-23,0,bank_transfer
+CUST_01044,Plus,85,2025-01-20,,2026-01-20,0,paypal
+CUST_01045,Advanced,200,2024-06-24,,2025-06-24,0,paypal
+CUST_01046,Simple Start,30,2025-03-06,2025-11-01,,1,credit_card
+CUST_01047,Essentials,55,2025-04-26,,2026-04-26,0,credit_card
+CUST_01048,Essentials,55,2025-06-07,,2026-06-07,0,paypal
+CUST_01049,Advanced,200,2025-06-07,,2026-06-07,0,paypal
+CUST_01050,Simple Start,30,2024-06-13,2025-01-22,,1,paypal
+CUST_01051,Simple Start,30,2026-01-21,,2027-01-21,0,paypal
+CUST_01052,Advanced,200,2025-07-27,,2026-07-27,0,paypal
+CUST_01053,Essentials,55,2025-02-22,,2026-02-22,0,paypal
+CUST_01054,Plus,85,2025-01-29,,2026-01-29,0,bank_transfer
+CUST_01055,Advanced,200,2025-02-22,,2026-02-22,0,bank_transfer
+CUST_01056,Plus,85,2025-10-10,,2026-10-10,0,paypal
+CUST_01057,Plus,85,2026-02-20,,2027-02-20,0,credit_card
+CUST_01058,Advanced,200,2024-06-21,,2025-06-21,0,paypal
+CUST_01059,Plus,85,2025-11-24,,2026-11-24,0,credit_card
+CUST_01060,Advanced,200,2024-10-15,,2025-10-15,0,credit_card
+CUST_01061,Advanced,200,2025-03-17,,2026-03-17,0,paypal
+CUST_01062,Plus,85,2024-10-11,,2025-10-11,0,paypal
+CUST_01063,Essentials,55,2024-06-21,,2025-06-21,0,bank_transfer
+CUST_01064,Simple Start,30,2025-05-01,,2026-05-01,0,credit_card
+CUST_01065,Advanced,200,2024-05-20,2024-11-10,,1,paypal
+CUST_01066,Simple Start,30,2025-04-17,2025-10-20,,1,credit_card
+CUST_01067,Advanced,200,2026-01-13,,2027-01-13,0,credit_card
+CUST_01068,Simple Start,30,2024-08-24,,2025-08-24,0,bank_transfer
+CUST_01069,Plus,85,2025-08-30,,2026-08-30,0,paypal
+CUST_01070,Essentials,55,2025-09-01,,2026-09-01,0,paypal
+CUST_01071,Plus,85,2025-02-07,2025-06-17,,1,bank_transfer
+CUST_01072,Simple Start,30,2024-09-01,2024-10-17,,1,bank_transfer
+CUST_01073,Plus,85,2025-07-16,,2026-07-16,0,paypal
+CUST_01074,Advanced,200,2025-09-13,,2026-09-13,0,credit_card
+CUST_01075,Plus,85,2024-08-27,,2025-08-27,0,paypal
+CUST_01076,Plus,85,2025-12-28,,2026-12-28,0,bank_transfer
+CUST_01077,Plus,85,2025-10-16,,2026-10-16,0,credit_card
+CUST_01078,Essentials,55,2025-04-09,,2026-04-09,0,bank_transfer
+CUST_01079,Essentials,55,2024-09-06,,2025-09-06,0,credit_card
+CUST_01080,Plus,85,2025-12-20,,2026-12-20,0,paypal
+CUST_01081,Advanced,200,2024-09-07,,2025-09-07,0,bank_transfer
+CUST_01082,Advanced,200,2025-07-11,,2026-07-11,0,paypal
+CUST_01083,Advanced,200,2024-08-04,,2025-08-04,0,paypal
+CUST_01084,Plus,85,2025-07-26,,2026-07-26,0,bank_transfer
+CUST_01085,Advanced,200,2026-01-25,,2027-01-25,0,bank_transfer
+CUST_01086,Advanced,200,2025-03-13,2026-01-23,,1,credit_card
+CUST_01087,Advanced,200,2024-06-27,,2025-06-27,0,credit_card
+CUST_01088,Plus,85,2026-03-22,,2027-03-22,0,paypal
+CUST_01089,Plus,85,2025-11-15,2026-09-19,,1,paypal
+CUST_01090,Plus,85,2024-10-14,2025-06-02,,1,credit_card
+CUST_01091,Advanced,200,2025-10-29,,2026-10-29,0,bank_transfer
+CUST_01092,Advanced,200,2025-12-08,,2026-12-08,0,credit_card
+CUST_01093,Simple Start,30,2025-04-14,2026-04-11,,1,credit_card
+CUST_01094,Plus,85,2025-08-13,,2026-08-13,0,bank_transfer
+CUST_01095,Advanced,200,2025-11-19,,2026-11-19,0,credit_card
+CUST_01096,Simple Start,30,2025-01-22,,2026-01-22,0,paypal
+CUST_01097,Simple Start,30,2025-09-14,,2026-09-14,0,paypal
+CUST_01098,Essentials,55,2025-08-04,,2026-08-04,0,bank_transfer
+CUST_01099,Essentials,55,2025-11-17,2026-11-27,,1,paypal
+CUST_01100,Essentials,55,2025-06-25,,2026-06-25,0,bank_transfer
+CUST_01101,Simple Start,30,2025-07-07,,2026-07-07,0,paypal
+CUST_01102,Essentials,55,2026-04-02,2026-05-02,,1,credit_card
+CUST_01103,Simple Start,30,2024-12-30,,2025-12-30,0,credit_card
+CUST_01104,Essentials,55,2026-02-15,2026-03-29,,1,paypal
+CUST_01105,Advanced,200,2025-04-27,,2026-04-27,0,credit_card
+CUST_01106,Plus,85,2025-10-28,,2026-10-28,0,credit_card
+CUST_01107,Essentials,55,2024-08-12,,2025-08-12,0,paypal
+CUST_01108,Plus,85,2024-12-22,,2025-12-22,0,paypal
+CUST_01109,Advanced,200,2025-06-15,,2026-06-15,0,paypal
+CUST_01110,Simple Start,30,2026-04-14,,2027-04-14,0,paypal
+CUST_01111,Simple Start,30,2024-07-30,2025-07-31,,1,credit_card
+CUST_01112,Essentials,55,2024-10-27,,2025-10-27,0,paypal
+CUST_01113,Essentials,55,2024-10-23,,2025-10-23,0,bank_transfer
+CUST_01114,Plus,85,2024-07-11,,2025-07-11,0,paypal
+CUST_01115,Advanced,200,2025-01-29,,2026-01-29,0,bank_transfer
+CUST_01116,Advanced,200,2024-10-02,,2025-10-02,0,credit_card
+CUST_01117,Advanced,200,2024-11-09,,2025-11-09,0,bank_transfer
+CUST_01118,Essentials,55,2025-09-18,2026-06-09,,1,credit_card
+CUST_01119,Advanced,200,2025-03-15,2025-09-16,,1,credit_card
+CUST_01120,Advanced,200,2025-09-09,2026-04-08,,1,credit_card
+CUST_01121,Advanced,200,2024-07-12,,2025-07-12,0,bank_transfer
+CUST_01122,Plus,85,2025-10-31,2026-02-19,,1,bank_transfer
+CUST_01123,Essentials,55,2025-04-21,,2026-04-21,0,paypal
+CUST_01124,Advanced,200,2024-06-09,,2025-06-09,0,credit_card
+CUST_01125,Essentials,55,2024-08-30,,2025-08-30,0,paypal
+CUST_01126,Plus,85,2024-09-05,,2025-09-05,0,credit_card
+CUST_01127,Plus,85,2024-05-25,,2025-05-25,0,paypal
+CUST_01128,Plus,85,2024-05-20,,2025-05-20,0,credit_card
+CUST_01129,Advanced,200,2024-07-21,,2025-07-21,0,bank_transfer
+CUST_01130,Essentials,55,2025-12-01,,2026-12-01,0,paypal
+CUST_01131,Plus,85,2025-09-30,2026-04-13,,1,paypal
+CUST_01132,Plus,85,2024-11-04,,2025-11-04,0,bank_transfer
+CUST_01133,Simple Start,30,2024-10-04,2025-01-23,,1,credit_card
+CUST_01134,Simple Start,30,2025-07-17,,2026-07-17,0,bank_transfer
+CUST_01135,Advanced,200,2024-07-08,,2025-07-08,0,credit_card
+CUST_01136,Essentials,55,2025-08-10,2025-12-07,,1,paypal
+CUST_01137,Advanced,200,2025-10-20,,2026-10-20,0,bank_transfer
+CUST_01138,Simple Start,30,2024-07-10,2024-12-15,,1,credit_card
+CUST_01139,Simple Start,30,2025-01-26,,2026-01-26,0,credit_card
+CUST_01140,Advanced,200,2024-09-12,,2025-09-12,0,paypal
+CUST_01141,Simple Start,30,2025-04-14,,2026-04-14,0,bank_transfer
+CUST_01142,Simple Start,30,2026-01-17,,2027-01-17,0,bank_transfer
+CUST_01143,Essentials,55,2025-02-19,,2026-02-19,0,paypal
+CUST_01144,Essentials,55,2025-05-11,2026-02-16,,1,bank_transfer
+CUST_01145,Plus,85,2025-05-30,,2026-05-30,0,paypal
+CUST_01146,Essentials,55,2025-08-30,,2026-08-30,0,paypal
+CUST_01147,Essentials,55,2024-09-02,2024-10-14,,1,paypal
+CUST_01148,Simple Start,30,2026-04-05,2026-07-15,,1,credit_card
+CUST_01149,Plus,85,2026-03-07,,2027-03-07,0,paypal
+CUST_01150,Simple Start,30,2025-08-09,2026-08-23,,1,paypal
+CUST_01151,Advanced,200,2025-07-19,,2026-07-19,0,credit_card
+CUST_01152,Advanced,200,2024-09-09,,2025-09-09,0,bank_transfer
+CUST_01153,Essentials,55,2026-01-06,,2027-01-06,0,bank_transfer
+CUST_01154,Advanced,200,2025-06-10,,2026-06-10,0,credit_card
+CUST_01155,Simple Start,30,2025-06-10,2026-03-31,,1,bank_transfer
+CUST_01156,Simple Start,30,2026-02-02,2026-06-30,,1,credit_card
+CUST_01157,Plus,85,2024-09-02,2025-02-27,,1,bank_transfer
+CUST_01158,Advanced,200,2025-07-30,,2026-07-30,0,credit_card
+CUST_01159,Essentials,55,2024-06-17,,2025-06-17,0,credit_card
+CUST_01160,Essentials,55,2024-12-08,,2025-12-08,0,paypal
+CUST_01161,Plus,85,2024-10-24,,2025-10-24,0,credit_card
+CUST_01162,Simple Start,30,2025-05-04,,2026-05-04,0,bank_transfer
+CUST_01163,Simple Start,30,2025-01-23,2025-09-25,,1,bank_transfer
+CUST_01164,Essentials,55,2024-12-07,,2025-12-07,0,credit_card
+CUST_01165,Essentials,55,2025-03-06,2025-09-20,,1,paypal
+CUST_01166,Simple Start,30,2025-03-05,2025-05-11,,1,paypal
+CUST_01167,Simple Start,30,2026-03-21,,2027-03-21,0,credit_card
+CUST_01168,Advanced,200,2026-04-05,,2027-04-05,0,paypal
+CUST_01169,Simple Start,30,2024-09-01,,2025-09-01,0,bank_transfer
+CUST_01170,Essentials,55,2025-06-20,,2026-06-20,0,credit_card
+CUST_01171,Simple Start,30,2024-09-16,2025-07-02,,1,credit_card
+CUST_01172,Plus,85,2025-04-03,,2026-04-03,0,bank_transfer
+CUST_01173,Essentials,55,2025-05-23,2025-07-20,,1,credit_card
+CUST_01174,Essentials,55,2025-10-01,,2026-10-01,0,bank_transfer
+CUST_01175,Simple Start,30,2024-08-24,,2025-08-24,0,credit_card
+CUST_01176,Advanced,200,2025-06-18,,2026-06-18,0,paypal
+CUST_01177,Essentials,55,2024-12-03,,2025-12-03,0,bank_transfer
+CUST_01178,Essentials,55,2025-07-28,2025-10-26,,1,paypal
+CUST_01179,Plus,85,2024-11-01,,2025-11-01,0,bank_transfer
+CUST_01180,Advanced,200,2024-09-26,,2025-09-26,0,credit_card
+CUST_01181,Essentials,55,2026-01-23,2026-02-27,,1,credit_card
+CUST_01182,Advanced,200,2025-06-17,,2026-06-17,0,paypal
+CUST_01183,Simple Start,30,2025-02-06,,2026-02-06,0,credit_card
+CUST_01184,Essentials,55,2025-03-12,,2026-03-12,0,credit_card
+CUST_01185,Simple Start,30,2025-06-26,2025-10-26,,1,bank_transfer
+CUST_01186,Simple Start,30,2025-08-30,2026-08-03,,1,paypal
+CUST_01187,Essentials,55,2025-09-06,,2026-09-06,0,credit_card
+CUST_01188,Advanced,200,2025-07-03,,2026-07-03,0,credit_card
+CUST_01189,Simple Start,30,2025-10-10,2026-08-14,,1,credit_card
+CUST_01190,Advanced,200,2026-01-08,,2027-01-08,0,bank_transfer
+CUST_01191,Essentials,55,2024-06-19,,2025-06-19,0,bank_transfer
+CUST_01192,Plus,85,2026-01-29,,2027-01-29,0,bank_transfer
+CUST_01193,Essentials,55,2026-01-31,,2027-01-31,0,bank_transfer
+CUST_01194,Plus,85,2024-11-30,,2025-11-30,0,paypal
+CUST_01195,Simple Start,30,2024-07-20,2025-03-17,,1,paypal
+CUST_01196,Advanced,200,2024-05-21,,2025-05-21,0,credit_card
+CUST_01197,Essentials,55,2025-03-04,,2026-03-04,0,paypal
+CUST_01198,Essentials,55,2024-08-07,,2025-08-07,0,paypal
+CUST_01199,Essentials,55,2024-11-29,2025-03-11,,1,credit_card
+CUST_01200,Essentials,55,2025-09-04,,2026-09-04,0,paypal
+CUST_01201,Advanced,200,2025-04-02,,2026-04-02,0,credit_card
+CUST_01202,Advanced,200,2025-07-25,,2026-07-25,0,bank_transfer
+CUST_01203,Plus,85,2025-01-09,,2026-01-09,0,bank_transfer
+CUST_01204,Simple Start,30,2025-03-22,2026-02-27,,1,bank_transfer
+CUST_01205,Advanced,200,2025-04-28,2025-12-09,,1,bank_transfer
+CUST_01206,Advanced,200,2025-03-23,2025-08-05,,1,bank_transfer
+CUST_01207,Essentials,55,2025-09-22,,2026-09-22,0,paypal
+CUST_01208,Simple Start,30,2025-05-18,,2026-05-18,0,credit_card
+CUST_01209,Plus,85,2024-12-07,,2025-12-07,0,paypal
+CUST_01210,Plus,85,2024-06-15,,2025-06-15,0,bank_transfer
+CUST_01211,Essentials,55,2025-06-25,,2026-06-25,0,bank_transfer
+CUST_01212,Advanced,200,2026-02-12,,2027-02-12,0,paypal
+CUST_01213,Simple Start,30,2024-10-20,,2025-10-20,0,paypal
+CUST_01214,Advanced,200,2026-01-15,,2027-01-15,0,paypal
+CUST_01215,Plus,85,2025-10-22,,2026-10-22,0,paypal
+CUST_01216,Advanced,200,2024-05-17,,2025-05-17,0,paypal
+CUST_01217,Plus,85,2026-01-12,,2027-01-12,0,bank_transfer
+CUST_01218,Advanced,200,2025-03-27,,2026-03-27,0,credit_card
+CUST_01219,Essentials,55,2025-12-10,,2026-12-10,0,bank_transfer
+CUST_01220,Plus,85,2025-12-01,2026-05-07,,1,paypal
+CUST_01221,Plus,85,2026-02-09,,2027-02-09,0,bank_transfer
+CUST_01222,Simple Start,30,2024-10-14,,2025-10-14,0,bank_transfer
+CUST_01223,Plus,85,2024-12-05,,2025-12-05,0,paypal
+CUST_01224,Simple Start,30,2025-07-24,2026-06-10,,1,paypal
+CUST_01225,Plus,85,2024-08-15,,2025-08-15,0,credit_card
+CUST_01226,Advanced,200,2026-02-07,,2027-02-07,0,bank_transfer
+CUST_01227,Simple Start,30,2025-03-05,,2026-03-05,0,bank_transfer
+CUST_01228,Advanced,200,2025-12-26,,2026-12-26,0,paypal
+CUST_01229,Essentials,55,2026-04-13,,2027-04-13,0,paypal
+CUST_01230,Simple Start,30,2024-12-03,,2025-12-03,0,paypal
+CUST_01231,Plus,85,2024-11-03,,2025-11-03,0,bank_transfer
+CUST_01232,Essentials,55,2025-02-15,,2026-02-15,0,bank_transfer
+CUST_01233,Plus,85,2024-12-07,,2025-12-07,0,credit_card
+CUST_01234,Essentials,55,2025-10-22,,2026-10-22,0,credit_card
+CUST_01235,Simple Start,30,2024-10-02,2025-10-02,,1,credit_card
+CUST_01236,Essentials,55,2026-04-11,,2027-04-11,0,bank_transfer
+CUST_01237,Plus,85,2025-12-17,2027-01-18,,1,credit_card
+CUST_01238,Simple Start,30,2024-11-15,,2025-11-15,0,bank_transfer
+CUST_01239,Plus,85,2024-10-21,2025-05-19,,1,paypal
+CUST_01240,Simple Start,30,2024-08-07,,2025-08-07,0,bank_transfer
+CUST_01241,Simple Start,30,2025-10-14,2026-06-28,,1,credit_card
+CUST_01242,Simple Start,30,2025-07-11,2026-01-23,,1,paypal
+CUST_01243,Plus,85,2025-01-16,,2026-01-16,0,paypal
+CUST_01244,Advanced,200,2025-12-31,2026-09-05,,1,bank_transfer
+CUST_01245,Essentials,55,2025-12-20,2026-11-25,,1,bank_transfer
+CUST_01246,Plus,85,2026-01-27,,2027-01-27,0,paypal
+CUST_01247,Plus,85,2024-06-11,,2025-06-11,0,bank_transfer
+CUST_01248,Simple Start,30,2025-10-31,2025-12-22,,1,bank_transfer
+CUST_01249,Essentials,55,2025-11-10,,2026-11-10,0,credit_card
+CUST_01250,Simple Start,30,2024-05-23,,2025-05-23,0,bank_transfer
+CUST_01251,Plus,85,2024-08-03,,2025-08-03,0,bank_transfer
+CUST_01252,Simple Start,30,2024-12-04,,2025-12-04,0,credit_card
+CUST_01253,Advanced,200,2025-05-17,,2026-05-17,0,paypal
+CUST_01254,Simple Start,30,2025-06-08,,2026-06-08,0,credit_card
+CUST_01255,Advanced,200,2025-12-22,,2026-12-22,0,credit_card
+CUST_01256,Simple Start,30,2024-12-19,,2025-12-19,0,paypal
+CUST_01257,Advanced,200,2025-08-07,,2026-08-07,0,credit_card
+CUST_01258,Plus,85,2026-01-31,,2027-01-31,0,bank_transfer
+CUST_01259,Essentials,55,2024-10-16,,2025-10-16,0,bank_transfer
+CUST_01260,Essentials,55,2024-05-24,,2025-05-24,0,paypal
+CUST_01261,Simple Start,30,2026-04-10,,2027-04-10,0,bank_transfer
+CUST_01262,Advanced,200,2025-01-04,,2026-01-04,0,bank_transfer
+CUST_01263,Simple Start,30,2025-11-04,,2026-11-04,0,paypal
+CUST_01264,Advanced,200,2024-11-30,,2025-11-30,0,bank_transfer
+CUST_01265,Advanced,200,2025-01-31,,2026-01-31,0,credit_card
+CUST_01266,Essentials,55,2025-07-23,,2026-07-23,0,bank_transfer
+CUST_01267,Essentials,55,2024-08-18,,2025-08-18,0,bank_transfer
+CUST_01268,Plus,85,2025-10-03,,2026-10-03,0,credit_card
+CUST_01269,Advanced,200,2024-12-23,,2025-12-23,0,credit_card
+CUST_01270,Advanced,200,2025-05-30,,2026-05-30,0,credit_card
+CUST_01271,Essentials,55,2024-12-25,,2025-12-25,0,credit_card
+CUST_01272,Essentials,55,2025-09-26,2026-03-09,,1,paypal
+CUST_01273,Advanced,200,2025-08-03,,2026-08-03,0,credit_card
+CUST_01274,Simple Start,30,2025-02-07,,2026-02-07,0,credit_card
+CUST_01275,Essentials,55,2024-12-29,,2025-12-29,0,credit_card
+CUST_01276,Advanced,200,2025-04-27,,2026-04-27,0,bank_transfer
+CUST_01277,Essentials,55,2024-10-06,,2025-10-06,0,paypal
+CUST_01278,Essentials,55,2025-10-12,,2026-10-12,0,credit_card
+CUST_01279,Plus,85,2025-03-21,,2026-03-21,0,bank_transfer
+CUST_01280,Simple Start,30,2026-03-30,,2027-03-30,0,credit_card
+CUST_01281,Simple Start,30,2025-03-21,,2026-03-21,0,bank_transfer
+CUST_01282,Advanced,200,2025-09-08,,2026-09-08,0,paypal
+CUST_01283,Advanced,200,2026-04-04,,2027-04-04,0,bank_transfer
+CUST_01284,Plus,85,2025-12-10,,2026-12-10,0,paypal
+CUST_01285,Essentials,55,2024-08-26,,2025-08-26,0,paypal
+CUST_01286,Simple Start,30,2025-10-14,2025-11-16,,1,paypal
+CUST_01287,Plus,85,2025-05-14,,2026-05-14,0,bank_transfer
+CUST_01288,Advanced,200,2024-08-29,,2025-08-29,0,credit_card
+CUST_01289,Plus,85,2025-05-06,,2026-05-06,0,credit_card
+CUST_01290,Essentials,55,2025-09-25,,2026-09-25,0,bank_transfer
+CUST_01291,Simple Start,30,2025-05-25,,2026-05-25,0,paypal
+CUST_01292,Advanced,200,2025-04-24,,2026-04-24,0,bank_transfer
+CUST_01293,Plus,85,2024-09-14,,2025-09-14,0,credit_card
+CUST_01294,Simple Start,30,2026-02-09,,2027-02-09,0,paypal
+CUST_01295,Essentials,55,2025-07-06,,2026-07-06,0,bank_transfer
+CUST_01296,Plus,85,2025-05-22,2025-11-13,,1,credit_card
+CUST_01297,Simple Start,30,2026-01-26,2026-11-01,,1,bank_transfer
+CUST_01298,Essentials,55,2025-07-16,,2026-07-16,0,bank_transfer
+CUST_01299,Plus,85,2025-07-26,,2026-07-26,0,credit_card
+CUST_01300,Essentials,55,2025-11-23,,2026-11-23,0,credit_card
+CUST_01301,Simple Start,30,2024-07-17,2025-05-03,,1,credit_card
+CUST_01302,Simple Start,30,2026-01-28,,2027-01-28,0,credit_card
+CUST_01303,Essentials,55,2025-12-14,2026-01-26,,1,bank_transfer
+CUST_01304,Essentials,55,2026-03-10,,2027-03-10,0,paypal
+CUST_01305,Advanced,200,2024-08-10,,2025-08-10,0,paypal
+CUST_01306,Essentials,55,2025-09-12,,2026-09-12,0,bank_transfer
+CUST_01307,Simple Start,30,2024-09-11,,2025-09-11,0,credit_card
+CUST_01308,Advanced,200,2024-08-04,,2025-08-04,0,bank_transfer
+CUST_01309,Plus,85,2025-04-22,2025-07-31,,1,bank_transfer
+CUST_01310,Simple Start,30,2024-05-28,,2025-05-28,0,credit_card
+CUST_01311,Essentials,55,2025-01-13,,2026-01-13,0,bank_transfer
+CUST_01312,Essentials,55,2026-01-21,,2027-01-21,0,bank_transfer
+CUST_01313,Advanced,200,2025-12-20,,2026-12-20,0,paypal
+CUST_01314,Simple Start,30,2025-03-17,,2026-03-17,0,bank_transfer
+CUST_01315,Simple Start,30,2026-04-12,,2027-04-12,0,paypal
+CUST_01316,Plus,85,2024-08-19,,2025-08-19,0,paypal
+CUST_01317,Simple Start,30,2025-04-25,,2026-04-25,0,paypal
+CUST_01318,Simple Start,30,2025-12-08,2026-11-03,,1,bank_transfer
+CUST_01319,Essentials,55,2025-10-28,,2026-10-28,0,bank_transfer
+CUST_01320,Advanced,200,2025-12-03,,2026-12-03,0,credit_card
+CUST_01321,Advanced,200,2025-09-24,,2026-09-24,0,credit_card
+CUST_01322,Simple Start,30,2024-06-26,,2025-06-26,0,paypal
+CUST_01323,Essentials,55,2025-04-19,2025-06-22,,1,bank_transfer
+CUST_01324,Essentials,55,2024-12-17,,2025-12-17,0,credit_card
+CUST_01325,Advanced,200,2024-11-21,,2025-11-21,0,paypal
+CUST_01326,Advanced,200,2025-11-04,,2026-11-04,0,credit_card
+CUST_01327,Plus,85,2024-07-25,,2025-07-25,0,paypal
+CUST_01328,Essentials,55,2025-10-31,,2026-10-31,0,credit_card
+CUST_01329,Plus,85,2025-12-27,,2026-12-27,0,bank_transfer
+CUST_01330,Advanced,200,2024-09-13,,2025-09-13,0,paypal
+CUST_01331,Advanced,200,2024-11-13,,2025-11-13,0,credit_card
+CUST_01332,Simple Start,30,2025-04-22,,2026-04-22,0,bank_transfer
+CUST_01333,Advanced,200,2025-02-18,,2026-02-18,0,bank_transfer
+CUST_01334,Essentials,55,2025-05-28,,2026-05-28,0,credit_card
+CUST_01335,Essentials,55,2025-06-01,,2026-06-01,0,bank_transfer
+CUST_01336,Simple Start,30,2025-01-23,2025-09-13,,1,paypal
+CUST_01337,Essentials,55,2025-08-24,,2026-08-24,0,bank_transfer
+CUST_01338,Advanced,200,2024-09-14,,2025-09-14,0,paypal
+CUST_01339,Essentials,55,2025-07-11,2025-12-25,,1,paypal
+CUST_01340,Essentials,55,2025-09-24,,2026-09-24,0,bank_transfer
+CUST_01341,Simple Start,30,2026-04-02,,2027-04-02,0,bank_transfer
+CUST_01342,Plus,85,2024-11-18,,2025-11-18,0,bank_transfer
+CUST_01343,Advanced,200,2025-07-09,,2026-07-09,0,bank_transfer
+CUST_01344,Advanced,200,2025-06-07,,2026-06-07,0,credit_card
+CUST_01345,Plus,85,2025-01-22,,2026-01-22,0,credit_card
+CUST_01346,Plus,85,2025-06-27,,2026-06-27,0,credit_card
+CUST_01347,Plus,85,2024-08-25,,2025-08-25,0,credit_card
+CUST_01348,Essentials,55,2025-05-28,,2026-05-28,0,paypal
+CUST_01349,Simple Start,30,2025-09-27,,2026-09-27,0,paypal
+CUST_01350,Plus,85,2025-11-12,2026-09-14,,1,credit_card
+CUST_01351,Simple Start,30,2024-11-04,,2025-11-04,0,credit_card
+CUST_01352,Plus,85,2024-10-25,,2025-10-25,0,paypal
+CUST_01353,Simple Start,30,2025-09-25,,2026-09-25,0,paypal
+CUST_01354,Essentials,55,2026-04-08,,2027-04-08,0,credit_card
+CUST_01355,Essentials,55,2024-07-01,,2025-07-01,0,bank_transfer
+CUST_01356,Essentials,55,2025-12-08,,2026-12-08,0,credit_card
+CUST_01357,Plus,85,2024-10-31,,2025-10-31,0,credit_card
+CUST_01358,Essentials,55,2024-11-12,,2025-11-12,0,credit_card
+CUST_01359,Simple Start,30,2025-06-29,,2026-06-29,0,paypal
+CUST_01360,Simple Start,30,2025-07-24,,2026-07-24,0,bank_transfer
+CUST_01361,Simple Start,30,2025-08-07,2026-02-07,,1,credit_card
+CUST_01362,Essentials,55,2025-04-13,,2026-04-13,0,paypal
+CUST_01363,Essentials,55,2025-07-17,2025-10-18,,1,bank_transfer
+CUST_01364,Advanced,200,2025-07-05,,2026-07-05,0,paypal
+CUST_01365,Plus,85,2025-01-16,,2026-01-16,0,credit_card
+CUST_01366,Simple Start,30,2025-04-02,,2026-04-02,0,paypal
+CUST_01367,Advanced,200,2025-07-28,2026-05-31,,1,paypal
+CUST_01368,Essentials,55,2025-07-18,2026-06-14,,1,bank_transfer
+CUST_01369,Essentials,55,2025-04-29,,2026-04-29,0,bank_transfer
+CUST_01370,Plus,85,2024-12-23,,2025-12-23,0,paypal
+CUST_01371,Simple Start,30,2026-04-08,2026-12-28,,1,credit_card
+CUST_01372,Simple Start,30,2024-11-05,,2025-11-05,0,paypal
+CUST_01373,Advanced,200,2026-02-14,,2027-02-14,0,bank_transfer
+CUST_01374,Simple Start,30,2025-05-09,2026-01-02,,1,paypal
+CUST_01375,Plus,85,2025-02-25,,2026-02-25,0,paypal
+CUST_01376,Essentials,55,2026-02-05,,2027-02-05,0,bank_transfer
+CUST_01377,Advanced,200,2025-08-01,,2026-08-01,0,paypal
+CUST_01378,Simple Start,30,2026-01-22,,2027-01-22,0,paypal
+CUST_01379,Simple Start,30,2026-04-15,,2027-04-15,0,credit_card
+CUST_01380,Advanced,200,2025-01-05,,2026-01-05,0,paypal
+CUST_01381,Simple Start,30,2024-06-29,,2025-06-29,0,bank_transfer
+CUST_01382,Essentials,55,2025-04-19,,2026-04-19,0,credit_card
+CUST_01383,Simple Start,30,2024-11-08,,2025-11-08,0,credit_card
+CUST_01384,Advanced,200,2025-09-19,,2026-09-19,0,credit_card
+CUST_01385,Essentials,55,2024-06-17,,2025-06-17,0,bank_transfer
+CUST_01386,Essentials,55,2025-11-09,2026-08-18,,1,bank_transfer
+CUST_01387,Advanced,200,2025-12-06,,2026-12-06,0,bank_transfer
+CUST_01388,Essentials,55,2025-08-06,2026-08-23,,1,paypal
+CUST_01389,Advanced,200,2024-12-27,,2025-12-27,0,bank_transfer
+CUST_01390,Essentials,55,2024-07-19,,2025-07-19,0,bank_transfer
+CUST_01391,Advanced,200,2024-12-06,,2025-12-06,0,paypal
+CUST_01392,Essentials,55,2026-01-07,,2027-01-07,0,paypal
+CUST_01393,Advanced,200,2024-10-17,,2025-10-17,0,paypal
+CUST_01394,Simple Start,30,2024-10-16,,2025-10-16,0,bank_transfer
+CUST_01395,Simple Start,30,2024-12-09,,2025-12-09,0,credit_card
+CUST_01396,Essentials,55,2025-08-07,,2026-08-07,0,credit_card
+CUST_01397,Essentials,55,2025-04-10,2025-07-07,,1,credit_card
+CUST_01398,Advanced,200,2025-02-08,,2026-02-08,0,paypal
+CUST_01399,Advanced,200,2024-09-25,,2025-09-25,0,paypal
+CUST_01400,Advanced,200,2025-04-23,,2026-04-23,0,bank_transfer
+CUST_01401,Simple Start,30,2025-03-03,,2026-03-03,0,bank_transfer
+CUST_01402,Plus,85,2024-06-28,,2025-06-28,0,paypal
+CUST_01403,Plus,85,2026-02-12,,2027-02-12,0,credit_card
+CUST_01404,Essentials,55,2026-01-31,,2027-01-31,0,paypal
+CUST_01405,Essentials,55,2024-06-03,,2025-06-03,0,paypal
+CUST_01406,Plus,85,2024-10-28,,2025-10-28,0,bank_transfer
+CUST_01407,Advanced,200,2025-09-12,,2026-09-12,0,bank_transfer
+CUST_01408,Essentials,55,2025-10-14,2026-11-14,,1,bank_transfer
+CUST_01409,Simple Start,30,2024-07-02,2024-10-31,,1,credit_card
+CUST_01410,Advanced,200,2025-09-08,2025-10-10,,1,bank_transfer
+CUST_01411,Essentials,55,2024-05-23,,2025-05-23,0,credit_card
+CUST_01412,Advanced,200,2025-10-13,,2026-10-13,0,credit_card
+CUST_01413,Advanced,200,2026-03-21,,2027-03-21,0,credit_card
+CUST_01414,Plus,85,2025-06-15,,2026-06-15,0,credit_card
+CUST_01415,Plus,85,2025-08-23,,2026-08-23,0,credit_card
+CUST_01416,Plus,85,2025-06-09,,2026-06-09,0,bank_transfer
+CUST_01417,Plus,85,2025-07-01,,2026-07-01,0,bank_transfer
+CUST_01418,Plus,85,2025-12-15,,2026-12-15,0,paypal
+CUST_01419,Essentials,55,2025-02-14,2025-06-02,,1,credit_card
+CUST_01420,Essentials,55,2025-06-10,,2026-06-10,0,bank_transfer
+CUST_01421,Simple Start,30,2026-03-30,2027-01-21,,1,paypal
+CUST_01422,Advanced,200,2024-12-20,,2025-12-20,0,paypal
+CUST_01423,Plus,85,2025-03-17,,2026-03-17,0,paypal
+CUST_01424,Advanced,200,2025-06-25,,2026-06-25,0,credit_card
+CUST_01425,Essentials,55,2025-08-04,,2026-08-04,0,credit_card
+CUST_01426,Essentials,55,2025-08-29,2026-05-29,,1,credit_card
+CUST_01427,Plus,85,2024-10-24,2024-12-19,,1,credit_card
+CUST_01428,Advanced,200,2025-01-11,,2026-01-11,0,bank_transfer
+CUST_01429,Plus,85,2026-01-04,,2027-01-04,0,credit_card
+CUST_01430,Essentials,55,2025-07-23,,2026-07-23,0,bank_transfer
+CUST_01431,Advanced,200,2026-02-27,,2027-02-27,0,bank_transfer
+CUST_01432,Plus,85,2026-03-31,,2027-03-31,0,bank_transfer
+CUST_01433,Simple Start,30,2025-12-16,,2026-12-16,0,credit_card
+CUST_01434,Essentials,55,2024-08-07,,2025-08-07,0,bank_transfer
+CUST_01435,Essentials,55,2025-09-04,,2026-09-04,0,paypal
+CUST_01436,Advanced,200,2025-09-04,,2026-09-04,0,bank_transfer
+CUST_01437,Simple Start,30,2024-06-06,,2025-06-06,0,bank_transfer
+CUST_01438,Plus,85,2025-05-21,,2026-05-21,0,bank_transfer
+CUST_01439,Advanced,200,2025-03-03,,2026-03-03,0,bank_transfer
+CUST_01440,Advanced,200,2024-08-31,,2025-08-31,0,paypal
+CUST_01441,Essentials,55,2025-03-30,,2026-03-30,0,credit_card
+CUST_01442,Simple Start,30,2024-11-05,2025-06-07,,1,paypal
+CUST_01443,Essentials,55,2025-04-22,2025-10-27,,1,bank_transfer
+CUST_01444,Simple Start,30,2026-03-21,,2027-03-21,0,bank_transfer
+CUST_01445,Simple Start,30,2026-01-09,,2027-01-09,0,credit_card
+CUST_01446,Plus,85,2025-03-18,,2026-03-18,0,bank_transfer
+CUST_01447,Simple Start,30,2025-05-02,,2026-05-02,0,paypal
+CUST_01448,Plus,85,2024-11-23,,2025-11-23,0,credit_card
+CUST_01449,Simple Start,30,2024-06-16,,2025-06-16,0,bank_transfer
+CUST_01450,Advanced,200,2025-09-18,,2026-09-18,0,bank_transfer
+CUST_01451,Simple Start,30,2025-03-21,2025-05-04,,1,paypal
+CUST_01452,Essentials,55,2025-04-09,,2026-04-09,0,credit_card
+CUST_01453,Essentials,55,2024-09-04,2024-12-04,,1,credit_card
+CUST_01454,Advanced,200,2025-06-09,,2026-06-09,0,credit_card
+CUST_01455,Plus,85,2026-04-11,2027-02-13,,1,bank_transfer
+CUST_01456,Essentials,55,2025-01-23,,2026-01-23,0,paypal
+CUST_01457,Simple Start,30,2025-08-18,2026-08-27,,1,bank_transfer
+CUST_01458,Essentials,55,2025-01-23,,2026-01-23,0,paypal
+CUST_01459,Plus,85,2025-11-16,,2026-11-16,0,paypal
+CUST_01460,Advanced,200,2025-11-17,,2026-11-17,0,paypal
+CUST_01461,Simple Start,30,2025-03-08,2025-12-19,,1,credit_card
+CUST_01462,Plus,85,2025-07-30,2026-04-13,,1,credit_card
+CUST_01463,Plus,85,2024-10-02,,2025-10-02,0,paypal
+CUST_01464,Advanced,200,2025-12-04,,2026-12-04,0,paypal
+CUST_01465,Simple Start,30,2024-08-16,2025-06-29,,1,bank_transfer
+CUST_01466,Simple Start,30,2026-01-01,2026-11-17,,1,paypal
+CUST_01467,Simple Start,30,2026-03-12,,2027-03-12,0,bank_transfer
+CUST_01468,Simple Start,30,2025-06-04,2025-08-19,,1,credit_card
+CUST_01469,Simple Start,30,2025-05-21,2026-04-18,,1,paypal
+CUST_01470,Simple Start,30,2025-08-26,,2026-08-26,0,credit_card
+CUST_01471,Essentials,55,2025-07-15,,2026-07-15,0,bank_transfer
+CUST_01472,Simple Start,30,2024-09-08,,2025-09-08,0,credit_card
+CUST_01473,Plus,85,2026-03-10,,2027-03-10,0,paypal
+CUST_01474,Essentials,55,2024-07-23,,2025-07-23,0,paypal
+CUST_01475,Essentials,55,2024-10-02,,2025-10-02,0,bank_transfer
+CUST_01476,Plus,85,2025-11-04,,2026-11-04,0,credit_card
+CUST_01477,Plus,85,2025-12-19,,2026-12-19,0,credit_card
+CUST_01478,Plus,85,2024-07-28,,2025-07-28,0,credit_card
+CUST_01479,Plus,85,2025-03-07,,2026-03-07,0,bank_transfer
+CUST_01480,Plus,85,2024-07-06,2025-02-02,,1,paypal
+CUST_01481,Plus,85,2025-11-07,,2026-11-07,0,paypal
+CUST_01482,Advanced,200,2025-06-28,,2026-06-28,0,paypal
+CUST_01483,Essentials,55,2024-08-09,2025-07-04,,1,bank_transfer
+CUST_01484,Essentials,55,2025-11-02,,2026-11-02,0,credit_card
+CUST_01485,Advanced,200,2026-03-06,,2027-03-06,0,paypal
+CUST_01486,Plus,85,2025-09-12,,2026-09-12,0,paypal
+CUST_01487,Plus,85,2025-06-06,2025-10-21,,1,bank_transfer
+CUST_01488,Essentials,55,2024-10-03,,2025-10-03,0,credit_card
+CUST_01489,Simple Start,30,2024-10-14,,2025-10-14,0,paypal
+CUST_01490,Essentials,55,2025-09-14,,2026-09-14,0,bank_transfer
+CUST_01491,Plus,85,2025-04-03,,2026-04-03,0,bank_transfer
+CUST_01492,Simple Start,30,2025-07-26,,2026-07-26,0,credit_card
+CUST_01493,Plus,85,2025-11-03,,2026-11-03,0,credit_card
+CUST_01494,Essentials,55,2025-01-10,,2026-01-10,0,bank_transfer
+CUST_01495,Plus,85,2024-08-13,,2025-08-13,0,credit_card
+CUST_01496,Essentials,55,2025-08-01,,2026-08-01,0,bank_transfer
+CUST_01497,Essentials,55,2024-10-14,,2025-10-14,0,credit_card
+CUST_01498,Simple Start,30,2025-05-23,,2026-05-23,0,paypal
+CUST_01499,Advanced,200,2025-05-25,,2026-05-25,0,paypal
+CUST_01500,Advanced,200,2025-07-07,,2026-07-07,0,bank_transfer
+CUST_01501,Essentials,55,2025-04-03,,2026-04-03,0,bank_transfer
+CUST_01502,Plus,85,2025-10-25,,2026-10-25,0,bank_transfer
+CUST_01503,Plus,85,2025-10-31,2026-03-29,,1,paypal
+CUST_01504,Simple Start,30,2024-09-09,,2025-09-09,0,bank_transfer
+CUST_01505,Advanced,200,2025-03-04,,2026-03-04,0,credit_card
+CUST_01506,Essentials,55,2025-03-15,,2026-03-15,0,paypal
+CUST_01507,Essentials,55,2025-12-21,,2026-12-21,0,paypal
+CUST_01508,Essentials,55,2024-12-13,2025-07-01,,1,credit_card
+CUST_01509,Simple Start,30,2024-11-17,2025-02-27,,1,bank_transfer
+CUST_01510,Advanced,200,2025-01-06,,2026-01-06,0,bank_transfer
+CUST_01511,Simple Start,30,2025-03-03,,2026-03-03,0,credit_card
+CUST_01512,Essentials,55,2025-04-26,,2026-04-26,0,credit_card
+CUST_01513,Essentials,55,2025-06-09,2025-10-21,,1,bank_transfer
+CUST_01514,Simple Start,30,2025-05-27,,2026-05-27,0,credit_card
+CUST_01515,Plus,85,2024-09-05,2024-12-25,,1,bank_transfer
+CUST_01516,Simple Start,30,2024-06-14,,2025-06-14,0,paypal
+CUST_01517,Advanced,200,2025-06-26,,2026-06-26,0,bank_transfer
+CUST_01518,Advanced,200,2024-06-19,,2025-06-19,0,paypal
+CUST_01519,Essentials,55,2026-04-07,,2027-04-07,0,credit_card
+CUST_01520,Advanced,200,2025-10-10,,2026-10-10,0,credit_card
+CUST_01521,Advanced,200,2025-01-14,,2026-01-14,0,bank_transfer
+CUST_01522,Advanced,200,2024-12-25,,2025-12-25,0,paypal
+CUST_01523,Simple Start,30,2025-10-20,2026-10-27,,1,paypal
+CUST_01524,Simple Start,30,2024-12-15,2025-11-21,,1,credit_card
+CUST_01525,Essentials,55,2025-07-25,,2026-07-25,0,bank_transfer
+CUST_01526,Simple Start,30,2025-02-12,,2026-02-12,0,bank_transfer
+CUST_01527,Simple Start,30,2025-11-14,,2026-11-14,0,credit_card
+CUST_01528,Advanced,200,2025-01-13,,2026-01-13,0,credit_card
+CUST_01529,Plus,85,2024-06-25,,2025-06-25,0,bank_transfer
+CUST_01530,Advanced,200,2025-10-23,,2026-10-23,0,bank_transfer
+CUST_01531,Essentials,55,2024-07-22,,2025-07-22,0,bank_transfer
+CUST_01532,Advanced,200,2025-08-22,2026-04-24,,1,credit_card
+CUST_01533,Essentials,55,2025-01-14,,2026-01-14,0,paypal
+CUST_01534,Simple Start,30,2025-10-19,,2026-10-19,0,credit_card
+CUST_01535,Plus,85,2025-12-24,,2026-12-24,0,credit_card
+CUST_01536,Advanced,200,2026-01-29,,2027-01-29,0,credit_card
+CUST_01537,Essentials,55,2025-10-30,,2026-10-30,0,paypal
+CUST_01538,Advanced,200,2024-11-06,,2025-11-06,0,credit_card
+CUST_01539,Advanced,200,2025-03-17,,2026-03-17,0,paypal
+CUST_01540,Advanced,200,2026-04-02,,2027-04-02,0,credit_card
+CUST_01541,Plus,85,2024-07-06,,2025-07-06,0,paypal
+CUST_01542,Simple Start,30,2025-05-10,,2026-05-10,0,bank_transfer
+CUST_01543,Plus,85,2025-08-29,,2026-08-29,0,paypal
+CUST_01544,Plus,85,2025-03-27,,2026-03-27,0,bank_transfer
+CUST_01545,Simple Start,30,2024-07-10,,2025-07-10,0,bank_transfer
+CUST_01546,Advanced,200,2025-04-02,,2026-04-02,0,credit_card
+CUST_01547,Essentials,55,2025-05-26,2026-06-22,,1,paypal
+CUST_01548,Plus,85,2026-02-07,,2027-02-07,0,paypal
+CUST_01549,Advanced,200,2025-04-19,,2026-04-19,0,bank_transfer
+CUST_01550,Plus,85,2024-11-16,2025-08-23,,1,bank_transfer
+CUST_01551,Plus,85,2025-11-20,2026-10-22,,1,paypal
+CUST_01552,Plus,85,2025-08-22,,2026-08-22,0,bank_transfer
+CUST_01553,Plus,85,2026-02-14,,2027-02-14,0,credit_card
+CUST_01554,Plus,85,2025-03-27,,2026-03-27,0,bank_transfer
+CUST_01555,Advanced,200,2025-08-23,2026-03-07,,1,bank_transfer
+CUST_01556,Simple Start,30,2025-10-11,,2026-10-11,0,bank_transfer
+CUST_01557,Simple Start,30,2024-09-01,,2025-09-01,0,bank_transfer
+CUST_01558,Essentials,55,2025-10-12,2026-08-11,,1,credit_card
+CUST_01559,Essentials,55,2025-03-15,,2026-03-15,0,paypal
+CUST_01560,Advanced,200,2025-10-28,,2026-10-28,0,bank_transfer
+CUST_01561,Plus,85,2025-10-26,,2026-10-26,0,paypal
+CUST_01562,Essentials,55,2025-02-08,,2026-02-08,0,paypal
+CUST_01563,Advanced,200,2025-06-17,2025-12-31,,1,bank_transfer
+CUST_01564,Simple Start,30,2024-07-04,2025-08-08,,1,paypal
+CUST_01565,Simple Start,30,2025-07-25,,2026-07-25,0,paypal
+CUST_01566,Simple Start,30,2026-03-20,2027-03-11,,1,paypal
+CUST_01567,Plus,85,2025-08-18,,2026-08-18,0,credit_card
+CUST_01568,Essentials,55,2025-03-28,,2026-03-28,0,bank_transfer
+CUST_01569,Simple Start,30,2025-10-13,,2026-10-13,0,bank_transfer
+CUST_01570,Simple Start,30,2025-07-22,,2026-07-22,0,paypal
+CUST_01571,Plus,85,2024-09-13,,2025-09-13,0,paypal
+CUST_01572,Essentials,55,2024-07-11,,2025-07-11,0,credit_card
+CUST_01573,Plus,85,2025-05-29,,2026-05-29,0,credit_card
+CUST_01574,Advanced,200,2025-09-27,,2026-09-27,0,paypal
+CUST_01575,Essentials,55,2025-11-07,,2026-11-07,0,paypal
+CUST_01576,Simple Start,30,2025-05-04,,2026-05-04,0,credit_card
+CUST_01577,Plus,85,2025-05-01,,2026-05-01,0,bank_transfer
+CUST_01578,Essentials,55,2025-04-11,2025-12-09,,1,paypal
+CUST_01579,Essentials,55,2026-03-05,,2027-03-05,0,bank_transfer
+CUST_01580,Plus,85,2025-07-14,2025-12-06,,1,credit_card
+CUST_01581,Plus,85,2024-06-15,,2025-06-15,0,paypal
+CUST_01582,Plus,85,2024-08-12,,2025-08-12,0,paypal
+CUST_01583,Advanced,200,2024-07-17,,2025-07-17,0,paypal
+CUST_01584,Plus,85,2024-07-16,,2025-07-16,0,bank_transfer
+CUST_01585,Simple Start,30,2025-09-18,2026-03-30,,1,bank_transfer
+CUST_01586,Advanced,200,2025-02-07,,2026-02-07,0,paypal
+CUST_01587,Advanced,200,2025-06-18,,2026-06-18,0,paypal
+CUST_01588,Essentials,55,2026-01-26,,2027-01-26,0,bank_transfer
+CUST_01589,Advanced,200,2025-11-07,2026-09-25,,1,credit_card
+CUST_01590,Advanced,200,2025-07-28,,2026-07-28,0,bank_transfer
+CUST_01591,Simple Start,30,2025-08-08,2026-06-05,,1,bank_transfer
+CUST_01592,Plus,85,2024-12-29,,2025-12-29,0,bank_transfer
+CUST_01593,Advanced,200,2024-07-19,,2025-07-19,0,credit_card
+CUST_01594,Essentials,55,2024-12-18,,2025-12-18,0,credit_card
+CUST_01595,Plus,85,2024-12-16,,2025-12-16,0,bank_transfer
+CUST_01596,Simple Start,30,2025-08-28,,2026-08-28,0,bank_transfer
+CUST_01597,Advanced,200,2025-02-27,,2026-02-27,0,bank_transfer
+CUST_01598,Essentials,55,2024-11-16,,2025-11-16,0,credit_card
+CUST_01599,Simple Start,30,2026-03-17,,2027-03-17,0,credit_card
+CUST_01600,Simple Start,30,2024-09-06,,2025-09-06,0,credit_card
+CUST_01601,Essentials,55,2025-12-22,,2026-12-22,0,paypal
+CUST_01602,Advanced,200,2025-04-23,,2026-04-23,0,bank_transfer
+CUST_01603,Essentials,55,2026-03-01,,2027-03-01,0,paypal
+CUST_01604,Plus,85,2025-12-24,,2026-12-24,0,bank_transfer
+CUST_01605,Simple Start,30,2025-03-22,,2026-03-22,0,paypal
+CUST_01606,Plus,85,2025-12-22,,2026-12-22,0,paypal
+CUST_01607,Advanced,200,2025-11-15,,2026-11-15,0,bank_transfer
+CUST_01608,Advanced,200,2025-07-02,,2026-07-02,0,bank_transfer
+CUST_01609,Advanced,200,2026-01-26,,2027-01-26,0,credit_card
+CUST_01610,Advanced,200,2025-07-02,,2026-07-02,0,paypal
+CUST_01611,Plus,85,2025-09-23,,2026-09-23,0,paypal
+CUST_01612,Essentials,55,2025-10-05,,2026-10-05,0,credit_card
+CUST_01613,Advanced,200,2026-01-29,,2027-01-29,0,bank_transfer
+CUST_01614,Advanced,200,2025-03-16,,2026-03-16,0,paypal
+CUST_01615,Simple Start,30,2025-08-17,,2026-08-17,0,credit_card
+CUST_01616,Simple Start,30,2024-10-03,,2025-10-03,0,paypal
+CUST_01617,Advanced,200,2026-02-21,,2027-02-21,0,bank_transfer
+CUST_01618,Essentials,55,2025-06-28,2026-06-13,,1,bank_transfer
+CUST_01619,Simple Start,30,2025-12-01,,2026-12-01,0,credit_card
+CUST_01620,Advanced,200,2024-06-04,,2025-06-04,0,credit_card
+CUST_01621,Essentials,55,2025-08-21,,2026-08-21,0,paypal
+CUST_01622,Essentials,55,2024-08-17,2025-09-15,,1,credit_card
+CUST_01623,Plus,85,2025-12-31,2026-03-04,,1,credit_card
+CUST_01624,Essentials,55,2025-11-08,,2026-11-08,0,bank_transfer
+CUST_01625,Essentials,55,2025-10-11,,2026-10-11,0,bank_transfer
+CUST_01626,Essentials,55,2024-12-17,,2025-12-17,0,bank_transfer
+CUST_01627,Simple Start,30,2026-01-13,,2027-01-13,0,bank_transfer
+CUST_01628,Essentials,55,2025-03-10,,2026-03-10,0,paypal
+CUST_01629,Simple Start,30,2024-12-03,2025-01-18,,1,paypal
+CUST_01630,Advanced,200,2025-06-02,,2026-06-02,0,bank_transfer
+CUST_01631,Advanced,200,2025-06-02,2026-01-31,,1,bank_transfer
+CUST_01632,Simple Start,30,2025-04-16,,2026-04-16,0,paypal
+CUST_01633,Simple Start,30,2025-11-23,,2026-11-23,0,paypal
+CUST_01634,Simple Start,30,2024-07-10,2025-02-28,,1,paypal
+CUST_01635,Simple Start,30,2024-05-31,,2025-05-31,0,paypal
+CUST_01636,Advanced,200,2024-05-17,,2025-05-17,0,credit_card
+CUST_01637,Simple Start,30,2025-11-11,2026-04-24,,1,paypal
+CUST_01638,Simple Start,30,2025-06-21,,2026-06-21,0,bank_transfer
+CUST_01639,Advanced,200,2026-03-03,,2027-03-03,0,credit_card
+CUST_01640,Essentials,55,2025-11-03,,2026-11-03,0,credit_card
+CUST_01641,Plus,85,2025-02-19,2026-02-12,,1,paypal
+CUST_01642,Simple Start,30,2025-09-19,,2026-09-19,0,paypal
+CUST_01643,Advanced,200,2025-02-04,,2026-02-04,0,bank_transfer
+CUST_01644,Plus,85,2024-12-27,,2025-12-27,0,bank_transfer
+CUST_01645,Plus,85,2025-03-11,,2026-03-11,0,paypal
+CUST_01646,Plus,85,2026-04-13,,2027-04-13,0,paypal
+CUST_01647,Simple Start,30,2026-04-04,,2027-04-04,0,credit_card
+CUST_01648,Plus,85,2024-10-13,2025-05-20,,1,paypal
+CUST_01649,Plus,85,2024-07-04,,2025-07-04,0,bank_transfer
+CUST_01650,Essentials,55,2026-02-23,,2027-02-23,0,bank_transfer
+CUST_01651,Advanced,200,2024-06-29,,2025-06-29,0,paypal
+CUST_01652,Plus,85,2024-10-28,,2025-10-28,0,paypal
+CUST_01653,Essentials,55,2026-03-23,2026-09-18,,1,bank_transfer
+CUST_01654,Plus,85,2024-11-13,,2025-11-13,0,credit_card
+CUST_01655,Essentials,55,2025-05-31,,2026-05-31,0,credit_card
+CUST_01656,Simple Start,30,2025-09-09,2026-10-13,,1,paypal
+CUST_01657,Advanced,200,2024-08-26,,2025-08-26,0,credit_card
+CUST_01658,Plus,85,2025-01-10,,2026-01-10,0,paypal
+CUST_01659,Plus,85,2026-02-24,,2027-02-24,0,bank_transfer
+CUST_01660,Advanced,200,2024-08-07,,2025-08-07,0,paypal
+CUST_01661,Advanced,200,2025-09-06,,2026-09-06,0,bank_transfer
+CUST_01662,Simple Start,30,2025-04-12,,2026-04-12,0,credit_card
+CUST_01663,Plus,85,2025-10-30,,2026-10-30,0,credit_card
+CUST_01664,Essentials,55,2026-01-22,2026-12-29,,1,paypal
+CUST_01665,Simple Start,30,2025-02-01,,2026-02-01,0,bank_transfer
+CUST_01666,Advanced,200,2025-12-26,,2026-12-26,0,paypal
+CUST_01667,Simple Start,30,2025-07-20,,2026-07-20,0,paypal
+CUST_01668,Essentials,55,2025-08-11,,2026-08-11,0,bank_transfer
+CUST_01669,Simple Start,30,2026-03-05,,2027-03-05,0,credit_card
+CUST_01670,Plus,85,2024-05-28,,2025-05-28,0,bank_transfer
+CUST_01671,Simple Start,30,2024-10-03,,2025-10-03,0,credit_card
+CUST_01672,Advanced,200,2026-02-02,,2027-02-02,0,credit_card
+CUST_01673,Essentials,55,2025-09-25,,2026-09-25,0,paypal
+CUST_01674,Essentials,55,2024-09-29,,2025-09-29,0,paypal
+CUST_01675,Essentials,55,2025-11-24,,2026-11-24,0,paypal
+CUST_01676,Advanced,200,2026-01-14,,2027-01-14,0,paypal
+CUST_01677,Plus,85,2025-07-23,,2026-07-23,0,credit_card
+CUST_01678,Essentials,55,2025-07-02,,2026-07-02,0,credit_card
+CUST_01679,Essentials,55,2025-07-09,,2026-07-09,0,credit_card
+CUST_01680,Essentials,55,2025-09-15,2026-08-10,,1,paypal
+CUST_01681,Advanced,200,2024-08-12,,2025-08-12,0,paypal
+CUST_01682,Simple Start,30,2024-09-17,2025-09-06,,1,credit_card
+CUST_01683,Essentials,55,2024-12-24,,2025-12-24,0,bank_transfer
+CUST_01684,Simple Start,30,2025-09-07,,2026-09-07,0,credit_card
+CUST_01685,Essentials,55,2024-06-26,,2025-06-26,0,bank_transfer
+CUST_01686,Simple Start,30,2024-06-08,,2025-06-08,0,credit_card
+CUST_01687,Advanced,200,2024-11-15,,2025-11-15,0,credit_card
+CUST_01688,Advanced,200,2025-12-18,,2026-12-18,0,bank_transfer
+CUST_01689,Advanced,200,2025-01-25,,2026-01-25,0,bank_transfer
+CUST_01690,Essentials,55,2025-04-02,,2026-04-02,0,bank_transfer
+CUST_01691,Plus,85,2024-07-12,,2025-07-12,0,bank_transfer
+CUST_01692,Plus,85,2025-04-20,,2026-04-20,0,credit_card
+CUST_01693,Plus,85,2025-05-05,,2026-05-05,0,paypal
+CUST_01694,Plus,85,2025-05-07,,2026-05-07,0,credit_card
+CUST_01695,Essentials,55,2024-10-20,,2025-10-20,0,bank_transfer
+CUST_01696,Advanced,200,2025-08-01,,2026-08-01,0,credit_card
+CUST_01697,Simple Start,30,2026-03-09,,2027-03-09,0,paypal
+CUST_01698,Plus,85,2025-12-28,2026-09-10,,1,bank_transfer
+CUST_01699,Essentials,55,2025-08-28,2025-11-21,,1,credit_card
+CUST_01700,Essentials,55,2025-07-20,,2026-07-20,0,bank_transfer
+CUST_01701,Plus,85,2025-06-26,,2026-06-26,0,bank_transfer
+CUST_01702,Simple Start,30,2026-02-25,,2027-02-25,0,paypal
+CUST_01703,Essentials,55,2025-04-14,,2026-04-14,0,credit_card
+CUST_01704,Plus,85,2025-08-09,,2026-08-09,0,bank_transfer
+CUST_01705,Essentials,55,2026-04-14,,2027-04-14,0,paypal
+CUST_01706,Essentials,55,2024-06-16,,2025-06-16,0,paypal
+CUST_01707,Advanced,200,2025-03-19,,2026-03-19,0,bank_transfer
+CUST_01708,Plus,85,2024-11-19,,2025-11-19,0,bank_transfer
+CUST_01709,Advanced,200,2025-03-28,,2026-03-28,0,bank_transfer
+CUST_01710,Plus,85,2024-11-18,2025-06-06,,1,paypal
+CUST_01711,Plus,85,2025-01-08,,2026-01-08,0,bank_transfer
+CUST_01712,Advanced,200,2025-12-18,,2026-12-18,0,paypal
+CUST_01713,Advanced,200,2025-05-11,,2026-05-11,0,credit_card
+CUST_01714,Advanced,200,2026-03-24,2026-11-18,,1,bank_transfer
+CUST_01715,Essentials,55,2024-05-17,,2025-05-17,0,bank_transfer
+CUST_01716,Simple Start,30,2025-01-30,,2026-01-30,0,credit_card
+CUST_01717,Essentials,55,2025-12-22,,2026-12-22,0,bank_transfer
+CUST_01718,Plus,85,2024-07-18,,2025-07-18,0,credit_card
+CUST_01719,Plus,85,2024-06-28,,2025-06-28,0,bank_transfer
+CUST_01720,Plus,85,2024-08-10,,2025-08-10,0,paypal
+CUST_01721,Essentials,55,2024-06-17,,2025-06-17,0,paypal
+CUST_01722,Advanced,200,2025-07-24,,2026-07-24,0,credit_card
+CUST_01723,Simple Start,30,2025-01-31,2025-08-15,,1,paypal
+CUST_01724,Advanced,200,2025-12-10,,2026-12-10,0,paypal
+CUST_01725,Advanced,200,2025-12-28,,2026-12-28,0,credit_card
+CUST_01726,Advanced,200,2024-12-10,,2025-12-10,0,paypal
+CUST_01727,Advanced,200,2024-07-04,,2025-07-04,0,paypal
+CUST_01728,Advanced,200,2025-06-10,2025-08-07,,1,paypal
+CUST_01729,Plus,85,2025-07-03,,2026-07-03,0,bank_transfer
+CUST_01730,Advanced,200,2025-02-26,,2026-02-26,0,credit_card
+CUST_01731,Advanced,200,2025-05-07,,2026-05-07,0,paypal
+CUST_01732,Simple Start,30,2024-10-02,2025-05-31,,1,credit_card
+CUST_01733,Essentials,55,2024-12-17,,2025-12-17,0,paypal
+CUST_01734,Essentials,55,2026-03-27,,2027-03-27,0,bank_transfer
+CUST_01735,Essentials,55,2025-10-28,,2026-10-28,0,paypal
+CUST_01736,Plus,85,2025-04-08,,2026-04-08,0,bank_transfer
+CUST_01737,Simple Start,30,2024-07-04,2024-09-06,,1,paypal
+CUST_01738,Plus,85,2025-06-24,,2026-06-24,0,bank_transfer
+CUST_01739,Advanced,200,2025-10-08,,2026-10-08,0,credit_card
+CUST_01740,Essentials,55,2025-11-09,,2026-11-09,0,credit_card
+CUST_01741,Advanced,200,2025-07-31,,2026-07-31,0,credit_card
+CUST_01742,Plus,85,2024-12-04,,2025-12-04,0,paypal
+CUST_01743,Simple Start,30,2024-12-26,2025-12-19,,1,bank_transfer
+CUST_01744,Advanced,200,2025-05-05,,2026-05-05,0,bank_transfer
+CUST_01745,Simple Start,30,2024-12-24,,2025-12-24,0,credit_card
+CUST_01746,Plus,85,2025-11-05,2026-07-16,,1,credit_card
+CUST_01747,Plus,85,2024-06-17,,2025-06-17,0,bank_transfer
+CUST_01748,Plus,85,2025-02-27,,2026-02-27,0,paypal
+CUST_01749,Simple Start,30,2024-06-12,,2025-06-12,0,paypal
+CUST_01750,Simple Start,30,2025-04-30,,2026-04-30,0,credit_card
+CUST_01751,Essentials,55,2024-08-19,,2025-08-19,0,credit_card
+CUST_01752,Advanced,200,2026-01-03,,2027-01-03,0,credit_card
+CUST_01753,Simple Start,30,2024-09-14,,2025-09-14,0,bank_transfer
+CUST_01754,Plus,85,2025-01-01,,2026-01-01,0,paypal
+CUST_01755,Essentials,55,2025-12-23,,2026-12-23,0,credit_card
+CUST_01756,Essentials,55,2025-12-03,,2026-12-03,0,bank_transfer
+CUST_01757,Advanced,200,2025-12-06,,2026-12-06,0,paypal
+CUST_01758,Advanced,200,2025-07-18,,2026-07-18,0,bank_transfer
+CUST_01759,Plus,85,2025-09-08,2026-04-25,,1,credit_card
+CUST_01760,Simple Start,30,2025-01-25,2025-09-30,,1,credit_card
+CUST_01761,Plus,85,2024-11-05,,2025-11-05,0,paypal
+CUST_01762,Plus,85,2025-07-08,,2026-07-08,0,paypal
+CUST_01763,Essentials,55,2025-03-19,,2026-03-19,0,paypal
+CUST_01764,Plus,85,2025-08-29,,2026-08-29,0,paypal
+CUST_01765,Essentials,55,2025-02-21,2025-06-06,,1,credit_card
+CUST_01766,Plus,85,2025-04-13,,2026-04-13,0,credit_card
+CUST_01767,Simple Start,30,2024-12-23,,2025-12-23,0,paypal
+CUST_01768,Plus,85,2025-04-27,,2026-04-27,0,bank_transfer
+CUST_01769,Plus,85,2026-04-06,,2027-04-06,0,paypal
+CUST_01770,Essentials,55,2024-12-26,2025-04-18,,1,bank_transfer
+CUST_01771,Plus,85,2025-04-03,,2026-04-03,0,credit_card
+CUST_01772,Plus,85,2025-01-07,2025-09-19,,1,credit_card
+CUST_01773,Advanced,200,2025-08-18,2026-01-01,,1,bank_transfer
+CUST_01774,Simple Start,30,2025-09-24,,2026-09-24,0,bank_transfer
+CUST_01775,Essentials,55,2025-05-10,2025-12-20,,1,paypal
+CUST_01776,Simple Start,30,2026-02-22,2026-06-21,,1,paypal
+CUST_01777,Simple Start,30,2024-06-18,2024-11-02,,1,credit_card
+CUST_01778,Advanced,200,2025-12-12,,2026-12-12,0,bank_transfer
+CUST_01779,Plus,85,2024-05-18,,2025-05-18,0,credit_card
+CUST_01780,Simple Start,30,2025-09-26,,2026-09-26,0,bank_transfer
+CUST_01781,Advanced,200,2026-04-10,,2027-04-10,0,credit_card
+CUST_01782,Advanced,200,2025-11-02,2026-06-14,,1,bank_transfer
+CUST_01783,Advanced,200,2024-12-18,,2025-12-18,0,credit_card
+CUST_01784,Plus,85,2025-02-21,,2026-02-21,0,bank_transfer
+CUST_01785,Simple Start,30,2026-03-22,,2027-03-22,0,paypal
+CUST_01786,Plus,85,2026-02-11,,2027-02-11,0,paypal
+CUST_01787,Simple Start,30,2025-08-06,,2026-08-06,0,bank_transfer
+CUST_01788,Advanced,200,2024-07-01,2024-12-18,,1,paypal
+CUST_01789,Plus,85,2025-11-06,2026-04-12,,1,credit_card
+CUST_01790,Simple Start,30,2024-12-14,2025-04-02,,1,credit_card
+CUST_01791,Advanced,200,2025-02-17,,2026-02-17,0,credit_card
+CUST_01792,Essentials,55,2025-09-25,,2026-09-25,0,paypal
+CUST_01793,Plus,85,2024-10-06,,2025-10-06,0,bank_transfer
+CUST_01794,Essentials,55,2026-03-25,,2027-03-25,0,credit_card
+CUST_01795,Essentials,55,2025-11-09,,2026-11-09,0,paypal
+CUST_01796,Essentials,55,2025-02-13,,2026-02-13,0,credit_card
+CUST_01797,Essentials,55,2024-12-21,2025-05-04,,1,bank_transfer
+CUST_01798,Advanced,200,2024-09-20,,2025-09-20,0,bank_transfer
+CUST_01799,Plus,85,2024-11-04,2024-12-17,,1,bank_transfer
+CUST_01800,Simple Start,30,2024-07-15,,2025-07-15,0,credit_card
+CUST_01801,Essentials,55,2025-05-24,,2026-05-24,0,credit_card
+CUST_01802,Advanced,200,2024-09-01,,2025-09-01,0,paypal
+CUST_01803,Essentials,55,2025-01-08,2025-02-14,,1,bank_transfer
+CUST_01804,Essentials,55,2026-03-13,2026-05-15,,1,credit_card
+CUST_01805,Advanced,200,2024-10-26,,2025-10-26,0,bank_transfer
+CUST_01806,Advanced,200,2025-12-30,,2026-12-30,0,paypal
+CUST_01807,Simple Start,30,2025-05-27,2026-02-21,,1,bank_transfer
+CUST_01808,Essentials,55,2024-06-11,,2025-06-11,0,paypal
+CUST_01809,Plus,85,2024-11-29,,2025-11-29,0,paypal
+CUST_01810,Simple Start,30,2024-05-24,,2025-05-24,0,paypal
+CUST_01811,Essentials,55,2024-10-23,2025-08-12,,1,credit_card
+CUST_01812,Essentials,55,2025-02-13,2025-04-26,,1,paypal
+CUST_01813,Simple Start,30,2025-12-17,,2026-12-17,0,bank_transfer
+CUST_01814,Simple Start,30,2026-03-11,2026-08-16,,1,credit_card
+CUST_01815,Plus,85,2024-07-08,,2025-07-08,0,bank_transfer
+CUST_01816,Plus,85,2025-11-23,,2026-11-23,0,credit_card
+CUST_01817,Plus,85,2025-12-23,,2026-12-23,0,paypal
+CUST_01818,Essentials,55,2024-08-01,,2025-08-01,0,credit_card
+CUST_01819,Advanced,200,2025-08-17,,2026-08-17,0,credit_card
+CUST_01820,Essentials,55,2024-08-08,2025-07-28,,1,credit_card
+CUST_01821,Essentials,55,2025-04-11,2025-10-23,,1,credit_card
+CUST_01822,Advanced,200,2025-12-29,,2026-12-29,0,bank_transfer
+CUST_01823,Essentials,55,2025-06-24,,2026-06-24,0,paypal
+CUST_01824,Advanced,200,2025-11-15,,2026-11-15,0,credit_card
+CUST_01825,Advanced,200,2025-06-04,,2026-06-04,0,paypal
+CUST_01826,Advanced,200,2025-08-26,,2026-08-26,0,bank_transfer
+CUST_01827,Plus,85,2025-03-29,,2026-03-29,0,credit_card
+CUST_01828,Plus,85,2024-07-09,,2025-07-09,0,bank_transfer
+CUST_01829,Advanced,200,2025-10-22,,2026-10-22,0,paypal
+CUST_01830,Plus,85,2025-06-26,,2026-06-26,0,bank_transfer
+CUST_01831,Simple Start,30,2025-03-23,,2026-03-23,0,bank_transfer
+CUST_01832,Simple Start,30,2026-04-09,,2027-04-09,0,credit_card
+CUST_01833,Simple Start,30,2024-10-18,2025-07-09,,1,credit_card
+CUST_01834,Simple Start,30,2025-03-26,,2026-03-26,0,bank_transfer
+CUST_01835,Essentials,55,2025-12-01,,2026-12-01,0,bank_transfer
+CUST_01836,Advanced,200,2026-01-01,,2027-01-01,0,credit_card
+CUST_01837,Essentials,55,2026-01-28,,2027-01-28,0,paypal
+CUST_01838,Essentials,55,2025-08-28,2026-09-10,,1,credit_card
+CUST_01839,Simple Start,30,2024-09-08,2025-04-07,,1,paypal
+CUST_01840,Essentials,55,2025-05-31,,2026-05-31,0,paypal
+CUST_01841,Simple Start,30,2024-08-29,,2025-08-29,0,bank_transfer
+CUST_01842,Essentials,55,2026-02-20,,2027-02-20,0,paypal
+CUST_01843,Essentials,55,2024-10-02,,2025-10-02,0,credit_card
+CUST_01844,Essentials,55,2025-09-11,,2026-09-11,0,paypal
+CUST_01845,Essentials,55,2025-10-12,,2026-10-12,0,paypal
+CUST_01846,Essentials,55,2024-10-20,,2025-10-20,0,paypal
+CUST_01847,Advanced,200,2024-12-06,,2025-12-06,0,bank_transfer
+CUST_01848,Simple Start,30,2025-07-10,,2026-07-10,0,bank_transfer
+CUST_01849,Plus,85,2024-06-10,,2025-06-10,0,paypal
+CUST_01850,Advanced,200,2025-01-16,,2026-01-16,0,bank_transfer
+CUST_01851,Plus,85,2024-06-11,2024-12-11,,1,credit_card
+CUST_01852,Simple Start,30,2024-09-21,,2025-09-21,0,paypal
+CUST_01853,Plus,85,2025-11-23,,2026-11-23,0,paypal
+CUST_01854,Simple Start,30,2025-08-01,2026-03-29,,1,credit_card
+CUST_01855,Essentials,55,2026-03-11,,2027-03-11,0,credit_card
+CUST_01856,Essentials,55,2025-06-05,,2026-06-05,0,credit_card
+CUST_01857,Advanced,200,2025-02-14,,2026-02-14,0,credit_card
+CUST_01858,Essentials,55,2025-08-18,,2026-08-18,0,credit_card
+CUST_01859,Essentials,55,2025-02-11,,2026-02-11,0,bank_transfer
+CUST_01860,Essentials,55,2025-09-14,,2026-09-14,0,credit_card
+CUST_01861,Essentials,55,2025-02-08,2025-05-21,,1,paypal
+CUST_01862,Plus,85,2025-10-12,,2026-10-12,0,credit_card
+CUST_01863,Simple Start,30,2025-01-14,,2026-01-14,0,paypal
+CUST_01864,Simple Start,30,2024-07-06,,2025-07-06,0,paypal
+CUST_01865,Advanced,200,2024-06-01,,2025-06-01,0,bank_transfer
+CUST_01866,Plus,85,2025-10-09,,2026-10-09,0,paypal
+CUST_01867,Advanced,200,2025-11-08,,2026-11-08,0,paypal
+CUST_01868,Plus,85,2025-03-06,,2026-03-06,0,credit_card
+CUST_01869,Advanced,200,2024-07-31,,2025-07-31,0,bank_transfer
+CUST_01870,Simple Start,30,2024-10-23,,2025-10-23,0,bank_transfer
+CUST_01871,Essentials,55,2025-12-31,,2026-12-31,0,paypal
+CUST_01872,Advanced,200,2025-02-22,,2026-02-22,0,credit_card
+CUST_01873,Simple Start,30,2026-03-05,2027-02-06,,1,paypal
+CUST_01874,Plus,85,2024-06-22,,2025-06-22,0,paypal
+CUST_01875,Advanced,200,2025-09-13,,2026-09-13,0,bank_transfer
+CUST_01876,Advanced,200,2024-12-15,,2025-12-15,0,credit_card
+CUST_01877,Plus,85,2025-02-10,,2026-02-10,0,paypal
+CUST_01878,Plus,85,2025-01-04,,2026-01-04,0,paypal
+CUST_01879,Plus,85,2025-03-25,,2026-03-25,0,bank_transfer
+CUST_01880,Plus,85,2025-07-16,2025-10-05,,1,paypal
+CUST_01881,Advanced,200,2025-06-21,,2026-06-21,0,bank_transfer
+CUST_01882,Essentials,55,2026-02-15,,2027-02-15,0,paypal
+CUST_01883,Plus,85,2025-07-04,2026-07-31,,1,bank_transfer
+CUST_01884,Advanced,200,2025-12-02,,2026-12-02,0,paypal
+CUST_01885,Advanced,200,2024-09-08,2024-12-02,,1,paypal
+CUST_01886,Simple Start,30,2026-01-01,,2027-01-01,0,credit_card
+CUST_01887,Essentials,55,2026-03-15,,2027-03-15,0,paypal
+CUST_01888,Advanced,200,2024-12-10,,2025-12-10,0,paypal
+CUST_01889,Simple Start,30,2025-08-26,2026-05-08,,1,bank_transfer
+CUST_01890,Simple Start,30,2024-09-10,,2025-09-10,0,paypal
+CUST_01891,Advanced,200,2026-02-18,,2027-02-18,0,credit_card
+CUST_01892,Essentials,55,2025-04-20,,2026-04-20,0,credit_card
+CUST_01893,Plus,85,2024-12-14,2025-08-12,,1,credit_card
+CUST_01894,Advanced,200,2026-01-30,,2027-01-30,0,bank_transfer
+CUST_01895,Plus,85,2024-06-18,,2025-06-18,0,bank_transfer
+CUST_01896,Plus,85,2026-04-13,,2027-04-13,0,credit_card
+CUST_01897,Plus,85,2026-03-21,,2027-03-21,0,credit_card
+CUST_01898,Plus,85,2025-10-20,,2026-10-20,0,paypal
+CUST_01899,Plus,85,2025-11-30,,2026-11-30,0,credit_card
+CUST_01900,Essentials,55,2025-12-08,,2026-12-08,0,paypal
+CUST_01901,Plus,85,2026-02-19,,2027-02-19,0,bank_transfer
+CUST_01902,Essentials,55,2024-07-25,,2025-07-25,0,credit_card
+CUST_01903,Plus,85,2025-01-15,,2026-01-15,0,paypal
+CUST_01904,Essentials,55,2025-12-15,,2026-12-15,0,bank_transfer
+CUST_01905,Simple Start,30,2024-08-07,,2025-08-07,0,credit_card
+CUST_01906,Advanced,200,2025-04-23,,2026-04-23,0,bank_transfer
+CUST_01907,Essentials,55,2024-06-29,,2025-06-29,0,credit_card
+CUST_01908,Plus,85,2024-08-12,,2025-08-12,0,bank_transfer
+CUST_01909,Plus,85,2024-11-24,,2025-11-24,0,bank_transfer
+CUST_01910,Plus,85,2025-11-23,,2026-11-23,0,credit_card
+CUST_01911,Plus,85,2025-08-30,2026-01-04,,1,paypal
+CUST_01912,Plus,85,2026-01-19,,2027-01-19,0,paypal
+CUST_01913,Plus,85,2025-01-11,,2026-01-11,0,paypal
+CUST_01914,Essentials,55,2024-11-16,,2025-11-16,0,paypal
+CUST_01915,Simple Start,30,2025-03-18,2025-06-02,,1,paypal
+CUST_01916,Advanced,200,2026-02-14,,2027-02-14,0,credit_card
+CUST_01917,Plus,85,2026-04-08,,2027-04-08,0,bank_transfer
+CUST_01918,Essentials,55,2026-03-30,,2027-03-30,0,credit_card
+CUST_01919,Plus,85,2024-07-17,,2025-07-17,0,credit_card
+CUST_01920,Plus,85,2026-03-01,,2027-03-01,0,bank_transfer
+CUST_01921,Simple Start,30,2026-02-12,2026-06-01,,1,paypal
+CUST_01922,Plus,85,2025-06-14,2025-11-05,,1,paypal
+CUST_01923,Essentials,55,2025-12-04,2026-04-28,,1,bank_transfer
+CUST_01924,Essentials,55,2024-06-07,2024-12-05,,1,credit_card
+CUST_01925,Simple Start,30,2026-01-21,,2027-01-21,0,bank_transfer
+CUST_01926,Advanced,200,2025-09-16,,2026-09-16,0,paypal
+CUST_01927,Essentials,55,2024-08-10,,2025-08-10,0,paypal
+CUST_01928,Advanced,200,2026-01-02,,2027-01-02,0,bank_transfer
+CUST_01929,Plus,85,2025-01-19,,2026-01-19,0,bank_transfer
+CUST_01930,Plus,85,2024-08-28,,2025-08-28,0,bank_transfer
+CUST_01931,Essentials,55,2026-02-17,,2027-02-17,0,bank_transfer
+CUST_01932,Simple Start,30,2025-04-03,,2026-04-03,0,credit_card
+CUST_01933,Plus,85,2025-03-05,,2026-03-05,0,paypal
+CUST_01934,Essentials,55,2024-06-03,,2025-06-03,0,paypal
+CUST_01935,Essentials,55,2025-05-10,2026-02-23,,1,paypal
+CUST_01936,Advanced,200,2024-09-24,,2025-09-24,0,credit_card
+CUST_01937,Essentials,55,2025-08-26,,2026-08-26,0,paypal
+CUST_01938,Essentials,55,2025-02-26,,2026-02-26,0,paypal
+CUST_01939,Simple Start,30,2025-06-29,,2026-06-29,0,bank_transfer
+CUST_01940,Advanced,200,2025-06-04,,2026-06-04,0,credit_card
+CUST_01941,Essentials,55,2024-10-11,2025-06-27,,1,paypal
+CUST_01942,Simple Start,30,2025-03-09,,2026-03-09,0,bank_transfer
+CUST_01943,Essentials,55,2025-08-25,2026-03-24,,1,credit_card
+CUST_01944,Plus,85,2024-10-10,,2025-10-10,0,paypal
+CUST_01945,Simple Start,30,2024-09-07,,2025-09-07,0,bank_transfer
+CUST_01946,Advanced,200,2024-11-15,,2025-11-15,0,credit_card
+CUST_01947,Advanced,200,2025-02-27,,2026-02-27,0,bank_transfer
+CUST_01948,Plus,85,2025-05-15,,2026-05-15,0,paypal
+CUST_01949,Plus,85,2025-03-21,,2026-03-21,0,paypal
+CUST_01950,Advanced,200,2025-12-09,,2026-12-09,0,paypal
+CUST_01951,Plus,85,2025-07-23,,2026-07-23,0,paypal
+CUST_01952,Simple Start,30,2024-11-15,,2025-11-15,0,bank_transfer
+CUST_01953,Simple Start,30,2025-10-19,,2026-10-19,0,credit_card
+CUST_01954,Simple Start,30,2025-06-12,,2026-06-12,0,paypal
+CUST_01955,Essentials,55,2025-03-19,,2026-03-19,0,credit_card
+CUST_01956,Essentials,55,2025-07-25,,2026-07-25,0,credit_card
+CUST_01957,Advanced,200,2025-06-12,,2026-06-12,0,bank_transfer
+CUST_01958,Simple Start,30,2024-08-27,2025-04-20,,1,paypal
+CUST_01959,Advanced,200,2025-04-18,,2026-04-18,0,bank_transfer
+CUST_01960,Advanced,200,2024-06-20,,2025-06-20,0,bank_transfer
+CUST_01961,Essentials,55,2026-02-24,2026-09-23,,1,credit_card
+CUST_01962,Advanced,200,2024-12-22,,2025-12-22,0,bank_transfer
+CUST_01963,Simple Start,30,2025-04-20,2025-12-11,,1,credit_card
+CUST_01964,Essentials,55,2025-06-02,,2026-06-02,0,paypal
+CUST_01965,Simple Start,30,2024-09-09,2024-11-26,,1,paypal
+CUST_01966,Plus,85,2025-05-17,2026-04-22,,1,credit_card
+CUST_01967,Simple Start,30,2025-04-20,,2026-04-20,0,credit_card
+CUST_01968,Essentials,55,2025-02-17,2025-12-14,,1,credit_card
+CUST_01969,Simple Start,30,2024-08-12,2025-02-14,,1,credit_card
+CUST_01970,Plus,85,2024-10-22,,2025-10-22,0,credit_card
+CUST_01971,Essentials,55,2025-12-20,,2026-12-20,0,bank_transfer
+CUST_01972,Essentials,55,2025-10-13,,2026-10-13,0,bank_transfer
+CUST_01973,Simple Start,30,2024-05-19,,2025-05-19,0,credit_card
+CUST_01974,Plus,85,2024-07-15,,2025-07-15,0,bank_transfer
+CUST_01975,Essentials,55,2026-04-06,,2027-04-06,0,bank_transfer
+CUST_01976,Simple Start,30,2025-10-27,,2026-10-27,0,paypal
+CUST_01977,Simple Start,30,2024-08-07,,2025-08-07,0,bank_transfer
+CUST_01978,Plus,85,2025-05-09,2026-05-23,,1,credit_card
+CUST_01979,Essentials,55,2024-12-11,,2025-12-11,0,bank_transfer
+CUST_01980,Essentials,55,2024-06-19,,2025-06-19,0,paypal
+CUST_01981,Plus,85,2025-12-05,,2026-12-05,0,paypal
+CUST_01982,Advanced,200,2024-06-23,,2025-06-23,0,credit_card
+CUST_01983,Simple Start,30,2025-12-15,2026-07-20,,1,credit_card
+CUST_01984,Essentials,55,2024-11-30,,2025-11-30,0,bank_transfer
+CUST_01985,Essentials,55,2026-03-20,,2027-03-20,0,credit_card
+CUST_01986,Plus,85,2024-10-25,2025-07-27,,1,paypal
+CUST_01987,Simple Start,30,2024-12-24,,2025-12-24,0,credit_card
+CUST_01988,Plus,85,2026-01-29,,2027-01-29,0,paypal
+CUST_01989,Advanced,200,2025-08-28,,2026-08-28,0,paypal
+CUST_01990,Essentials,55,2026-02-22,,2027-02-22,0,credit_card
+CUST_01991,Advanced,200,2026-04-04,,2027-04-04,0,bank_transfer
+CUST_01992,Advanced,200,2025-08-26,,2026-08-26,0,bank_transfer
+CUST_01993,Simple Start,30,2026-02-05,,2027-02-05,0,bank_transfer
+CUST_01994,Simple Start,30,2025-04-12,2026-01-14,,1,paypal
+CUST_01995,Advanced,200,2025-05-11,,2026-05-11,0,bank_transfer
+CUST_01996,Simple Start,30,2025-06-30,,2026-06-30,0,credit_card
+CUST_01997,Essentials,55,2025-04-21,,2026-04-21,0,bank_transfer
+CUST_01998,Essentials,55,2024-08-24,,2025-08-24,0,paypal
+CUST_01999,Simple Start,30,2025-01-01,,2026-01-01,0,credit_card
+CUST_02000,Plus,85,2024-06-20,,2025-06-20,0,bank_transfer
