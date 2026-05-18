@@ -185,12 +185,12 @@ CUST_00183,Martinez-Rhodes,zhuang@blevins-ballard.com,NY,Freelance,2025-07-08,1,
 CUST_00184,Roberts Ltd,reedscott@burgess-lewis.net,WA,Construction,2025-05-29,6,4903527.62
 CUST_00185,Fitzpatrick-Horton,danielyang@sanchez.net,FL,Construction,2026-02-24,3,1176041.66
 CUST_00186,Little Inc,gutierrezjennifer@maldonado.com,WA,Retail,2024-10-05,7,3554691.5
-CUST_00187,"Spence, Moore and Delgado",mwoods@morris-brewer.com,WA,Retail,2024-08-24,6,4872759.91
+CUST_00187,"Spence, Moore and Delgado",mwoods@morris-brewer.com,WA,Retail,2024-08-25,6,4872759.91
 CUST_00188,"Andrews, Nichols and Sharp",gentrygregory@peck.biz,WA,Consulting,2025-07-22,4,3207454.79
 CUST_00189,Lopez-Curry,nancy04@morrison.info,CO,Restaurant,2025-12-24,2,4369962.69
 CUST_00190,"Daniels, Snyder and Mays",znelson@rivera.info,WA,E-commerce,2025-08-07,1,2419635.33
 CUST_00191,"Scott, Lopez and Doyle",ashley32@chase.net,NY,Retail,2025-02-07,3,1299768.03
-CUST_00192,Miller-Caldwell,tinawoods@smith.com,CO,Restaurant,2026-03-18,8,4119472.44
+CUST_00192,Miller-Caldwell,tinawoods@smith.com,CO,Restaurant,2026-03-19,8,4119472.44
 CUST_00193,Molina-Finley,brandi90@valdez-schwartz.com,CO,Restaurant,2025-03-25,5,2906254.72
 CUST_00194,"Wilson, Parker and Sullivan",hannah45@walker.info,CA,Consulting,2025-11-02,1,788528.04
 CUST_00195,"Zhang, Brooks and Miles",ztodd@petersen.org,WA,Restaurant,2025-07-29,5,4969894.71
@@ -489,7 +489,7 @@ CUST_00487,Marshall Inc,pricejoseph@ward.biz,CO,Freelance,2025-05-29,2,1733953.2
 CUST_00488,Whitney PLC,mckeetodd@schmidt.info,IL,Healthcare,2024-09-07,1,3684288.79
 CUST_00489,"House, Smith and Wright",matthew62@reed.com,IL,Legal,2026-03-18,17,697292.45
 CUST_00490,"Turner, Ferrell and Irwin",lisa46@raymond.com,AZ,Restaurant,2025-03-02,9,1629623.64
-CUST_00491,Peterson Group,christopherreyes@salazar.com,TX,Construction,2025-05-15,4,2275500.26
+CUST_00491,Peterson Group,christopherreyes@salazar.com,TX,Construction,2025-05-16,4,2275500.26
 CUST_00492,"Hernandez, Waller and Browning",shane23@taylor.com,TX,Retail,2024-09-05,14,1486549.42
 CUST_00493,Barker-Roach,russellstout@douglas.com,NC,Legal,2025-03-13,4,1278937.89
 CUST_00494,Jones-Patel,whitemary@acosta.biz,NY,Healthcare,2026-03-21,2,4672070.1
@@ -566,7 +566,7 @@ CUST_00564,Mendez Inc,gbaldwin@jones.com,WA,Healthcare,2025-12-25,3,1544631.91
 CUST_00565,Smith-Jimenez,fitzpatrickelizabeth@hernandez-rivera.biz,NC,Retail,2025-12-01,11,1344688.1
 CUST_00566,"Smith, Zimmerman and Wise",ugraham@fernandez.biz,FL,Retail,2025-02-21,3,3355541.27
 CUST_00567,"Meyers, Olson and Bradley",mathew46@chen.com,WA,Consulting,2025-05-15,1,2056812.23
-CUST_00568,Nichols-Woodward,randallkathleen@holland-thompson.com,WA,Restaurant,2025-06-12,2,3211621.06
+CUST_00568,Nichols-Woodward,randallkathleen@holland-thompson.com,WA,Restaurant,2025-06-13,2,3211621.06
 CUST_00569,Guerrero-Evans,omosley@howard.com,IL,Freelance,2025-01-02,1,1134686.57
 CUST_00570,Johnson Inc,tracybrown@schneider.info,CO,Consulting,2024-08-30,3,2302144.43
 CUST_00571,Johnson Inc,kristin06@lewis.net,IL,Legal,2025-09-01,4,3524606.6
@@ -584,7 +584,7 @@ CUST_00582,"Livingston, Brown and Diaz",ryancook@williams-yang.net,FL,Restaurant
 CUST_00583,Moore Inc,erobertson@griffith.org,TX,Retail,2025-02-10,7,4676184.85
 CUST_00584,Barnes-Burgess,jerry15@garcia.biz,CO,Retail,2024-07-11,27,1471099.0
 CUST_00585,Bennett and Sons,ruiztodd@thomas-reilly.info,NY,Legal,2024-10-05,5,1903581.56
-CUST_00586,Hughes and Sons,ocortez@cantrell-harris.com,GA,E-commerce,2026-04-10,5,4354620.41
+CUST_00586,Hughes and Sons,ocortez@cantrell-harris.com,GA,E-commerce,2026-04-11,5,4354620.41
 CUST_00587,Schwartz Inc,derek77@jackson-cooper.com,GA,Restaurant,2025-03-07,3,3429515.25
 CUST_00588,"Moore, Norton and Cisneros",belindatran@miller.info,AZ,Consulting,2025-10-14,2,3284993.79
 CUST_00589,Vargas Group,alexis63@murphy.com,TX,Consulting,2025-02-12,8,4964591.54
@@ -684,7 +684,7 @@ CUST_00682,Bailey and Sons,henry28@elliott-alvarado.com,NC,Legal,2025-01-31,1,40
 CUST_00683,"Bolton, Smith and Wang",robertjones@rhodes-clay.com,CO,Healthcare,2025-01-29,2,2181550.29
 CUST_00684,Maldonado-Becker,gbrooks@hernandez-miller.info,NC,Consulting,2026-02-17,6,1537154.66
 CUST_00685,Fuller-Adams,riverabradley@tapia.org,FL,E-commerce,2025-08-30,1,1605207.24
-CUST_00686,Lewis Inc,marcus01@crane.com,IL,Construction,2025-03-23,7,3687628.11
+CUST_00686,Lewis Inc,marcus01@crane.com,IL,Construction,2025-03-24,7,3687628.11
 CUST_00687,Hanna Group,smithjared@chan-mitchell.com,CO,Freelance,2025-09-22,3,1663136.88
 CUST_00688,Evans Group,rebecca92@wade-collier.net,GA,Healthcare,2024-12-22,3,613744.73
 CUST_00689,Burns Group,madams@davis-henderson.com,FL,Consulting,2025-07-30,7,3424477.53
@@ -827,7 +827,7 @@ CUST_00825,Davis Ltd,pwarren@quinn-jackson.com,GA,Construction,2025-10-11,3,5645
 CUST_00826,Padilla and Sons,hwhite@bradley-lewis.com,FL,Legal,2025-07-04,14,2485542.94
 CUST_00827,Brady and Sons,tonya67@durham.com,NY,Construction,2024-07-04,15,510481.86
 CUST_00828,Miller-Martinez,petersonbrenda@washington-hodges.com,AZ,Legal,2024-11-14,2,3519192.2
-CUST_00829,Adams Inc,davisalexa@bennett.com,CO,Restaurant,2025-03-03,3,2924814.61
+CUST_00829,Adams Inc,davisalexa@bennett.com,CO,Restaurant,2025-03-04,3,2924814.61
 CUST_00830,Kennedy-Rogers,rrogers@key-montoya.com,NY,Legal,2025-06-15,3,420410.9
 CUST_00831,"Ross, Bishop and Hester",linda07@morales.com,CA,Legal,2025-08-02,1,3329097.44
 CUST_00832,"Martinez, Schmidt and Tapia",miguelmontgomery@kane.com,FL,Construction,2024-08-28,2,1341905.15
@@ -839,7 +839,7 @@ CUST_00837,Robinson-Scott,qlynn@wade.info,AZ,Healthcare,2024-08-20,15,4824941.88
 CUST_00838,Pope LLC,sarahmiranda@brown.biz,CO,Construction,2024-10-26,2,2343565.65
 CUST_00839,"May, Hoffman and Chase",jeffreywilson@rodriguez.org,TX,Restaurant,2026-03-11,9,830196.12
 CUST_00840,Garner Inc,david56@mclaughlin.com,WA,Retail,2025-11-02,3,1114352.91
-CUST_00841,Whitney-Flores,lauren28@guzman.net,IL,Consulting,2026-03-14,4,501503.87
+CUST_00841,Whitney-Flores,lauren28@guzman.net,IL,Consulting,2026-03-15,4,501503.87
 CUST_00842,Stewart-Cabrera,mary77@guzman.com,IL,Legal,2024-11-27,7,2591625.39
 CUST_00843,"Flores, Shaw and Barker",wendy97@poole.biz,WA,Construction,2025-10-26,1,4109443.6
 CUST_00844,Zavala LLC,mariaclark@michael.com,CA,Legal,2024-09-30,6,4280276.46
@@ -944,7 +944,7 @@ CUST_00942,King-Thompson,chadsullivan@russo-hayes.biz,NC,Restaurant,2025-04-07,9
 CUST_00943,"Lewis, Orozco and White",davisrachel@richmond-phillips.com,GA,E-commerce,2024-10-29,7,3809491.81
 CUST_00944,Mcmahon-Olson,tammykim@hudson.org,IL,Retail,2026-03-23,4,2600585.03
 CUST_00945,Miller Ltd,mariodowns@newton.com,TX,Construction,2024-09-19,19,3562368.52
-CUST_00946,Peck-Porter,daniel64@bowen.com,NY,Retail,2025-03-27,1,909999.91
+CUST_00946,Peck-Porter,daniel64@bowen.com,NY,Retail,2025-03-28,1,909999.91
 CUST_00947,"Cole, Montes and Davis",julielopez@payne.com,FL,Retail,2026-03-29,1,1284976.79
 CUST_00948,Farley Ltd,woodmichael@mosley-shaw.com,CA,Healthcare,2025-05-08,2,3537938.03
 CUST_00949,"Porter, Duarte and Gutierrez",michael86@dickson.info,IL,E-commerce,2024-12-17,4,2550375.56
@@ -964,7 +964,7 @@ CUST_00962,Thomas LLC,christophersnyder@durham-clark.com,AZ,Healthcare,2024-05-2
 CUST_00963,Pope-Gutierrez,echung@mcdaniel.com,NC,Construction,2025-08-22,5,1527455.83
 CUST_00964,"Odonnell, Stokes and White",bergerdonna@obrien.com,CO,Restaurant,2024-08-10,7,1714604.09
 CUST_00965,Cooley-Greene,moorejudy@lee.net,IL,Construction,2024-12-19,4,1342677.19
-CUST_00966,Holmes and Sons,michellewilson@johnson.com,WA,Freelance,2025-11-21,14,792150.02
+CUST_00966,Holmes and Sons,michellewilson@johnson.com,WA,Freelance,2025-11-22,14,792150.02
 CUST_00967,Luna and Sons,joshua31@erickson-pearson.info,FL,Retail,2026-01-03,2,4036877.62
 CUST_00968,"Lamb, Graham and Potts",johngonzalez@campbell.org,NC,Legal,2026-01-31,18,3319625.1
 CUST_00969,Martin-Harris,chamilton@carlson-nelson.com,NY,Retail,2025-10-29,4,3294232.82
@@ -1047,7 +1047,7 @@ CUST_01045,Chapman-Evans,brownmelissa@simpson-roy.biz,AZ,Freelance,2024-06-26,3,
 CUST_01046,Williams-Harris,donnapatel@torres.com,GA,Freelance,2025-03-08,9,440211.45
 CUST_01047,"Webster, Rogers and Clayton",lisa93@peterson.biz,NC,E-commerce,2025-04-28,7,485698.32
 CUST_01048,Patton-Mcfarland,aguirreangela@randolph.net,CO,Healthcare,2025-06-09,1,637598.92
-CUST_01049,Coleman-Ball,francisco67@riddle.com,CA,Restaurant,2025-06-08,14,2047026.31
+CUST_01049,Coleman-Ball,francisco67@riddle.com,CA,Restaurant,2025-06-09,14,2047026.31
 CUST_01050,"Tapia, Miller and Wright",matthew60@hill.org,AZ,Retail,2024-06-15,13,4138248.35
 CUST_01051,Martinez PLC,mary27@smith-smith.com,NC,Construction,2026-01-23,2,4456048.95
 CUST_01052,Castillo-Richard,rickyriley@hill.net,FL,E-commerce,2025-07-29,6,4754257.89
@@ -1133,7 +1133,7 @@ CUST_01131,Fisher LLC,kwatkins@jackson.net,AZ,Consulting,2025-10-02,5,846724.07
 CUST_01132,Lynn PLC,davidcook@waller.com,NC,Construction,2024-11-06,6,1011914.77
 CUST_01133,Ellis-Martin,hopkinsjames@turner.com,NC,Retail,2024-10-06,16,4264369.23
 CUST_01134,Hodge Group,ramseyeric@singleton.com,CO,Restaurant,2025-07-18,6,1488730.7
-CUST_01135,Ruiz Ltd,ehale@bennett.com,WA,Restaurant,2024-07-09,3,1027217.08
+CUST_01135,Ruiz Ltd,ehale@bennett.com,WA,Restaurant,2024-07-10,3,1027217.08
 CUST_01136,Anderson-Hines,ricardomurphy@weiss-cross.biz,CO,Healthcare,2025-08-12,9,1817834.88
 CUST_01137,"Long, Jones and Freeman",walkercharlotte@wood.net,FL,Restaurant,2025-10-22,11,1461428.86
 CUST_01138,Bishop Group,brewerdevin@williams.biz,FL,Healthcare,2024-07-11,1,2455013.09
@@ -1292,7 +1292,7 @@ CUST_01290,Gill Inc,smithmadison@pineda-newman.com,AZ,Construction,2025-09-27,1,
 CUST_01291,"Jensen, Cole and Adkins",wsalazar@gibson.net,AZ,Freelance,2025-05-27,6,4033303.44
 CUST_01292,Walker-Mitchell,sylviaprice@macias-richardson.com,WA,Healthcare,2025-04-26,32,2090408.84
 CUST_01293,Trujillo-Thomas,ijenkins@archer.com,WA,Retail,2024-09-16,4,50457.11
-CUST_01294,Mcmahon Group,cmurray@farley-ford.com,NY,Healthcare,2026-02-10,8,1469473.13
+CUST_01294,Mcmahon Group,cmurray@farley-ford.com,NY,Healthcare,2026-02-11,8,1469473.13
 CUST_01295,Ortega-Anderson,johnmarquez@lee.org,CA,E-commerce,2025-07-08,4,4737439.68
 CUST_01296,Mccullough-Kelley,tbrooks@long.com,WA,Retail,2025-05-24,4,3841052.56
 CUST_01297,"Pearson, Evans and Wall",nwilliams@arnold-moore.biz,WA,Freelance,2026-01-28,9,3993998.55
@@ -1378,7 +1378,7 @@ CUST_01376,"Norman, Walls and Wallace",steventerry@solis-nichols.com,WA,Restaura
 CUST_01377,Richards-Wolfe,cthompson@nash-williams.org,FL,Restaurant,2025-08-03,2,3631723.61
 CUST_01378,Simmons-Mcdaniel,gonzaleztodd@hughes.com,CO,Consulting,2026-01-24,10,2466968.17
 CUST_01379,Williams-White,michelle97@reeves.com,NC,Restaurant,2026-04-16,2,2996394.45
-CUST_01380,Martin and Sons,kimmichael@jordan.com,CA,Legal,2025-01-06,19,438463.11
+CUST_01380,Martin and Sons,kimmichael@jordan.com,CA,Legal,2025-01-07,19,438463.11
 CUST_01381,"Stephens, Barnes and Johnson",bgrant@brown.com,IL,Healthcare,2024-07-01,7,4404972.89
 CUST_01382,Morales-Calhoun,davidmartin@lopez.net,GA,Restaurant,2025-04-21,3,4355443.24
 CUST_01383,Grant-Woods,brandiwilson@hall.com,NC,Retail,2024-11-10,25,3187741.16
@@ -1556,7 +1556,7 @@ CUST_01554,May and Sons,kylehahn@perez.org,TX,Restaurant,2025-03-29,2,3443267.98
 CUST_01555,Santos-Roach,dianehoffman@huff.com,GA,Healthcare,2025-08-24,3,2496760.98
 CUST_01556,Choi-Clay,jarvisrachel@bishop.com,CA,Restaurant,2025-10-13,6,1127178.28
 CUST_01557,Garza-Howard,ryanadams@reyes.com,NC,Retail,2024-09-03,9,3797534.7
-CUST_01558,Smith Group,rgarcia@miranda.com,NY,E-commerce,2025-10-13,2,2679716.31
+CUST_01558,Smith Group,rgarcia@miranda.com,NY,E-commerce,2025-10-14,2,2679716.31
 CUST_01559,"Rogers, Bradshaw and Wilson",kimberlyross@allen.net,NC,E-commerce,2025-03-17,14,1018549.77
 CUST_01560,Garrett-Williams,wallfrank@smith.net,IL,Construction,2025-10-30,3,2872868.22
 CUST_01561,Burke-Solomon,dbrown@bass.net,WA,Legal,2025-10-28,4,3603066.55
@@ -1617,7 +1617,7 @@ CUST_01615,Stone-Miller,lthompson@castillo-flores.com,FL,Healthcare,2025-08-18,3
 CUST_01616,"Burton, Webb and Gray",nguyenchristine@velasquez.biz,IL,Retail,2024-10-05,57,3380369.21
 CUST_01617,"Spencer, Blair and Long",jenniferhorne@harrison.com,TX,Retail,2026-02-23,5,2085681.39
 CUST_01618,Cobb-Chandler,suehowe@white-moore.org,TX,E-commerce,2025-06-30,2,1790006.28
-CUST_01619,"Lewis, Jenkins and Jackson",oconnorlauren@nash.net,WA,Construction,2025-12-02,3,1005743.68
+CUST_01619,"Lewis, Jenkins and Jackson",oconnorlauren@nash.net,WA,Construction,2025-12-03,3,1005743.68
 CUST_01620,"Thomas, Mosley and Nguyen",jacqueline39@harris.biz,NC,Restaurant,2024-06-06,11,331565.46
 CUST_01621,Burns Ltd,fmclaughlin@martin.com,FL,Restaurant,2025-08-23,4,3554971.77
 CUST_01622,Mcmahon PLC,jose49@carr-hardy.com,TX,Consulting,2024-08-19,1,1910994.28
@@ -1734,7 +1734,7 @@ CUST_01732,"Hansen, Salas and James",tiffany80@richardson.info,WA,Restaurant,202
 CUST_01733,Rogers-Edwards,murraystephen@davis.biz,TX,Consulting,2024-12-19,4,2506827.24
 CUST_01734,"Lopez, Jones and Weaver",juanfranklin@powell.com,FL,Retail,2026-03-29,3,1501188.74
 CUST_01735,Morrison Group,william17@shepherd.com,AZ,Consulting,2025-10-30,8,2395829.34
-CUST_01736,Hendricks-Garcia,erin57@flores.com,CO,Retail,2025-04-09,1,1493008.15
+CUST_01736,Hendricks-Garcia,erin57@flores.com,CO,Retail,2025-04-10,1,1493008.15
 CUST_01737,Kirk and Sons,meganrichardson@page.com,CA,Freelance,2024-07-06,1,4182990.22
 CUST_01738,Chen and Sons,robert07@lewis.com,IL,Legal,2025-06-26,1,2914587.8
 CUST_01739,Braun-Gordon,paige40@davis.net,IL,E-commerce,2025-10-10,9,2987118.41
@@ -1781,7 +1781,7 @@ CUST_01779,Nichols LLC,crossnicole@brady.com,NY,Construction,2024-05-20,3,153583
 CUST_01780,Hawkins-Williams,christensenkendra@mendoza.org,CO,Restaurant,2025-09-28,2,3286374.21
 CUST_01781,Jones Group,williamperkins@lara.com,WA,Legal,2026-04-12,1,937892.92
 CUST_01782,Cline-Sandoval,garywebster@smith.net,FL,Retail,2025-11-03,4,640805.58
-CUST_01783,Gilbert PLC,colleenroberson@taylor.com,CO,Restaurant,2024-12-19,1,3014512.05
+CUST_01783,Gilbert PLC,colleenroberson@taylor.com,CO,Restaurant,2024-12-20,1,3014512.05
 CUST_01784,Davis-Ramirez,diana28@rodriguez.com,NC,E-commerce,2025-02-23,8,2849594.22
 CUST_01785,"Morrison, Gonzalez and Smith",jillnavarro@johnson.com,WA,E-commerce,2026-03-24,4,4872580.8
 CUST_01786,Giles-Dominguez,melissaanderson@jimenez-jefferson.com,TX,Healthcare,2026-02-13,1,2587003.05
