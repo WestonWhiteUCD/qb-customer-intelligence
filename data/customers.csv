@@ -287,7 +287,7 @@ CUST_00285,Smith-Sandoval,dalton83@vasquez-brown.com,CA,Healthcare,2025-05-23,24
 CUST_00286,"Ramirez, Williams and Hall",xhaynes@villegas-miller.com,TX,E-commerce,2024-11-10,1,4551468.81
 CUST_00287,"Anderson, Wilkins and Jones",grahamtamara@carter.biz,GA,Restaurant,2025-01-12,3,741896.21
 CUST_00288,"Decker, Nguyen and Chavez",charlesharris@rodriguez.com,WA,E-commerce,2024-06-20,7,624796.38
-CUST_00289,Martinez-Howard,shannonford@davis.com,AZ,Consulting,2024-11-20,5,1973796.86
+CUST_00289,Martinez-Howard,shannonford@davis.com,AZ,Consulting,2024-11-21,5,1973796.86
 CUST_00290,"Terry, Williams and Huff",eddie35@palmer-byrd.com,AZ,Legal,2025-03-06,2,2957334.71
 CUST_00291,Johnson Group,jhawkins@davis.com,NY,Legal,2025-12-07,3,3291863.39
 CUST_00292,Smith and Sons,jamesmorales@mccoy.com,CO,Legal,2026-03-01,3,4698312.68
@@ -506,7 +506,7 @@ CUST_00504,Davis-Nguyen,jennifermartinez@mccarthy.com,TX,Legal,2025-01-01,7,2546
 CUST_00505,Mills Group,nicholasjames@barr.com,AZ,Construction,2026-01-06,2,4135291.02
 CUST_00506,Melton and Sons,barneskyle@roberts-white.com,NC,Restaurant,2025-09-18,3,686883.78
 CUST_00507,Smith LLC,ellismelissa@aguirre.com,GA,Healthcare,2024-08-05,2,3984741.28
-CUST_00508,"Keller, Chavez and Ramos",sanchezamy@fuller.com,AZ,Healthcare,2025-02-09,2,3787077.6
+CUST_00508,"Keller, Chavez and Ramos",sanchezamy@fuller.com,AZ,Healthcare,2025-02-10,2,3787077.6
 CUST_00509,Brown LLC,thomasantonio@massey.com,NC,Legal,2024-10-24,4,2525385.62
 CUST_00510,Butler and Sons,emilycarr@graves.info,CA,Consulting,2024-06-26,2,3582279.64
 CUST_00511,"Riley, Huynh and Davis",marcus61@bridges-brown.info,CO,E-commerce,2026-02-06,5,787256.29
@@ -739,7 +739,7 @@ CUST_00737,"Jackson, Thomas and Scott",moorestephanie@jackson.com,AZ,Healthcare,
 CUST_00738,"Brown, Price and Flores",qorozco@david-lam.com,CA,E-commerce,2025-12-31,9,2754448.71
 CUST_00739,Allen PLC,trevorgoodwin@avery-adams.com,TX,Freelance,2025-04-17,16,1523659.23
 CUST_00740,Tran-Jones,russelljesus@adams.com,CO,Construction,2024-06-16,10,1775456.04
-CUST_00741,Hines Ltd,kevinrussell@mathis.com,TX,E-commerce,2026-02-15,1,4333187.83
+CUST_00741,Hines Ltd,kevinrussell@mathis.com,TX,E-commerce,2026-02-16,1,4333187.83
 CUST_00742,Brooks and Sons,amandahenderson@hayes.org,FL,Freelance,2024-08-21,1,4062978.45
 CUST_00743,Delgado-Jackson,mahoneytimothy@king.com,IL,Legal,2025-08-22,2,871609.01
 CUST_00744,"Pittman, Campbell and Martin",turnerrandall@rivas.net,FL,Freelance,2024-09-07,4,4036930.44
@@ -1566,7 +1566,7 @@ CUST_01564,Wiggins Group,dsims@richardson.info,IL,Retail,2024-07-10,9,54174.4
 CUST_01565,Ramos-Campbell,brianhahn@barber.com,IL,Restaurant,2025-07-31,8,4313176.81
 CUST_01566,"Taylor, Smith and Lindsey",ehardy@leblanc-hendrix.org,CA,Freelance,2026-03-26,3,2186991.73
 CUST_01567,"Randolph, Jones and Strickland",sandersalexandria@baker.info,GA,Healthcare,2025-08-24,4,3573279.58
-CUST_01568,Davis and Sons,michael23@moon-morales.info,GA,Legal,2025-04-02,6,2748338.0
+CUST_01568,Davis and Sons,michael23@moon-morales.info,GA,Legal,2025-04-03,6,2748338.0
 CUST_01569,"Ho, Marshall and Harris",erikamiller@smith.com,NY,E-commerce,2025-10-19,1,738390.89
 CUST_01570,Young-Palmer,david78@bray.info,GA,Healthcare,2025-07-28,2,4207815.3
 CUST_01571,Vance PLC,kurt90@ali.com,WA,Consulting,2024-09-19,8,714673.37
@@ -1967,7 +1967,7 @@ CUST_01965,"Brown, Schmidt and Mckenzie",foleyjennifer@campbell.com,CA,Freelance
 CUST_01966,Lewis-Murray,vjones@pope.biz,WA,Consulting,2025-05-22,4,3544516.17
 CUST_01967,Herman Inc,hannahhicks@morales.org,TX,E-commerce,2025-04-26,3,251918.96
 CUST_01968,Bush Ltd,amy61@chen-carter.com,AZ,E-commerce,2025-02-23,3,2315910.54
-CUST_01969,Curtis Group,fallen@lopez.com,NY,Restaurant,2024-08-17,3,1780541.29
+CUST_01969,Curtis Group,fallen@lopez.com,NY,Restaurant,2024-08-18,3,1780541.29
 CUST_01970,Roberts-Long,kellermary@ruiz.info,WA,Consulting,2024-10-27,11,4183020.61
 CUST_01971,Wyatt PLC,pbarajas@ortiz-cooper.com,AZ,Construction,2025-12-26,7,2838074.58
 CUST_01972,Thompson-Miller,jonathan61@barry.info,NC,Freelance,2025-10-19,1,2938559.59
