@@ -1,6 +1,7 @@
 # QuickBooks Customer Intelligence Pipeline
 
-An end-to-end machine learning project built on mock QuickBooks customer data across 2,000 accounts and 57,000+ transactions.
+An end-to-end machine learning project simulating the work of a Senior AI Scientist 
+at Intuit — built on mock QuickBooks customer data across 2,000 accounts and 57,000+ transactions.
 
 ## Project Overview
 
@@ -52,22 +53,22 @@ This project demonstrates the full ML workflow from raw data to deployable insig
 
 ## Project Structure
 
-qb-customer-intelligence/
-├── data/
-│   ├── generate_mock_data.py   # Generates all mock CSV files
-│   ├── customers.csv
-│   ├── subscriptions.csv
-│   ├── transactions.csv
-│   └── support_tickets.csv
-├── db/
-│   ├── setup_db.py             # Loads CSVs into SQLite
-│   └── qb_customers.db
-├── notebooks/
-│   ├── 01_ETL_QB.ipynb         # Data generation and database setup
-│   ├── 02_Segmentation_QB.ipynb # K-Means customer segmentation
-│   └── 03_Churn_Prediction_QB.ipynb # Churn prediction models
-├── reports/                    # Output reports and visualizations
-└── requirements.txt
+    qb-customer-intelligence/
+    ├── data/
+    │   ├── generate_mock_data.py   
+    │   ├── customers.csv
+    │   ├── subscriptions.csv
+    │   ├── transactions.csv
+    │   └── support_tickets.csv
+    ├── db/
+    │   ├── setup_db.py             
+    │   └── qb_customers.db
+    ├── notebooks/
+    │   ├── 01_ETL_QB.ipynb         
+    │   ├── 02_Segmentation_QB.ipynb
+    │   └── 03_Churn_Prediction_QB.ipynb
+    ├── reports/                    
+    └── requirements.txt
 
 ## How to Run
 
@@ -79,7 +80,7 @@ qb-customer-intelligence/
 
 Built to mirror real-world problems faced by Intuit's AI team:
 - Identifying at-risk customers before they cancel
-- Segmenting customers for targeted retention campaigns  
+- Segmenting customers for targeted retention campaigns
 - Detecting fraudulent transactions automatically
 - Extracting insight from unstructured support ticket text
 
